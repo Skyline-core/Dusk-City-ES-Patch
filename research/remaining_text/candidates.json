@@ -1,0 +1,4572 @@
+[
+  {
+    "category": "mono_behaviour",
+    "class": "BallHitChecer",
+    "field": "targetTagName",
+    "text": "Ball",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/3a7b609e999f6d3fdc182498460fe62d.bundle",
+        "path_id": 212,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/8f263e6a739561332024c144fe812ae4.bundle",
+        "path_id": 212,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "Dieselmine.Utilities.GameVariable.IntVariableTable",
+    "field": "table[24].description",
+    "text": "0=on 1=off",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 4156344229994596191,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "DronePawn",
+    "field": "name",
+    "text": "Player",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/6335e0f90c7b10563594b702d40fda28.bundle",
+        "path_id": 448,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "MonoBehaviour",
+    "field": "m_text",
+    "text": "Button",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/30eff56e84e82f5f6b45330a694c6684.bundle",
+        "path_id": 5308,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/48a56f995f48713589a803e7a2186721.bundle",
+        "path_id": 8913,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/5175f5673b567866f2a589799cdcfeee.bundle",
+        "path_id": 8767,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/5d5cc509e1255be9543141a47b24d03f.bundle",
+        "path_id": 8913,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -9024581880109241101,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -8677139467580969741,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -8509138854657626893,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -8206775372973183757,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -7968237297673868045,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -6333276061074035469,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -5839458975149560589,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -3599021957803512589,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -3525235475766892568,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -3486781388888904461,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -3422015906054116109,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -2678075339980378893,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -1810093756003226381,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 2488883448901597654,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 3520011423598341363,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 4185601754418867443,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 5075104789714857203,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/96d5a109a8d904d41f87e572595f9c61.bundle",
+        "path_id": 8767,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/a836dedb140c637ac82984604faaa40b.bundle",
+        "path_id": 8759,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/a71ee59e8342f89f8b2b9389f1c3e8d9.bundle",
+        "path_id": 8767,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/d684721adc40149314dd0ad786407fff.bundle",
+        "path_id": 8767,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "MonoBehaviour",
+    "field": "m_text",
+    "text": "Item description is here\nsecond line\nthird line\nfourth line\nfinal line",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -8975525272463184653,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 5114552216425032947,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "MonoBehaviour",
+    "field": "m_text",
+    "text": "ItemNameaaaaaaaaaa",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 1597369098355371251,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "MonoBehaviour",
+    "field": "m_text",
+    "text": "Lv.1",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 2770352030102613235,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "MonoBehaviour",
+    "field": "m_text",
+    "text": "XX",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -8286312737562596109,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -8053904877767660301,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -7478892613406331661,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -6496651732066013965,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -5206842621516092173,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -4680785371392873229,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -4104977581253301005,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -2273541296274510605,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -1251282148840542989,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 1545215313736461555,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 6116258865892977907,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 8996061544926375155,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 9168142808240778483,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "MonoBehaviour",
+    "field": "m_text",
+    "text": "XXXX",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -5925386279062115085,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -4007976575702831885,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "ObjectSwitcher",
+    "field": "targetTag",
+    "text": "Player",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/6335e0f90c7b10563594b702d40fda28.bundle",
+        "path_id": 393,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/6335e0f90c7b10563594b702d40fda28.bundle",
+        "path_id": 408,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Bucephalus ",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/80f9dee2b4c99aa9b2d239d9477c5872.bundle",
+        "path_id": 79,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Central residential area ",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/00876823e433c8400ecb7f3f8327b52a.bundle",
+        "path_id": 2266,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/00876823e433c8400ecb7f3f8327b52a.bundle",
+        "path_id": 2268,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Eastern ruins ",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/00876823e433c8400ecb7f3f8327b52a.bundle",
+        "path_id": 2267,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Exit",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/01dee441eec8ca0573bf4087527ac5d2.bundle",
+        "path_id": 374,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/1054e94705b7a1a4bc374a0438bf043b.bundle",
+        "path_id": 643,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/1054e94705b7a1a4bc374a0438bf043b.bundle",
+        "path_id": 644,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/1fa2644df97e2fd80cefa1d96d366e36.bundle",
+        "path_id": 483,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/43cb8d7247b8473365eeb49f88735e5a.bundle",
+        "path_id": 375,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/45f533a5ae0385377f09fba0556a3b0a.bundle",
+        "path_id": 616,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/4c8ea3bc5d641b4b0ce907e097d7f1e6.bundle",
+        "path_id": 192,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/694de5f80249687003cfb12ba7febc5d.bundle",
+        "path_id": 388,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/6f4a2e05ffc298287428df9f6d43ba2f.bundle",
+        "path_id": 357,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/9a19a6c26c54a086aad3f86cca863664.bundle",
+        "path_id": 375,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/ab5f5ef4aa2817174c825b43affc94ed.bundle",
+        "path_id": 375,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/cf59504e15725a2e683a88a916139751.bundle",
+        "path_id": 378,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/db7eb9e7ca97a3dd47e1ebd36ad6edb7.bundle",
+        "path_id": 375,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/e1262c30087b1c83bb2a077ac05884b0.bundle",
+        "path_id": 372,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/ec27bbfc5dbc2f49f59e13f913fafebb.bundle",
+        "path_id": 452,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Go to 2F",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/ac90ace6b3826db1f339a2743c614847.bundle",
+        "path_id": 5876,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/ac90ace6b3826db1f339a2743c614847.bundle",
+        "path_id": 5881,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Go to 3F",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/ac90ace6b3826db1f339a2743c614847.bundle",
+        "path_id": 5889,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Go to 3F ",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/ac90ace6b3826db1f339a2743c614847.bundle",
+        "path_id": 5887,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Go to 4F",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/ac90ace6b3826db1f339a2743c614847.bundle",
+        "path_id": 5873,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/ac90ace6b3826db1f339a2743c614847.bundle",
+        "path_id": 5880,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Go to 5F",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/ac90ace6b3826db1f339a2743c614847.bundle",
+        "path_id": 5885,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Jubian",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/e04ddcc8b08478eec58b9865e8dc6f12.bundle",
+        "path_id": 135,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Junkshop",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/ac90ace6b3826db1f339a2743c614847.bundle",
+        "path_id": 5845,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Northern ruins",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/5241baca35e5a78602e93cb840237be5.bundle",
+        "path_id": 360,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Outside（East）",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b877bf7de6a1d0eb8616109a109c296a.bundle",
+        "path_id": 101,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b877bf7de6a1d0eb8616109a109c296a.bundle",
+        "path_id": 112,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Outside（West）",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b877bf7de6a1d0eb8616109a109c296a.bundle",
+        "path_id": 104,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b877bf7de6a1d0eb8616109a109c296a.bundle",
+        "path_id": 113,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Residential area south ruins ",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/a4657fa2d7923a93b51afc1a2f77b66f.bundle",
+        "path_id": 78,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Return to gorund",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/def1a17e58883b19e66f017c40742130.bundle",
+        "path_id": 5398,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "South residential area ",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/02d96c57e8004b1bc067afcb941a6f36.bundle",
+        "path_id": 312,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/30eff56e84e82f5f6b45330a694c6684.bundle",
+        "path_id": 5479,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Southern ruins ",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/02d96c57e8004b1bc067afcb941a6f36.bundle",
+        "path_id": 313,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Tips",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/3a7b609e999f6d3fdc182498460fe62d.bundle",
+        "path_id": 141,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/2369d7d122eb7d9b7bc796c031348482.bundle",
+        "path_id": 6177,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/2efbf0848df62ff51a8b1a1c3c01606e.bundle",
+        "path_id": 6177,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/8f263e6a739561332024c144fe812ae4.bundle",
+        "path_id": 141,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/d0d606771003035bc279f83e48863a33.bundle",
+        "path_id": 2401,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/d0d606771003035bc279f83e48863a33.bundle",
+        "path_id": 2417,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/f29d98d13dee44a999852d88495f24ad.bundle",
+        "path_id": 411,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "To Rooftop",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/97a3297336afa0314dfae19428826d82.bundle",
+        "path_id": 23,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Town Hall",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/ac90ace6b3826db1f339a2743c614847.bundle",
+        "path_id": 5877,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Town hall",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/886ffadba6d3e6a0a9a042253f18d064.bundle",
+        "path_id": 59,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/886ffadba6d3e6a0a9a042253f18d064.bundle",
+        "path_id": 62,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Vending Machine",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/45f533a5ae0385377f09fba0556a3b0a.bundle",
+        "path_id": 631,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.Interactable",
+    "field": "text",
+    "text": "Western ruins ",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/00876823e433c8400ecb7f3f8327b52a.bundle",
+        "path_id": 2265,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "description",
+    "text": "A beautiful light blue gemstone \nUnreadable characters engraved on it\r\n",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/901c6bb5e6bd9b3978f7191c06d57725.bundle",
+        "path_id": -9064706797756874047,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "description",
+    "text": "Arm parts of junk creatures\r",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/3377a7c168c0e93d5e846dde33f2a207.bundle",
+        "path_id": -6770483460489047987,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "description",
+    "text": "Despite its age, it appears to be in good condition without any missing parts \nPerhaps someone would want this...",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/0be26495f0e5cd21ecfbba8c7a15ace9.bundle",
+        "path_id": 1909211762539850176,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "description",
+    "text": "Intricately designed with fine details.\nPerhaps someone would want this...\r",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/81763215a129aa85662c4378097d0bfc.bundle",
+        "path_id": -8682015718269796361,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "description",
+    "text": "It appears to be from a very ancient era.\nPerhaps someone would want this...\r",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/72f19fd7e882d22a9aac49129f9eb5f7.bundle",
+        "path_id": 6306064490670705909,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "description",
+    "text": "It has a cool green label design\nHP recovery (small)\n",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/e2d3364cd87c2b1bf973d0b862d1a2ae.bundle",
+        "path_id": 5052989738484111307,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "description",
+    "text": "It is said to contain extract from the mamushi snake",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/5c721dcbab2dbfb8402dc18c75dd8dcd.bundle",
+        "path_id": -8282391602990012704,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/7a460810653a2cec20f54b859a4a0afc.bundle",
+        "path_id": 3132982385513038843,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "description",
+    "text": "It is said to contain extract from the mamushi snake\r",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/e2d3364cd87c2b1bf973d0b862d1a2ae.bundle",
+        "path_id": 4289557570277414769,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "description",
+    "text": "It sparkles with a silver shine\nIt looks like it could fetch a good price\r",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/375816485986db6870a4e3c4ddb0997c.bundle",
+        "path_id": 8438433348225323375,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "description",
+    "text": "It's a little damp\r",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/3377a7c168c0e93d5e846dde33f2a207.bundle",
+        "path_id": -1714626854500053268,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "description",
+    "text": "Judging by the packaging, it seems music is recorded on this disc.\nPerhaps someone would want this...\r",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/c137e458caeb12448fdfca58c0e7a64d.bundle",
+        "path_id": 8036294969497083306,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "description",
+    "text": "Made of plastic\r",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/3377a7c168c0e93d5e846dde33f2a207.bundle",
+        "path_id": -2773475867453576118,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "description",
+    "text": "Restores ammo for special weapons (small)\r",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/e2d3364cd87c2b1bf973d0b862d1a2ae.bundle",
+        "path_id": -6316036392554629192,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "itemName",
+    "text": "Test",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/700775954cd7c8a9375bbefd0bc44a4f.bundle",
+        "path_id": 5176314852158001222,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.ItemData",
+    "field": "description",
+    "text": "Witch lit the lantern. Attack button to releases a light bullet\n",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/020418dfb142b6b72cb01ca4e12808e2.bundle",
+        "path_id": 8281527306244800795,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.MovingPlatform",
+    "field": "animatorCloseFlag",
+    "text": "Close",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/0482bb09706c47bb67e5ed335d3bde36.bundle",
+        "path_id": 372,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/0511b1f47bd86d915b30bed895dc3fd4.bundle",
+        "path_id": 11779,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/0511b1f47bd86d915b30bed895dc3fd4.bundle",
+        "path_id": 11780,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/0511b1f47bd86d915b30bed895dc3fd4.bundle",
+        "path_id": 11781,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/1db743cbd7f04fd0c49184e0bc83ca5e.bundle",
+        "path_id": 11900,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/1db743cbd7f04fd0c49184e0bc83ca5e.bundle",
+        "path_id": 11901,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/1db743cbd7f04fd0c49184e0bc83ca5e.bundle",
+        "path_id": 11902,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/28f90117964d3865ff9695db0906d160.bundle",
+        "path_id": 11770,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/28f90117964d3865ff9695db0906d160.bundle",
+        "path_id": 11771,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/28f90117964d3865ff9695db0906d160.bundle",
+        "path_id": 11772,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/3a85239198c1735a599cc8bcb41e354d.bundle",
+        "path_id": 11900,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/3a85239198c1735a599cc8bcb41e354d.bundle",
+        "path_id": 11901,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/3a85239198c1735a599cc8bcb41e354d.bundle",
+        "path_id": 11902,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/44c551bd5f2b399169eda95159e78afc.bundle",
+        "path_id": 329,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/44b26a8d8ea4acb66a6d75ad6763b24f.bundle",
+        "path_id": 2676,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/44b26a8d8ea4acb66a6d75ad6763b24f.bundle",
+        "path_id": 2677,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/48b7932f6655f51a186d05093899dea4.bundle",
+        "path_id": 9241,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/48b7932f6655f51a186d05093899dea4.bundle",
+        "path_id": 9242,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/48b7932f6655f51a186d05093899dea4.bundle",
+        "path_id": 9243,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/48b7932f6655f51a186d05093899dea4.bundle",
+        "path_id": 9244,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/48b7932f6655f51a186d05093899dea4.bundle",
+        "path_id": 9245,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/48b7932f6655f51a186d05093899dea4.bundle",
+        "path_id": 9246,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/4b66e60e8d2ceefca930c77c8ade7428.bundle",
+        "path_id": 6505,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/4b66e60e8d2ceefca930c77c8ade7428.bundle",
+        "path_id": 6506,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/4b66e60e8d2ceefca930c77c8ade7428.bundle",
+        "path_id": 6507,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/52e8315c547755abf4dbfefab651019d.bundle",
+        "path_id": 9235,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/52e8315c547755abf4dbfefab651019d.bundle",
+        "path_id": 9236,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/52e8315c547755abf4dbfefab651019d.bundle",
+        "path_id": 9237,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/52e8315c547755abf4dbfefab651019d.bundle",
+        "path_id": 9238,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/52e8315c547755abf4dbfefab651019d.bundle",
+        "path_id": 9239,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/52e8315c547755abf4dbfefab651019d.bundle",
+        "path_id": 9240,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/4dcc224562e95a7bcf58faf5a463369a.bundle",
+        "path_id": 6505,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/4dcc224562e95a7bcf58faf5a463369a.bundle",
+        "path_id": 6506,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/4dcc224562e95a7bcf58faf5a463369a.bundle",
+        "path_id": 6507,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/57634e2f30475130f36204fc43fd488a.bundle",
+        "path_id": 9241,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/57634e2f30475130f36204fc43fd488a.bundle",
+        "path_id": 9242,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/57634e2f30475130f36204fc43fd488a.bundle",
+        "path_id": 9243,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/57634e2f30475130f36204fc43fd488a.bundle",
+        "path_id": 9244,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/57634e2f30475130f36204fc43fd488a.bundle",
+        "path_id": 9245,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/57634e2f30475130f36204fc43fd488a.bundle",
+        "path_id": 9246,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/6a66387fe6429626540ed31b204e703f.bundle",
+        "path_id": 9241,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/6a66387fe6429626540ed31b204e703f.bundle",
+        "path_id": 9242,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/6a66387fe6429626540ed31b204e703f.bundle",
+        "path_id": 9243,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/6a66387fe6429626540ed31b204e703f.bundle",
+        "path_id": 9244,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/6a66387fe6429626540ed31b204e703f.bundle",
+        "path_id": 9245,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/6a66387fe6429626540ed31b204e703f.bundle",
+        "path_id": 9246,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/937d8e410a3bd0fb0c65d6091546de83.bundle",
+        "path_id": 1795,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/937d8e410a3bd0fb0c65d6091546de83.bundle",
+        "path_id": 1796,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/937d8e410a3bd0fb0c65d6091546de83.bundle",
+        "path_id": 1797,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/8ea90e41368079291292240a1a0a9494.bundle",
+        "path_id": 9697,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/8ea90e41368079291292240a1a0a9494.bundle",
+        "path_id": 9698,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/8ea90e41368079291292240a1a0a9494.bundle",
+        "path_id": 9699,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/a55a2774d57042525cefda404c102f02.bundle",
+        "path_id": 9241,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/a55a2774d57042525cefda404c102f02.bundle",
+        "path_id": 9242,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/a55a2774d57042525cefda404c102f02.bundle",
+        "path_id": 9243,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/a55a2774d57042525cefda404c102f02.bundle",
+        "path_id": 9244,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/a55a2774d57042525cefda404c102f02.bundle",
+        "path_id": 9245,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/a55a2774d57042525cefda404c102f02.bundle",
+        "path_id": 9246,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b029dc5098c2384d21ef8cb46e89d9ea.bundle",
+        "path_id": 71,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/baabc1fd2b2dbbb62f10f27032e83deb.bundle",
+        "path_id": 1792,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/baabc1fd2b2dbbb62f10f27032e83deb.bundle",
+        "path_id": 1793,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/baabc1fd2b2dbbb62f10f27032e83deb.bundle",
+        "path_id": 1794,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/bc6fcd07244a20f77f71dfba13bfe2d3.bundle",
+        "path_id": 372,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/c43d1a44b275e669be3d0315cb046426.bundle",
+        "path_id": 71,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/c106c031fdea52e8b0b93706b803b01d.bundle",
+        "path_id": 11779,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/c106c031fdea52e8b0b93706b803b01d.bundle",
+        "path_id": 11780,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/c106c031fdea52e8b0b93706b803b01d.bundle",
+        "path_id": 11781,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/c8a190264ffbcc24c8b3485daeb10559.bundle",
+        "path_id": 9241,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/c8a190264ffbcc24c8b3485daeb10559.bundle",
+        "path_id": 9242,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/c8a190264ffbcc24c8b3485daeb10559.bundle",
+        "path_id": 9243,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/c8a190264ffbcc24c8b3485daeb10559.bundle",
+        "path_id": 9244,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/c8a190264ffbcc24c8b3485daeb10559.bundle",
+        "path_id": 9245,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/c8a190264ffbcc24c8b3485daeb10559.bundle",
+        "path_id": 9246,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/ce88d2efd984094917e3f0f08fbc5be0.bundle",
+        "path_id": 2676,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/ce88d2efd984094917e3f0f08fbc5be0.bundle",
+        "path_id": 2677,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/e194ea06758de7dd9228f3ddc8f3f47e.bundle",
+        "path_id": 70,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/ea6f46db4a7ba6b022ca69bb73d1cbdb.bundle",
+        "path_id": 9697,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/ea6f46db4a7ba6b022ca69bb73d1cbdb.bundle",
+        "path_id": 9698,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/ea6f46db4a7ba6b022ca69bb73d1cbdb.bundle",
+        "path_id": 9699,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/f243585b7b28c11e9ec4d1c0754e5874.bundle",
+        "path_id": 1795,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/f243585b7b28c11e9ec4d1c0754e5874.bundle",
+        "path_id": 1796,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/f243585b7b28c11e9ec4d1c0754e5874.bundle",
+        "path_id": 1797,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/f2f3526f3b6a0f3448cb1ed14be6478d.bundle",
+        "path_id": 9241,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/f2f3526f3b6a0f3448cb1ed14be6478d.bundle",
+        "path_id": 9242,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/f2f3526f3b6a0f3448cb1ed14be6478d.bundle",
+        "path_id": 9243,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/f2f3526f3b6a0f3448cb1ed14be6478d.bundle",
+        "path_id": 9244,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/f2f3526f3b6a0f3448cb1ed14be6478d.bundle",
+        "path_id": 9245,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/f2f3526f3b6a0f3448cb1ed14be6478d.bundle",
+        "path_id": 9246,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1296,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1686,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 374,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.MovingPlatformController",
+    "field": "targetTagName",
+    "text": "Ball",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 190,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.SPWeaponLaser",
+    "field": "collisionNormalPropertyName",
+    "text": "Collision Normal",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/588050b7be9b67ea9fba4f0680a2f9a8.bundle",
+        "path_id": 4409572034239392721,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.SnakeBoss",
+    "field": "bossDisplayName",
+    "text": "Big Snake",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/062275e02e556ceb2fe9aacaee321448.bundle",
+        "path_id": 397,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/d1cd77a6e55be45bd7b21f95dcf0579d.bundle",
+        "path_id": 307,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.TrainPusher",
+    "field": "targetTag",
+    "text": "Player",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3105,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3114,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3128,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3132,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3133,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3137,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3145,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3149,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3156,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3172,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3175,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3182,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3200,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3211,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3224,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3233,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3238,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3266,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3273,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3291,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3295,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3301,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3313,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3314,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3315,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3323,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3327,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3330,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3345,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3359,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3364,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3378,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3389,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3401,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3408,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3419,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3449,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle",
+        "path_id": 3454,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Game.WeaponUpgrade",
+    "field": "description",
+    "text": "Range increase ",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/20154fa3f7c9c3f5f06571f5ed73e9cf.bundle",
+        "path_id": -4973140482502539248,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/42a37e43bcb0e35aac5d44a6876f7923.bundle",
+        "path_id": 6246458562647416703,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Utilities.Audio.BGMTrigger",
+    "field": "m_HorizontalAxis",
+    "text": "Horizontal",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 73,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Utilities.Audio.BGMTrigger",
+    "field": "m_SubmitButton",
+    "text": "Submit",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 73,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "StrayCatLab.Utilities.Audio.BGMTrigger",
+    "field": "m_VerticalAxis",
+    "text": "Vertical",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 73,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "TMPro.TextMeshProUGUI",
+    "field": "m_text",
+    "text": "Continue",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/79adeac04126dce24e2922f9956b07ab.bundle",
+        "path_id": 464,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "TMPro.TextMeshProUGUI",
+    "field": "m_text",
+    "text": "Fullscreen",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/79adeac04126dce24e2922f9956b07ab.bundle",
+        "path_id": 473,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "TMPro.TextMeshProUGUI",
+    "field": "m_text",
+    "text": "Money",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/79adeac04126dce24e2922f9956b07ab.bundle",
+        "path_id": 476,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "TMPro.TextMeshProUGUI",
+    "field": "m_text",
+    "text": "New Game",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/79adeac04126dce24e2922f9956b07ab.bundle",
+        "path_id": 459,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "TMPro.TextMeshProUGUI",
+    "field": "m_text",
+    "text": "New Text",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/fe5b6af20b156602993762c975f03883.bundle",
+        "path_id": -3461614582699897075,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "TMPro.TextMeshProUGUI",
+    "field": "m_text",
+    "text": "NewGame",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/57cd5f06fa66144e14ab0ce0f58d3e01.bundle",
+        "path_id": 559,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/79adeac04126dce24e2922f9956b07ab.bundle",
+        "path_id": 465,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/8c0c8cf6d5691b89f5de7f3bdea2cb15.bundle",
+        "path_id": 504,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b5746c60487d4a2fe8f0e888b922a61a.bundle",
+        "path_id": 534,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/c140e1089a0af29932d8ce7bcf16b2da.bundle",
+        "path_id": 479,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "TMPro.TextMeshProUGUI",
+    "field": "m_text",
+    "text": "Option",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/79adeac04126dce24e2922f9956b07ab.bundle",
+        "path_id": 461,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "TMPro.TextMeshProUGUI",
+    "field": "m_text",
+    "text": "Playtime",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/79adeac04126dce24e2922f9956b07ab.bundle",
+        "path_id": 471,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "TMPro.TextMeshProUGUI",
+    "field": "m_text",
+    "text": "Quit Game",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/79adeac04126dce24e2922f9956b07ab.bundle",
+        "path_id": 463,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "TMPro.TextMeshProUGUI",
+    "field": "m_text",
+    "text": "Return to title",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/79adeac04126dce24e2922f9956b07ab.bundle",
+        "path_id": 474,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "TMPro.TextMeshProUGUI",
+    "field": "m_text",
+    "text": "Ver.1.0",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/57cd5f06fa66144e14ab0ce0f58d3e01.bundle",
+        "path_id": 554,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/79adeac04126dce24e2922f9956b07ab.bundle",
+        "path_id": 460,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/8c0c8cf6d5691b89f5de7f3bdea2cb15.bundle",
+        "path_id": 499,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b5746c60487d4a2fe8f0e888b922a61a.bundle",
+        "path_id": 529,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/c140e1089a0af29932d8ce7bcf16b2da.bundle",
+        "path_id": 474,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.EventSystems.StandaloneInputModule",
+    "field": "m_HorizontalAxis",
+    "text": "Horizontal",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/3a7b609e999f6d3fdc182498460fe62d.bundle",
+        "path_id": 132,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/2369d7d122eb7d9b7bc796c031348482.bundle",
+        "path_id": 6015,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/2efbf0848df62ff51a8b1a1c3c01606e.bundle",
+        "path_id": 6015,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/8f263e6a739561332024c144fe812ae4.bundle",
+        "path_id": 132,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.EventSystems.StandaloneInputModule",
+    "field": "m_SubmitButton",
+    "text": "Submit",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/3a7b609e999f6d3fdc182498460fe62d.bundle",
+        "path_id": 132,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/2369d7d122eb7d9b7bc796c031348482.bundle",
+        "path_id": 6015,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/2efbf0848df62ff51a8b1a1c3c01606e.bundle",
+        "path_id": 6015,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/8f263e6a739561332024c144fe812ae4.bundle",
+        "path_id": 132,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.EventSystems.StandaloneInputModule",
+    "field": "m_VerticalAxis",
+    "text": "Vertical",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/3a7b609e999f6d3fdc182498460fe62d.bundle",
+        "path_id": 132,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/2369d7d122eb7d9b7bc796c031348482.bundle",
+        "path_id": 6015,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/2efbf0848df62ff51a8b1a1c3c01606e.bundle",
+        "path_id": 6015,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/8f263e6a739561332024c144fe812ae4.bundle",
+        "path_id": 132,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.Localization.Locale",
+    "field": "m_LocaleName",
+    "text": "Chinese (Simplified) (zh-CN)",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/localization-locales_assets_all.bundle",
+        "path_id": 3537767062343353821,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.Localization.Locale",
+    "field": "m_LocaleName",
+    "text": "English (en)",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/localization-locales_assets_all.bundle",
+        "path_id": -1395074884649563235,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.Localization.Locale",
+    "field": "m_LocaleName",
+    "text": "Japanese (ja)",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/localization-locales_assets_all.bundle",
+        "path_id": -8391707851027967870,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.Localization.Locale",
+    "field": "m_Identifier.m_Code",
+    "text": "zh-CN",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/localization-locales_assets_all.bundle",
+        "path_id": 3537767062343353821,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.Localization.Tables.SharedTableData",
+    "field": "m_TableCollectionName",
+    "text": "Image",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/localization-assets-shared_assets_all.bundle",
+        "path_id": -1583898499927490441,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.Localization.Tables.SharedTableData",
+    "field": "m_TableCollectionName",
+    "text": "Translation",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/localization-assets-shared_assets_all.bundle",
+        "path_id": 8695621273558596008,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "CPU: Processor Model [# cores]",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": -8813056787167879306,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "GPU: Graphics Card Name",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": 8324900350123728758,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "Graphics API: Graphics API version [level ##]",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": -7525203749434531978,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "MB",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": -8566235953935327370,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": -1559699897162768522,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": 2507300103747952502,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "OS: OS Version [Platform]",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": -6002802487381500042,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "RAM: #### MB",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": -1193100416051617930,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "Screen: ####x####@##Hz",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": -7529427771534319754,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "VR: [Active: ####] (####*2)x####@##Hz",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": 924257467951898486,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "VRAM: ####MB. Max texture size: ####px. Shader level: ##",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": 6922045777521106806,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "Window: ####x####@##Hz[###dpi]",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": 1762996994127388534,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "allocated",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": -5498488398824775818,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "audio",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": 9168427307649359734,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "avg",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": 6376156581543108470,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "dB",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": -3604524277333991562,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "fps",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": 1852347600292896630,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": 4855104856029224822,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "mono",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": -749028106136428682,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "ms",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": -2649709228133425290,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "ram",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": -5919559870521254026,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "reserved",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": 5379201713636794230,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEventHolder",
+    "field": "_data._json",
+    "text": "{\"declarations\":{\"Kind\":\"Object\",\"collection\":{\"$content\":[],\"$version\":\"A\"},\"$version\":\"A\"}}",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 14,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 102,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 115,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 152,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 157,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 160,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 164,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 169,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 172,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 175,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 178,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 183,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 186,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 189,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 192,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 196,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 199,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 202,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 205,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 211,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 214,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 218,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 221,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 224,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 227,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 231,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 234,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1199,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1224,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1265,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1270,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1279,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1289,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1304,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1400,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1401,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1402,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1403,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1404,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1405,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1406,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1407,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1408,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1533,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1613,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1718,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3193,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3266,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3275,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3281,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3290,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3639,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3640,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3641,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3642,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3643,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3644,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3645,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3646,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3647,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 4522,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 4932,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 794,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 83,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 91,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 567,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1443,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1470,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1484,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1517,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1524,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1531,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1540,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1555,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1654,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1655,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1656,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1657,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1658,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1659,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1660,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1661,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1662,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1897,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 2007,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13447,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13448,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13530,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13531,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13532,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13533,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13534,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13535,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13536,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13537,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13538,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13539,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13540,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13541,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13542,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13543,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13544,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13545,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13546,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13547,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13548,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13549,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13550,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13551,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13552,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13553,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13554,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13555,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13556,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13557,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13558,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13559,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13560,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13561,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13562,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13563,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13564,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13565,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 130,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 133,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 136,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 139,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 142,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 145,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 150,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 153,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 156,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 159,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 162,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 165,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 168,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 171,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 174,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 176,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 180,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 12,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 9,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 47,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 294,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 35,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 13,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 10,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 64,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 66,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 7823,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 7963,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8030,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8031,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8032,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8033,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8034,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8035,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8036,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8037,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8038,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8039,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8040,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8041,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8042,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8043,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8044,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8045,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8046,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8047,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8048,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8049,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8050,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8051,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8052,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8053,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8054,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8055,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8056,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8057,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8058,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8059,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8060,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 2062,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 2091,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 2092,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 2093,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 2094,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 2095,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 2096,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 2097,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 2098,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 2099,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 2100,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 2101,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 2102,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 9008,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 9009,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 9010,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 9025,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "UnityEventHolder",
+    "field": "_data._json",
+    "text": "{\"declarations\":{\"Kind\":\"Scene\",\"collection\":{\"$content\":[],\"$version\":\"A\"},\"$version\":\"A\"}}",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 12,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 105,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 75,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 86,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 122,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 193,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 201,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 209,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1295,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3297,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 791,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1547,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 147,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 14,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 11,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 177,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 44,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 292,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 37,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 9,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 79,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 7879,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "mono_behaviour",
+    "class": "WaterSurface",
+    "field": "m_text",
+    "text": "Button",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1179,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3172,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 546,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1425,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 12866,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 12867,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 7783,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1967,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8957,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8958,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8959,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "tmp_ui",
+    "class": "MonoBehaviour",
+    "field": "m_text",
+    "text": "Button",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/30eff56e84e82f5f6b45330a694c6684.bundle",
+        "path_id": 5308,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/48a56f995f48713589a803e7a2186721.bundle",
+        "path_id": 8913,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/5175f5673b567866f2a589799cdcfeee.bundle",
+        "path_id": 8767,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/5d5cc509e1255be9543141a47b24d03f.bundle",
+        "path_id": 8913,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -9024581880109241101,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -8677139467580969741,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -8509138854657626893,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -8206775372973183757,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -7968237297673868045,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -6333276061074035469,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -5839458975149560589,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -3599021957803512589,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -3525235475766892568,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -3486781388888904461,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -3422015906054116109,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -2678075339980378893,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -1810093756003226381,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 2488883448901597654,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 3520011423598341363,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 4185601754418867443,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 5075104789714857203,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/96d5a109a8d904d41f87e572595f9c61.bundle",
+        "path_id": 8767,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/a836dedb140c637ac82984604faaa40b.bundle",
+        "path_id": 8759,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/a71ee59e8342f89f8b2b9389f1c3e8d9.bundle",
+        "path_id": 8767,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/d684721adc40149314dd0ad786407fff.bundle",
+        "path_id": 8767,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "tmp_ui",
+    "class": "MonoBehaviour",
+    "field": "m_text",
+    "text": "Item description is here\nsecond line\nthird line\nfourth line\nfinal line",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": -8975525272463184653,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "path_id": 5114552216425032947,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "tmp_ui",
+    "class": "TMPro.TextMeshProUGUI",
+    "field": "m_text",
+    "text": "New Text",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/fe5b6af20b156602993762c975f03883.bundle",
+        "path_id": -3461614582699897075,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "tmp_ui",
+    "class": "WaterSurface",
+    "field": "m_text",
+    "text": "Button",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1179,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 3172,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 546,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1425,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 12866,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 12867,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 7783,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 1967,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8957,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8958,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 8959,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "ui_text",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "Graphics API: Graphics API version [level ##]",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": -7525203749434531978,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "ui_text",
+    "class": "UnityEngine.UI.Text",
+    "field": "m_Text",
+    "text": "OS: OS Version [Platform]",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle",
+        "path_id": -6002802487381500042,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Kanono1Status",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[25].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 129,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Kanono1Status",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[8].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 132,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 175,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Kanono1Status",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[14].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 135,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Kanono1Status",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[7].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 138,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 155,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Kanono1Status",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[18].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 141,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Kanono1Status",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[4].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 144,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Kanono1Status",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[26].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 149,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 167,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Kanono1Status",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[29].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 152,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Kanono1Status",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[15].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 158,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Kanono1Status",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[10].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 161,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Kanono1Status",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[16].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 164,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Kanono1Status",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[12].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 170,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Kanono1Status",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[21].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 173,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Kanono1Status",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[3].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+        "path_id": 179,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[6].defaultValues.label",
+    "text": "BookAuthorNaming",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/95f91ad1a03f0af1b374c43e973ad62c.bundle",
+        "path_id": 540,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/fed3fa72d188d61bc3c5373f4afa111a.bundle",
+        "path_id": 526,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[8].defaultValues.label",
+    "text": "Building",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/2369d7d122eb7d9b7bc796c031348482.bundle",
+        "path_id": 6207,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/2efbf0848df62ff51a8b1a1c3c01606e.bundle",
+        "path_id": 6207,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[3].defaultValues.label",
+    "text": "Building",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/2369d7d122eb7d9b7bc796c031348482.bundle",
+        "path_id": 6341,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/2efbf0848df62ff51a8b1a1c3c01606e.bundle",
+        "path_id": 6341,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[6].defaultValues.label",
+    "text": "Digital",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/95f91ad1a03f0af1b374c43e973ad62c.bundle",
+        "path_id": 587,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/fed3fa72d188d61bc3c5373f4afa111a.bundle",
+        "path_id": 566,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[20].defaultValues.label",
+    "text": "FirstTime",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/66cec86d6a1d11ce30774035ae4a6f24.bundle",
+        "path_id": 589,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/71e8e09eaaf2b728a3f532bed5cf0b74.bundle",
+        "path_id": 589,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[6].defaultValues.label",
+    "text": "Goods",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/95f91ad1a03f0af1b374c43e973ad62c.bundle",
+        "path_id": 544,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/fed3fa72d188d61bc3c5373f4afa111a.bundle",
+        "path_id": 529,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[6].defaultValues.label",
+    "text": "InGamePermanent",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/95f91ad1a03f0af1b374c43e973ad62c.bundle",
+        "path_id": 554,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/fed3fa72d188d61bc3c5373f4afa111a.bundle",
+        "path_id": 536,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[6].defaultValues.label",
+    "text": "LargeDotRequest",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/95f91ad1a03f0af1b374c43e973ad62c.bundle",
+        "path_id": 547,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[6].defaultValues.label",
+    "text": "PetNaming",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/95f91ad1a03f0af1b374c43e973ad62c.bundle",
+        "path_id": 537,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/fed3fa72d188d61bc3c5373f4afa111a.bundle",
+        "path_id": 523,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[6].defaultValues.label",
+    "text": "SmallDotRequest",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/95f91ad1a03f0af1b374c43e973ad62c.bundle",
+        "path_id": 583,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.GraphGroup.label",
+    "text": "seigyosisutemu3/3 repet",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/1a567c40a5ff2743fa9d4d06d75ce7d0.bundle",
+        "path_id": 158,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/2354508426180f7b72a30f819cf734ac.bundle",
+        "path_id": 178,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/ce810ffbcb8cf244a44c8e0f00072af5.bundle",
+        "path_id": 158,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[11].defaultValues.label",
+    "text": "sleep",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/d67b49ac3104be197b69931efd94fa61.bundle",
+        "path_id": 221,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/fb30b6ff12e95b745e25983f2ce76257.bundle",
+        "path_id": 221,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[8].defaultValues.label",
+    "text": "sleep",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/d67b49ac3104be197b69931efd94fa61.bundle",
+        "path_id": 225,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/fb30b6ff12e95b745e25983f2ce76257.bundle",
+        "path_id": 225,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[14].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/062275e02e556ceb2fe9aacaee321448.bundle",
+        "path_id": 336,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[1].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/1ab99440696c4f54b90b28f50096b877.bundle",
+        "path_id": 60,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/9f0b87035451d92d55fbd545419fc04c.bundle",
+        "path_id": 412,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[2].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/25a4bfdc1d8aeccb0de28ea4060e71a1.bundle",
+        "path_id": 336,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/3ae90fc9d2cc7911178f2fd379447cb9.bundle",
+        "path_id": 336,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[9].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/2b06e9d3ff6fb62c590c40c4047294b9.bundle",
+        "path_id": 127,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/868f42ea8383ef14f59b5452111f2d68.bundle",
+        "path_id": 127,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/b30ae3c42e5a230ee120e01f55fddd99.bundle",
+        "path_id": 60,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/e064dd7c6cd435871e2a6ba637c40f11.bundle",
+        "path_id": 73,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[3].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/2b06e9d3ff6fb62c590c40c4047294b9.bundle",
+        "path_id": 168,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/868f42ea8383ef14f59b5452111f2d68.bundle",
+        "path_id": 168,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[4].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/5837f37436cc0c5d45e55750bc67d2a7.bundle",
+        "path_id": 93,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[35].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/8a721726624ddd4ad320f7065cf7ffd4.bundle",
+        "path_id": 412,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[30].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/d67b49ac3104be197b69931efd94fa61.bundle",
+        "path_id": 211,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/fb30b6ff12e95b745e25983f2ce76257.bundle",
+        "path_id": 211,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[7].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/d67b49ac3104be197b69931efd94fa61.bundle",
+        "path_id": 221,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/fb30b6ff12e95b745e25983f2ce76257.bundle",
+        "path_id": 221,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.ScriptMachine",
+    "field": "_data.nest.embed.elements[10].defaultValues.label",
+    "text": "start",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/e861291b5a9e6db15c0503d493c1a0b3.bundle",
+        "path_id": 73,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.StateMachine",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[1].defaultValues.label",
+    "text": "ChipSetStart",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/93eb1074518aa8dfea874ee3ca94bc73.bundle",
+        "path_id": 139,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.StateMachine",
+    "field": "_data.nest.embed.elements[0].nest.embed.elements[13].defaultValues.label",
+    "text": "ChipSetStart",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/e04ddcc8b08478eec58b9865e8dc6f12.bundle",
+        "path_id": 139,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.StateMachine",
+    "field": "_data.GraphGroup.label",
+    "text": "bucephalas",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/5c0cd8d25a42420c24865b6f4fb2c902.bundle",
+        "path_id": 298,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/7a20f175c0584451e23c6497d3492c1d.bundle",
+        "path_id": 220,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/80f9dee2b4c99aa9b2d239d9477c5872.bundle",
+        "path_id": 82,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/93eb1074518aa8dfea874ee3ca94bc73.bundle",
+        "path_id": 112,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/e04ddcc8b08478eec58b9865e8dc6f12.bundle",
+        "path_id": 112,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.StateMachine",
+    "field": "_data.GraphGroup.label",
+    "text": "gonta",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/5c0cd8d25a42420c24865b6f4fb2c902.bundle",
+        "path_id": 298,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/7a20f175c0584451e23c6497d3492c1d.bundle",
+        "path_id": 220,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/80f9dee2b4c99aa9b2d239d9477c5872.bundle",
+        "path_id": 82,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/93eb1074518aa8dfea874ee3ca94bc73.bundle",
+        "path_id": 112,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/e04ddcc8b08478eec58b9865e8dc6f12.bundle",
+        "path_id": 112,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.StateMachine",
+    "field": "_data.GraphGroup.label",
+    "text": "kemomi",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/5c0cd8d25a42420c24865b6f4fb2c902.bundle",
+        "path_id": 298,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/7a20f175c0584451e23c6497d3492c1d.bundle",
+        "path_id": 220,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/80f9dee2b4c99aa9b2d239d9477c5872.bundle",
+        "path_id": 82,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/93eb1074518aa8dfea874ee3ca94bc73.bundle",
+        "path_id": 112,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/e04ddcc8b08478eec58b9865e8dc6f12.bundle",
+        "path_id": 112,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.StateMachine",
+    "field": "_data.GraphGroup.label",
+    "text": "kemozou",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/5c0cd8d25a42420c24865b6f4fb2c902.bundle",
+        "path_id": 298,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/7a20f175c0584451e23c6497d3492c1d.bundle",
+        "path_id": 220,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/80f9dee2b4c99aa9b2d239d9477c5872.bundle",
+        "path_id": 82,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/93eb1074518aa8dfea874ee3ca94bc73.bundle",
+        "path_id": 112,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/e04ddcc8b08478eec58b9865e8dc6f12.bundle",
+        "path_id": 112,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  },
+  {
+    "category": "visual_scripting",
+    "class": "Unity.VisualScripting.StateMachine",
+    "field": "_data.GraphGroup.label",
+    "text": "kuro",
+    "locations": [
+      {
+        "file": "StandaloneWindows64/5c0cd8d25a42420c24865b6f4fb2c902.bundle",
+        "path_id": 298,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/7a20f175c0584451e23c6497d3492c1d.bundle",
+        "path_id": 220,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/80f9dee2b4c99aa9b2d239d9477c5872.bundle",
+        "path_id": 82,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/93eb1074518aa8dfea874ee3ca94bc73.bundle",
+        "path_id": 112,
+        "unity_type": "MonoBehaviour"
+      },
+      {
+        "file": "StandaloneWindows64/e04ddcc8b08478eec58b9865e8dc6f12.bundle",
+        "path_id": 112,
+        "unity_type": "MonoBehaviour"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+ "by_cmd_tok": {
+  "say@2": 4188,
+  "add_speaker@4": 657,
+  "itemName@2": 126,
+  "add_choice_option@2": 111,
+  "set_speaker@2": 10,
+  "say@4": 2,
+  "say@9": 1
+ },
+ "trans_by_cmd": {
+  "add_speaker": 657,
+  "say": 4191,
+  "itemName": 126,
+  "add_choice_option": 111,
+  "set_speaker": 10
+ }
+}

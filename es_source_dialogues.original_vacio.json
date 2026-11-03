@@ -1,0 +1,4485 @@
+{
+ "meta": {
+  "note": "Fill 'es' for each entry. Keep markup/tags identical to 'en'. Kinds: choice (ChoiseOptionNode / DialogueBenchChoiseOption text), message (SendGlobalEventDialogueNode). IDs start at 100000 to avoid collision with es_source_scripts.json.",
+  "count": 365,
+  "total_uses": 864,
+  "bundles": 91,
+  "graph_monobehaviours": 212,
+  "by_kind": {
+   "choice": 355,
+   "message": 10
+  },
+  "id_start": 100000,
+  "trailing_space_pairs": [
+   [
+    "Energy drink 200 yen",
+    "Energy drink 200 yen "
+   ],
+   [
+    "Spare cartridge SP 600 yen",
+    "Spare cartridge SP 600 yen "
+   ],
+   [
+    "Invite on a date",
+    "Invite on a date "
+   ],
+   [
+    "About the artifact",
+    "About the artifact "
+   ],
+   [
+    "Next",
+    "Next "
+   ],
+   [
+    "Appreciation (Pixel H Small)",
+    "Appreciation (Pixel H Small) "
+   ],
+   [
+    "Appreciation (Pixel H Large)",
+    "Appreciation (Pixel H Large) "
+   ]
+  ],
+  "bundles_without_catalog_crc": [
+   "StandaloneWindows64/02a984badd780f113151ef9aae8e8686.bundle",
+   "StandaloneWindows64/05d5e36222041c18cb75f416cb18966f.bundle",
+   "StandaloneWindows64/0dcc6b8fe229c7b90726387ea3b4faca.bundle",
+   "StandaloneWindows64/195c7a30eab977d278cc6638417c5523.bundle",
+   "StandaloneWindows64/1c6bf328cb0f3be896e9824b2e83a201.bundle",
+   "StandaloneWindows64/2369d7d122eb7d9b7bc796c031348482.bundle",
+   "StandaloneWindows64/249ef9c52151ef87e5adf4f610895994.bundle",
+   "StandaloneWindows64/2ce082245f4bf6f40b193a264be33a47.bundle",
+   "StandaloneWindows64/36673ac07f421e2efa314d22610d1b01.bundle",
+   "StandaloneWindows64/3d134973f1875e0c8a00cacf79f40318.bundle",
+   "StandaloneWindows64/467f6774586398de539f7de92b4b65c1.bundle",
+   "StandaloneWindows64/4e3c4127acee8a8eedcbae25260802ee.bundle",
+   "StandaloneWindows64/581cf0d230ab915ca99da4d9826af7b4.bundle",
+   "StandaloneWindows64/65635751a582287b21a2c3503313b8f4.bundle",
+   "StandaloneWindows64/68cfb66b8993cc6c014cea0e243c78a6.bundle",
+   "StandaloneWindows64/6904382035578ab1df2339908edff9b9.bundle",
+   "StandaloneWindows64/6b76e912e0d788efc9d6cc5403046b8d.bundle",
+   "StandaloneWindows64/6da8e2dc748b2623b90dfbafa71a1016.bundle",
+   "StandaloneWindows64/6f91f484a9a02653d402f42a9378135a.bundle",
+   "StandaloneWindows64/700775954cd7c8a9375bbefd0bc44a4f.bundle",
+   "StandaloneWindows64/71e8e09eaaf2b728a3f532bed5cf0b74.bundle",
+   "StandaloneWindows64/741a38347db2f0ea262720de2161d612.bundle",
+   "StandaloneWindows64/7edf85ea3322e5711339fc5d81505c60.bundle",
+   "StandaloneWindows64/7f9364e5dea87c04f41cd1e258dcd0ed.bundle",
+   "StandaloneWindows64/80f9dee2b4c99aa9b2d239d9477c5872.bundle",
+   "StandaloneWindows64/8406f6a82b3485b2b90a9a1a52542712.bundle",
+   "StandaloneWindows64/854d0468f7bc592a413d387a3b792a65.bundle",
+   "StandaloneWindows64/868f42ea8383ef14f59b5452111f2d68.bundle",
+   "StandaloneWindows64/8e0944587a90adcd76848b0978dbb295.bundle",
+   "StandaloneWindows64/909487f40a7a247c2d8876970bbdef1d.bundle",
+   "StandaloneWindows64/92d8ebf8359d9fd55f03463433766db2.bundle",
+   "StandaloneWindows64/9afc6f6fb303953fef73fc39c6e4c5ed.bundle",
+   "StandaloneWindows64/9b11548df3fb7e69bc0b6b875ee342ea.bundle",
+   "StandaloneWindows64/9e869e3b733d3c3aebb1f803a074568c.bundle",
+   "StandaloneWindows64/9f0b87035451d92d55fbd545419fc04c.bundle",
+   "StandaloneWindows64/9f72789d91bc1807e1fd74877525c0a4.bundle",
+   "StandaloneWindows64/9f9d54566eebe56e9573af7fce4b9f63.bundle",
+   "StandaloneWindows64/a232df4f1d944ebd74c3b887b5ce50e8.bundle",
+   "StandaloneWindows64/ac90ace6b3826db1f339a2743c614847.bundle",
+   "StandaloneWindows64/af66d04ff5b3fba9b3c1b650d06d5d5b.bundle",
+   "StandaloneWindows64/b9d1198e01120730992e9e56db39495e.bundle",
+   "StandaloneWindows64/c6a2d7b92cb5bfe6253556f1cde32b4d.bundle",
+   "StandaloneWindows64/cebf5094acca46e2ed709b64a58d6c11.bundle",
+   "StandaloneWindows64/d058a3f3078f716fe94edbebcecaa98c.bundle",
+   "StandaloneWindows64/d67b49ac3104be197b69931efd94fa61.bundle",
+   "StandaloneWindows64/daac23097973de8b9571bd18e025650d.bundle",
+   "StandaloneWindows64/df25744db054fc5a3b2ad98b9031c95f.bundle",
+   "StandaloneWindows64/e04ddcc8b08478eec58b9865e8dc6f12.bundle",
+   "StandaloneWindows64/e8667be99f4bdb6720cab9f3c6313a1f.bundle",
+   "StandaloneWindows64/f4cee4c3267c9cfce84dee55724c066f.bundle",
+   "StandaloneWindows64/fd748f46092f91960b43fd8638e13d7a.bundle",
+   "StandaloneWindows64/fed3fa72d188d61bc3c5373f4afa111a.bundle"
+  ]
+ },
+ "texts": [
+  {
+   "id": 100000,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Inform the older sister about her worries",
+   "ja": "",
+   "context": "cut008_5_dialogue (ChoiseOptionNode.text): Inform the older sister about her worries",
+   "es": ""
+  },
+  {
+   "id": 100001,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode",
+    "DialogueBenchChoiseOption"
+   ],
+   "uses": 24,
+   "en": "Cancel",
+   "ja": "",
+   "context": "dg_bench (DialogueBenchChoiseOption.text): Receive a hug | Physical examination | Get transferred | Save",
+   "es": ""
+  },
+  {
+   "id": 100002,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode",
+    "DialogueBenchChoiseOption"
+   ],
+   "uses": 2,
+   "en": "Get transferred",
+   "ja": "",
+   "context": "dg_bench (DialogueBenchChoiseOption.text): Receive a hug | Physical examination | Get transferred | Save",
+   "es": ""
+  },
+  {
+   "id": 100003,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode",
+    "DialogueBenchChoiseOption"
+   ],
+   "uses": 44,
+   "en": "Have a conversation",
+   "ja": "",
+   "context": "dg_bench (DialogueBenchChoiseOption.text): Receive a hug | Physical examination | Get transferred | Save",
+   "es": ""
+  },
+  {
+   "id": 100004,
+   "kind": "choice",
+   "cmds": [
+    "DialogueBenchChoiseOption"
+   ],
+   "uses": 1,
+   "en": "Have her get naked ",
+   "ja": "",
+   "context": "dg_bench (DialogueBenchChoiseOption.text): Receive a hug | Physical examination | Get transferred | Save",
+   "es": ""
+  },
+  {
+   "id": 100005,
+   "kind": "choice",
+   "cmds": [
+    "DialogueBenchChoiseOption"
+   ],
+   "uses": 1,
+   "en": "Have her put clothes on",
+   "ja": "",
+   "context": "dg_bench (DialogueBenchChoiseOption.text): Receive a hug | Physical examination | Get transferred | Save",
+   "es": ""
+  },
+  {
+   "id": 100006,
+   "kind": "choice",
+   "cmds": [
+    "DialogueBenchChoiseOption"
+   ],
+   "uses": 1,
+   "en": "Load",
+   "ja": "",
+   "context": "dg_bench (DialogueBenchChoiseOption.text): Receive a hug | Physical examination | Get transferred | Save",
+   "es": ""
+  },
+  {
+   "id": 100007,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode",
+    "DialogueBenchChoiseOption"
+   ],
+   "uses": 3,
+   "en": "Physical examination",
+   "ja": "",
+   "context": "dg_bench (DialogueBenchChoiseOption.text): Receive a hug | Physical examination | Get transferred | Save",
+   "es": ""
+  },
+  {
+   "id": 100008,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode",
+    "DialogueBenchChoiseOption"
+   ],
+   "uses": 2,
+   "en": "Receive a hug",
+   "ja": "",
+   "context": "dg_bench (DialogueBenchChoiseOption.text): Receive a hug | Physical examination | Get transferred | Save",
+   "es": ""
+  },
+  {
+   "id": 100009,
+   "kind": "choice",
+   "cmds": [
+    "DialogueBenchChoiseOption"
+   ],
+   "uses": 1,
+   "en": "Save",
+   "ja": "",
+   "context": "dg_bench (DialogueBenchChoiseOption.text): Receive a hug | Physical examination | Get transferred | Save",
+   "es": ""
+  },
+  {
+   "id": 100010,
+   "kind": "choice",
+   "cmds": [
+    "DialogueBenchChoiseOption"
+   ],
+   "uses": 1,
+   "en": "Blowjob",
+   "ja": "",
+   "context": "dg_bench_sex (DialogueBenchChoiseOption.text): Cancel | Blowjob | Nipple licking handjob | Masturbation",
+   "es": ""
+  },
+  {
+   "id": 100011,
+   "kind": "choice",
+   "cmds": [
+    "DialogueBenchChoiseOption"
+   ],
+   "uses": 1,
+   "en": "Lactation handjob",
+   "ja": "",
+   "context": "dg_bench_sex (DialogueBenchChoiseOption.text): Cancel | Blowjob | Nipple licking handjob | Masturbation",
+   "es": ""
+  },
+  {
+   "id": 100012,
+   "kind": "choice",
+   "cmds": [
+    "DialogueBenchChoiseOption"
+   ],
+   "uses": 1,
+   "en": "Masturbation",
+   "ja": "",
+   "context": "dg_bench_sex (DialogueBenchChoiseOption.text): Cancel | Blowjob | Nipple licking handjob | Masturbation",
+   "es": ""
+  },
+  {
+   "id": 100013,
+   "kind": "choice",
+   "cmds": [
+    "DialogueBenchChoiseOption"
+   ],
+   "uses": 1,
+   "en": "Nipple licking handjob",
+   "ja": "",
+   "context": "dg_bench_sex (DialogueBenchChoiseOption.text): Cancel | Blowjob | Nipple licking handjob | Masturbation",
+   "es": ""
+  },
+  {
+   "id": 100014,
+   "kind": "choice",
+   "cmds": [
+    "DialogueBenchChoiseOption"
+   ],
+   "uses": 1,
+   "en": "Reverse cowgirl position",
+   "ja": "",
+   "context": "dg_bench_sex (DialogueBenchChoiseOption.text): Cancel | Blowjob | Nipple licking handjob | Masturbation",
+   "es": ""
+  },
+  {
+   "id": 100015,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 7,
+   "en": "Appreciation (Pixel H Small)",
+   "ja": "",
+   "context": "dg_cafe_staff (ChoiseOptionNode.text): Return | Purchase | Do not purchase | Appreciation (Pixel H Small)",
+   "es": ""
+  },
+  {
+   "id": 100016,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 18,
+   "en": "Do not purchase",
+   "ja": "",
+   "context": "dg_cafe_staff (ChoiseOptionNode.text): Return | Purchase | Do not purchase | Have a conversation",
+   "es": ""
+  },
+  {
+   "id": 100017,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Energy drink 200 yen ",
+   "ja": "",
+   "context": "dg_cafe_staff (ChoiseOptionNode.text): Return | Purchase | Do not purchase | Have a conversation",
+   "es": ""
+  },
+  {
+   "id": 100018,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Give ancient coffee beans",
+   "ja": "",
+   "context": "dg_cafe_staff (ChoiseOptionNode.text): Return | Purchase | Do not purchase | Have a conversation",
+   "es": ""
+  },
+  {
+   "id": 100019,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Give vintage teacups",
+   "ja": "",
+   "context": "dg_cafe_staff (ChoiseOptionNode.text): Return | Purchase | Do not purchase | Have a conversation",
+   "es": ""
+  },
+  {
+   "id": 100020,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 46,
+   "en": "I have no business here",
+   "ja": "",
+   "context": "dg_cafe_staff (ChoiseOptionNode.text): Return | Purchase | Do not purchase | Have a conversation",
+   "es": ""
+  },
+  {
+   "id": 100021,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 8,
+   "en": "Place an order",
+   "ja": "",
+   "context": "dg_cafe_staff (ChoiseOptionNode.text): Return | Purchase | Do not purchase | Have a conversation",
+   "es": ""
+  },
+  {
+   "id": 100022,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 18,
+   "en": "Purchase",
+   "ja": "",
+   "context": "dg_cafe_staff (ChoiseOptionNode.text): Return | Purchase | Do not purchase | Have a conversation",
+   "es": ""
+  },
+  {
+   "id": 100023,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 7,
+   "en": "Return",
+   "ja": "",
+   "context": "dg_cafe_staff (ChoiseOptionNode.text): Return | Purchase | Do not purchase | Have a conversation",
+   "es": ""
+  },
+  {
+   "id": 100024,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Snake wine 650 yen",
+   "ja": "",
+   "context": "dg_cafe_staff (ChoiseOptionNode.text): Return | Purchase | Do not purchase | Appreciation (Pixel H Small)",
+   "es": ""
+  },
+  {
+   "id": 100025,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 4,
+   "en": "Spare cartridge 400 yen",
+   "ja": "",
+   "context": "dg_cafe_staff (ChoiseOptionNode.text): Return | Purchase | Do not purchase | Have a conversation",
+   "es": ""
+  },
+  {
+   "id": 100026,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Special spare cartridge 600 yen ",
+   "ja": "",
+   "context": "dg_cafe_staff (ChoiseOptionNode.text): Return | Purchase | Do not purchase | Have a conversation",
+   "es": ""
+  },
+  {
+   "id": 100027,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "spare cartridge SP 600 yen",
+   "ja": "",
+   "context": "dg_cafe_staff (ChoiseOptionNode.text): Return | Purchase | Do not purchase | Have a conversation",
+   "es": ""
+  },
+  {
+   "id": 100028,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Kemomi",
+   "ja": "",
+   "context": "dg_cat (ChoiseOptionNode.text): Take home | Leave | Kuro | Kemomi",
+   "es": ""
+  },
+  {
+   "id": 100029,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Kuro",
+   "ja": "",
+   "context": "dg_cat (ChoiseOptionNode.text): Take home | Leave | Kuro | Kemomi",
+   "es": ""
+  },
+  {
+   "id": 100030,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 12,
+   "en": "Leave",
+   "ja": "",
+   "context": "dg_cat (ChoiseOptionNode.text): Take home | Leave | Kuro | Kemomi",
+   "es": ""
+  },
+  {
+   "id": 100031,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 6,
+   "en": "Take home",
+   "ja": "",
+   "context": "dg_cat (ChoiseOptionNode.text): Take home | Leave | Kuro | Kemomi",
+   "es": ""
+  },
+  {
+   "id": 100032,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 8,
+   "en": "……",
+   "ja": "",
+   "context": "dg_cat (ChoiseOptionNode.text): Take home | Leave | Kuro | Kemomi",
+   "es": ""
+  },
+  {
+   "id": 100033,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Bucephalus",
+   "ja": "",
+   "context": "dg_dog2 (ChoiseOptionNode.text): Gonta | Bucephalus | Kemosuke | ……",
+   "es": ""
+  },
+  {
+   "id": 100034,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Gonta",
+   "ja": "",
+   "context": "dg_dog2 (ChoiseOptionNode.text): Gonta | Bucephalus | Kemosuke | ……",
+   "es": ""
+  },
+  {
+   "id": 100035,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Kemosuke",
+   "ja": "",
+   "context": "dg_dog2 (ChoiseOptionNode.text): Gonta | Bucephalus | Kemosuke | ……",
+   "es": ""
+  },
+  {
+   "id": 100036,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Aroma massage 6000 yen (Pixel H small) ",
+   "ja": "",
+   "context": "dg_Esthe_staff (ChoiseOptionNode.text): Cancel | Rejuvenation massage 12000 yen (Pixel H Large) | Sex massage 15000 yen (Pixel H Large) | New! Exquisite massage 15000 yen (CG)",
+   "es": ""
+  },
+  {
+   "id": 100037,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 6,
+   "en": "Back",
+   "ja": "",
+   "context": "dg_Esthe_staff (ChoiseOptionNode.text): Cancel | Rejuvenation massage 12000 yen (Pixel H Large) | Sex massage 15000 yen (Pixel H Large) | New! Exquisite massage 15000 yen (CG)",
+   "es": ""
+  },
+  {
+   "id": 100038,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Beauty salon menu",
+   "ja": "",
+   "context": "dg_Esthe_staff (ChoiseOptionNode.text): Cancel | Rejuvenation massage 12000 yen (Pixel H Large) | Sex massage 15000 yen (Pixel H Large) | New! Exquisite massage 15000 yen (CG)",
+   "es": ""
+  },
+  {
+   "id": 100039,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Healing massage 3000 yen (Pixel H small) ",
+   "ja": "",
+   "context": "dg_Esthe_staff (ChoiseOptionNode.text): Cancel | Rejuvenation massage 12000 yen (Pixel H Large) | Sex massage 15000 yen (Pixel H Large) | New! Exquisite massage 15000 yen (CG)",
+   "es": ""
+  },
+  {
+   "id": 100040,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Hip massage 20000 yen (Pixel H Large) ",
+   "ja": "",
+   "context": "dg_Esthe_staff (ChoiseOptionNode.text): Cancel | Rejuvenation massage 12000 yen (Pixel H Large) | Sex massage 15000 yen (Pixel H Large) | New! Exquisite massage 15000 yen (CG)",
+   "es": ""
+  },
+  {
+   "id": 100041,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 6,
+   "en": "Invite on a date",
+   "ja": "",
+   "context": "dg_Esthe_staff (ChoiseOptionNode.text): Have a conversation | I have no business here | Invite on a date",
+   "es": ""
+  },
+  {
+   "id": 100042,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Mischief",
+   "ja": "",
+   "context": "dg_Esthe_staff (ChoiseOptionNode.text): Cancel | Rejuvenation massage 12000 yen (Pixel H Large) | Sex massage 15000 yen (Pixel H Large) | New! Exquisite massage 15000 yen (CG)",
+   "es": ""
+  },
+  {
+   "id": 100043,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "New! Exquisite massage 15000 yen (CG) ",
+   "ja": "",
+   "context": "dg_Esthe_staff (ChoiseOptionNode.text): Cancel | Rejuvenation massage 12000 yen (Pixel H Large) | Sex massage 15000 yen (Pixel H Large) | New! Exquisite massage 15000 yen (CG)",
+   "es": ""
+  },
+  {
+   "id": 100044,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "New! Request lady and manager 45000 yen (CG) ",
+   "ja": "",
+   "context": "dg_Esthe_staff (ChoiseOptionNode.text): Cancel | Rejuvenation massage 12000 yen (Pixel H Large) | Sex massage 15000 yen (Pixel H Large) | New! Exquisite massage 15000 yen (CG)",
+   "es": ""
+  },
+  {
+   "id": 100045,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 4,
+   "en": "Next",
+   "ja": "",
+   "context": "dg_Esthe_staff (ChoiseOptionNode.text): Cancel | Rejuvenation massage 12000 yen (Pixel H Large) | Sex massage 15000 yen (Pixel H Large) | New! Exquisite massage 15000 yen (CG)",
+   "es": ""
+  },
+  {
+   "id": 100046,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Rejuvenation massage 12000 yen (Pixel H Large) ",
+   "ja": "",
+   "context": "dg_Esthe_staff (ChoiseOptionNode.text): Cancel | Rejuvenation massage 12000 yen (Pixel H Large) | Sex massage 15000 yen (Pixel H Large) | New! Exquisite massage 15000 yen (CG)",
+   "es": ""
+  },
+  {
+   "id": 100047,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Reward for 1st place 20000 yen (CG)",
+   "ja": "",
+   "context": "dg_Esthe_staff (ChoiseOptionNode.text): Cancel | Rejuvenation massage 12000 yen (Pixel H Large) | Sex massage 15000 yen (Pixel H Large) | New! Exquisite massage 15000 yen (CG)",
+   "es": ""
+  },
+  {
+   "id": 100048,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Sex massage 15000 yen (Pixel H Large) ",
+   "ja": "",
+   "context": "dg_Esthe_staff (ChoiseOptionNode.text): Cancel | Rejuvenation massage 12000 yen (Pixel H Large) | Sex massage 15000 yen (Pixel H Large) | New! Exquisite massage 15000 yen (CG)",
+   "es": ""
+  },
+  {
+   "id": 100049,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Give deep sea mud as a present",
+   "ja": "",
+   "context": "dg_Esthe_tencho (ChoiseOptionNode.text): I have no business here | Have a conversation | Give deep sea mud as a present",
+   "es": ""
+  },
+  {
+   "id": 100050,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Manager's special course 10000 yen (Pixel H Small) ",
+   "ja": "",
+   "context": "dg_Esthe_tencho (ChoiseOptionNode.text): I have no business here | Have a conversation | Manager's special course 10000 yen (Pixel H Small) | Give deep sea mud as a present",
+   "es": ""
+  },
+  {
+   "id": 100051,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Appreciation (Pixel H Large)",
+   "ja": "",
+   "context": "dg_gakkiya_staff (ChoiseOptionNode.text): Talk about fishing | Talk about the commercial facility | Talk about the race | No topics",
+   "es": ""
+  },
+  {
+   "id": 100052,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 6,
+   "en": "Do not sell",
+   "ja": "",
+   "context": "dg_gakkiya_staff (ChoiseOptionNode.text): Have a conversation | I have no business here | Show the haunted guitar | Show the old record",
+   "es": ""
+  },
+  {
+   "id": 100053,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "No topics ",
+   "ja": "",
+   "context": "dg_gakkiya_staff (ChoiseOptionNode.text): Talk about fishing | Talk about the commercial facility | Talk about the race | No topics",
+   "es": ""
+  },
+  {
+   "id": 100054,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Reminisce",
+   "ja": "",
+   "context": "dg_gakkiya_staff (ChoiseOptionNode.text): Talk about fishing | Talk about the commercial facility | Talk about the race | No topics",
+   "es": ""
+  },
+  {
+   "id": 100055,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Sell for 20000 yen",
+   "ja": "",
+   "context": "dg_gakkiya_staff (ChoiseOptionNode.text): Have a conversation | I have no business here | Show the haunted guitar | Show the old record",
+   "es": ""
+  },
+  {
+   "id": 100056,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Sell for 80000 yen",
+   "ja": "",
+   "context": "dg_gakkiya_staff (ChoiseOptionNode.text): Have a conversation | I have no business here | Show the haunted guitar | Show the old record",
+   "es": ""
+  },
+  {
+   "id": 100057,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Show the haunted guitar",
+   "ja": "",
+   "context": "dg_gakkiya_staff (ChoiseOptionNode.text): Have a conversation | I have no business here | Show the haunted guitar | Show the old record",
+   "es": ""
+  },
+  {
+   "id": 100058,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Show the old record",
+   "ja": "",
+   "context": "dg_gakkiya_staff (ChoiseOptionNode.text): Have a conversation | I have no business here | Show the haunted guitar | Show the old record",
+   "es": ""
+  },
+  {
+   "id": 100059,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Talk about fishing ",
+   "ja": "",
+   "context": "dg_gakkiya_staff (ChoiseOptionNode.text): Talk about fishing | Talk about the commercial facility | Talk about the race | No topics",
+   "es": ""
+  },
+  {
+   "id": 100060,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Talk about the commercial facility ",
+   "ja": "",
+   "context": "dg_gakkiya_staff (ChoiseOptionNode.text): Talk about fishing | Talk about the commercial facility | Talk about the race | No topics",
+   "es": ""
+  },
+  {
+   "id": 100061,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Talk about the race ",
+   "ja": "",
+   "context": "dg_gakkiya_staff (ChoiseOptionNode.text): Talk about fishing | Talk about the commercial facility | Talk about the race | No topics",
+   "es": ""
+  },
+  {
+   "id": 100062,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Talk about the ruins ",
+   "ja": "",
+   "context": "dg_gakkiya_staff (ChoiseOptionNode.text): Talk about fishing | Talk about the commercial facility | Talk about the race | No topics",
+   "es": ""
+  },
+  {
+   "id": 100063,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Give seafood",
+   "ja": "",
+   "context": "dg_izakaya_staff (ChoiseOptionNode.text): Return | Have a conversation | Place an order | I have no business here",
+   "es": ""
+  },
+  {
+   "id": 100064,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 4,
+   "en": "Spare cartridge SP 600 yen ",
+   "ja": "",
+   "context": "dg_izakaya_staff (ChoiseOptionNode.text): Return | Have a conversation | Place an order | I have no business here",
+   "es": ""
+  },
+  {
+   "id": 100065,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Tonkotsu ramen 1200 yen",
+   "ja": "",
+   "context": "dg_izakaya_staff (ChoiseOptionNode.text): Return | Have a conversation | Place an order | I have no business here",
+   "es": ""
+  },
+  {
+   "id": 100066,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Armored Jinbei",
+   "ja": "",
+   "context": "dg_kancho (ChoiseOptionNode.text): Rotary Mackerel | Vein Ray | Firefly Mecha-Sardine | Armored Jinbei",
+   "es": ""
+  },
+  {
+   "id": 100067,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Binocular Hammerhead Shark",
+   "ja": "",
+   "context": "dg_kancho (ChoiseOptionNode.text): Rotary Mackerel | Vein Ray | Firefly Mecha-Sardine | Armored Jinbei",
+   "es": ""
+  },
+  {
+   "id": 100068,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Donate",
+   "ja": "",
+   "context": "dg_kancho (ChoiseOptionNode.text): Rotary Mackerel | Vein Ray | Firefly Mecha-Sardine | Armored Jinbei",
+   "es": ""
+  },
+  {
+   "id": 100069,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Dynamo Tuna",
+   "ja": "",
+   "context": "dg_kancho (ChoiseOptionNode.text): Rotary Mackerel | Vein Ray | Firefly Mecha-Sardine | Armored Jinbei",
+   "es": ""
+  },
+  {
+   "id": 100070,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Firefly Mecha-Sardine",
+   "ja": "",
+   "context": "dg_kancho (ChoiseOptionNode.text): Rotary Mackerel | Vein Ray | Firefly Mecha-Sardine | Armored Jinbei",
+   "es": ""
+  },
+  {
+   "id": 100071,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Illumination Oarfish",
+   "ja": "",
+   "context": "dg_kancho (ChoiseOptionNode.text): Rotary Mackerel | Vein Ray | Firefly Mecha-Sardine | Armored Jinbei",
+   "es": ""
+  },
+  {
+   "id": 100072,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Mist Hairtail",
+   "ja": "",
+   "context": "dg_kancho (ChoiseOptionNode.text): Rotary Mackerel | Vein Ray | Firefly Mecha-Sardine | Armored Jinbei",
+   "es": ""
+  },
+  {
+   "id": 100073,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Rotary Mackerel",
+   "ja": "",
+   "context": "dg_kancho (ChoiseOptionNode.text): Rotary Mackerel | Vein Ray | Firefly Mecha-Sardine | Armored Jinbei",
+   "es": ""
+  },
+  {
+   "id": 100074,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Skeleton Seahorse",
+   "ja": "",
+   "context": "dg_kancho (ChoiseOptionNode.text): Rotary Mackerel | Vein Ray | Firefly Mecha-Sardine | Armored Jinbei",
+   "es": ""
+  },
+  {
+   "id": 100075,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Vein Ray",
+   "ja": "",
+   "context": "dg_kancho (ChoiseOptionNode.text): Rotary Mackerel | Vein Ray | Firefly Mecha-Sardine | Armored Jinbei",
+   "es": ""
+  },
+  {
+   "id": 100076,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Give 'BL' book",
+   "ja": "",
+   "context": "dg_kodaijinB (ChoiseOptionNode.text): Have a conversation | I have no business here | Give 'BL' book",
+   "es": ""
+  },
+  {
+   "id": 100077,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Anal sex in rear seat (Pixel H Large)",
+   "ja": "",
+   "context": "dg_kunoichi (ChoiseOptionNode.text): Cancel | Titjob (Pixel H Large) | Anal sex in rear seat (Pixel H Large) | Titjob blowjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100078,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Blowjob (Pixel H Small)",
+   "ja": "",
+   "context": "dg_kunoichi (ChoiseOptionNode.text): Cancel | Titjob (Pixel H Large) | Anal sex in rear seat (Pixel H Large) | Titjob blowjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100079,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Invite on a date ",
+   "ja": "",
+   "context": "dg_kunoichi (ChoiseOptionNode.text): Have a conversation | I have no business here | Invite on a date",
+   "es": ""
+  },
+  {
+   "id": 100080,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Request sex",
+   "ja": "",
+   "context": "dg_kunoichi (ChoiseOptionNode.text): Cancel | Titjob (Pixel H Large) | Anal sex in rear seat (Pixel H Large) | Titjob blowjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100081,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Titjob (Pixel H Large)",
+   "ja": "",
+   "context": "dg_kunoichi (ChoiseOptionNode.text): Cancel | Titjob (Pixel H Large) | Anal sex in rear seat (Pixel H Large) | Titjob blowjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100082,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Titjob blowjob (CG)",
+   "ja": "",
+   "context": "dg_kunoichi (ChoiseOptionNode.text): Cancel | Titjob (Pixel H Large) | Anal sex in rear seat (Pixel H Large) | Titjob blowjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100083,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 7,
+   "en": "Do nothing",
+   "ja": "",
+   "context": "dg_kunoichi_hang (ChoiseOptionNode.text): Do nothing",
+   "es": ""
+  },
+  {
+   "id": 100084,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Exhibitionism (CG)",
+   "ja": "",
+   "context": "dg_kunoichi_hang (ChoiseOptionNode.text): Do nothing | Exhibitionism (CG) | Have her perform blowjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100085,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Have her perform blowjob (CG)",
+   "ja": "",
+   "context": "dg_kunoichi_hang (ChoiseOptionNode.text): Do nothing | Exhibitionism (CG) | Have her perform blowjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100086,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 4,
+   "en": "Help",
+   "ja": "",
+   "context": "dg_kunoichi_jouhansin (ChoiseOptionNode.text): Help | Do nothing",
+   "es": ""
+  },
+  {
+   "id": 100087,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Insert secretly (CG)",
+   "ja": "",
+   "context": "dg_kunoichi_utubuse (ChoiseOptionNode.text): Leave | Insert secretly (CG)",
+   "es": ""
+  },
+  {
+   "id": 100088,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "About ship in western port",
+   "ja": "",
+   "context": "dg_lighthouse_keeper (ChoiseOptionNode.text): About ship in western port | Fishing?",
+   "es": ""
+  },
+  {
+   "id": 100089,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Fishing?",
+   "ja": "",
+   "context": "dg_lighthouse_keeper (ChoiseOptionNode.text): About ship in western port | Fishing?",
+   "es": ""
+  },
+  {
+   "id": 100090,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Touch Witch (CG)",
+   "ja": "",
+   "context": "dg_majoko_ shower (ChoiseOptionNode.text): Touch Witch (CG) | Leave",
+   "es": ""
+  },
+  {
+   "id": 100091,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Observe for a while (CG)",
+   "ja": "",
+   "context": "dg_majoko_bed (ChoiseOptionNode.text): Leave | Observe for a while (CG)",
+   "es": ""
+  },
+  {
+   "id": 100092,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Try titjob (CG)",
+   "ja": "",
+   "context": "dg_majoko_bedcg06 (ChoiseOptionNode.text): Leave | Try titjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100093,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl05_Witch, blowjob at bench",
+   "ja": "",
+   "context": "dg_majoko_bench (ChoiseOptionNode.text): Cancel | dhl05_Witch, blowjob at bench | dhl06_Witch,Nipple licking handjob at bench | dhl07_Witch, masturbation at bench",
+   "es": ""
+  },
+  {
+   "id": 100094,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl06_Witch,Nipple licking handjob at bench",
+   "ja": "",
+   "context": "dg_majoko_bench (ChoiseOptionNode.text): Cancel | dhl05_Witch, blowjob at bench | dhl06_Witch,Nipple licking handjob at bench | dhl07_Witch, masturbation at bench",
+   "es": ""
+  },
+  {
+   "id": 100095,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl07_Witch, masturbation at bench",
+   "ja": "",
+   "context": "dg_majoko_bench (ChoiseOptionNode.text): Cancel | dhl05_Witch, blowjob at bench | dhl06_Witch,Nipple licking handjob at bench | dhl07_Witch, masturbation at bench",
+   "es": ""
+  },
+  {
+   "id": 100096,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl08_Witch, reverse cowgirl position at bench",
+   "ja": "",
+   "context": "dg_majoko_bench (ChoiseOptionNode.text): Cancel | dhl05_Witch, blowjob at bench | dhl06_Witch,Nipple licking handjob at bench | dhl07_Witch, masturbation at bench",
+   "es": ""
+  },
+  {
+   "id": 100097,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "About future",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100098,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "About the artifact",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | New artifact | Aren't you always tired from work? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100099,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "About the artifact ",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100100,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "About the future",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100101,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Aren't you always tired from work?",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100102,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Ejaculation via watching masturbation (H Large) ",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100103,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "How about taking a shower...?",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100104,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 9,
+   "en": "New artifact",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | New artifact | Aren't you always tired from work? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100105,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Next ",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100106,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Semen collection via ball licking handjob (H Large) ",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100107,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Semen collection via blowjob (H Small) ",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100108,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Semen collection via glans-focused blowjob (CG) ",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100109,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Semen collection via handjob (H Large) ",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100110,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Semen collection via machine (CG) ",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100111,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Semen collection via sex in side position (H Large) ",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100112,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Semen collection via titjob (CG) ",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100113,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Semen collection via titjob (H Small) ",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100114,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Show concern for her health",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | New artifact | Aren't you always tired from work? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100115,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Squatting handjob + glans licking(H Small) ",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100116,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Virtual space",
+   "ja": "",
+   "context": "dg_majoko_chara (ChoiseOptionNode.text): About the artifact | Aren't you always tired from work? | How about taking a shower...? | About the future",
+   "es": ""
+  },
+  {
+   "id": 100117,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "CG11_Mogura standing position",
+   "ja": "",
+   "context": "dg_mogura (ChoiseOptionNode.text): Cancel | dhl09_Mogura, Glans licking and cumshot on tongue | dhl10_Mogura, Doggy style sex | CG11_Mogura standing position",
+   "es": ""
+  },
+  {
+   "id": 100118,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "CG12_Mogura and Mogura's sister 3PW blowjob",
+   "ja": "",
+   "context": "dg_mogura (ChoiseOptionNode.text): Cancel | dhl09_Mogura, Glans licking and cumshot on tongue | dhl10_Mogura, Doggy style sex | CG11_Mogura standing position",
+   "es": ""
+  },
+  {
+   "id": 100119,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl09_Mogura, Glans licking and cumshot on tongue",
+   "ja": "",
+   "context": "dg_mogura (ChoiseOptionNode.text): Cancel | dhl09_Mogura, Glans licking and cumshot on tongue | dhl10_Mogura, Doggy style sex | CG11_Mogura standing position",
+   "es": ""
+  },
+  {
+   "id": 100120,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl10_Mogura, Doggy style sex",
+   "ja": "",
+   "context": "dg_mogura (ChoiseOptionNode.text): Cancel | dhl09_Mogura, Glans licking and cumshot on tongue | dhl10_Mogura, Doggy style sex | CG11_Mogura standing position",
+   "es": ""
+  },
+  {
+   "id": 100121,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhs06_Mogura, blowjob behind counter",
+   "ja": "",
+   "context": "dg_mogura (ChoiseOptionNode.text): Cancel | dhl09_Mogura, Glans licking and cumshot on tongue | dhl10_Mogura, Doggy style sex | CG11_Mogura standing position",
+   "es": ""
+  },
+  {
+   "id": 100122,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Are you tired?",
+   "ja": "",
+   "context": "dg_mogura_ane (ChoiseOptionNode.text): Have a conversation | I have no business here | Give the ancient instrument | Are you tired?",
+   "es": ""
+  },
+  {
+   "id": 100123,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Give the ancient instrument",
+   "ja": "",
+   "context": "dg_mogura_ane (ChoiseOptionNode.text): Have a conversation | I have no business here | Give the ancient instrument",
+   "es": ""
+  },
+  {
+   "id": 100124,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Hand over the sleep kit",
+   "ja": "",
+   "context": "dg_mogura_ane (ChoiseOptionNode.text): Have a conversation | I have no business here | Give the ancient instrument | Are you tired?",
+   "es": ""
+  },
+  {
+   "id": 100125,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "I want to go to your room ",
+   "ja": "",
+   "context": "dg_mogura_ane (ChoiseOptionNode.text): Have a conversation | I have no business here | Give the ancient instrument | Are you tired?",
+   "es": ""
+  },
+  {
+   "id": 100126,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Vegetables?",
+   "ja": "",
+   "context": "dg_nouenstaff (ChoiseOptionNode.text): What are endangered species? | Vegetables? | Where is this...? | I have no business here",
+   "es": ""
+  },
+  {
+   "id": 100127,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "What are endangered species?",
+   "ja": "",
+   "context": "dg_nouenstaff (ChoiseOptionNode.text): What are endangered species? | Vegetables? | Where is this...? | I have no business here",
+   "es": ""
+  },
+  {
+   "id": 100128,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Where is this...?",
+   "ja": "",
+   "context": "dg_nouenstaff (ChoiseOptionNode.text): What are endangered species? | Vegetables? | Where is this...? | I have no business here",
+   "es": ""
+  },
+  {
+   "id": 100129,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Hand over the fertilizer",
+   "ja": "",
+   "context": "dg_nouenstaff01 (ChoiseOptionNode.text): How things have been lately | Hand over the fertilizer | What are endangered species? | Vegetables?",
+   "es": ""
+  },
+  {
+   "id": 100130,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "How things have been lately",
+   "ja": "",
+   "context": "dg_nouenstaff01 (ChoiseOptionNode.text): How things have been lately | Hand over the fertilizer | What are endangered species? | Vegetables?",
+   "es": ""
+  },
+  {
+   "id": 100131,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Appreciation (Pixel H Small) ",
+   "ja": "",
+   "context": "dg_omusubi (ChoiseOptionNode.text): Hand over sardine | Appreciation (Pixel H Small) | Hand over mackerel | I have no business here",
+   "es": ""
+  },
+  {
+   "id": 100132,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Hand over fish",
+   "ja": "",
+   "context": "dg_omusubi (ChoiseOptionNode.text): Hand over sardine | Hand over mackerel | I have no business here | Rice ball set 650 yen",
+   "es": ""
+  },
+  {
+   "id": 100133,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Hand over mackerel",
+   "ja": "",
+   "context": "dg_omusubi (ChoiseOptionNode.text): Hand over sardine | Hand over mackerel | I have no business here | Rice ball set 650 yen",
+   "es": ""
+  },
+  {
+   "id": 100134,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Hand over sardine",
+   "ja": "",
+   "context": "dg_omusubi (ChoiseOptionNode.text): Hand over sardine | Hand over mackerel | I have no business here | Rice ball set 650 yen",
+   "es": ""
+  },
+  {
+   "id": 100135,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Rice ball and energy drink set 750 yen",
+   "ja": "",
+   "context": "dg_omusubi (ChoiseOptionNode.text): I have no business here | Rice ball set 650 yen | Rice ball and energy drink set 750 yen",
+   "es": ""
+  },
+  {
+   "id": 100136,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Rice ball set 650 yen",
+   "ja": "",
+   "context": "dg_omusubi (ChoiseOptionNode.text): I have no business here | Rice ball set 650 yen | Rice ball and energy drink set 750 yen",
+   "es": ""
+  },
+  {
+   "id": 100137,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Add the location of treasure chests to the map",
+   "ja": "",
+   "context": "dg_release (ChoiseOptionNode.text): Add the location of treasure chests to the map | Stop",
+   "es": ""
+  },
+  {
+   "id": 100138,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Move to pixel recollection simulation room",
+   "ja": "",
+   "context": "dg_release (ChoiseOptionNode.text): Add the location of treasure chests to the map | Unlock all CG scenes | Stop | Move to pixel recollection simulation room",
+   "es": ""
+  },
+  {
+   "id": 100139,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Stop",
+   "ja": "",
+   "context": "dg_release (ChoiseOptionNode.text): Add the location of treasure chests to the map | Stop",
+   "es": ""
+  },
+  {
+   "id": 100140,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Unlock all CG scenes",
+   "ja": "",
+   "context": "dg_release (ChoiseOptionNode.text): Add the location of treasure chests to the map | Unlock all CG scenes | Stop | Move to pixel recollection simulation room",
+   "es": ""
+  },
+  {
+   "id": 100141,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "About the errand ",
+   "ja": "",
+   "context": "dg_sicho (ChoiseOptionNode.text): About the errand | Commercial facility completed | Race held | Memorial event",
+   "es": ""
+  },
+  {
+   "id": 100142,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Commercial facility completed",
+   "ja": "",
+   "context": "dg_sicho (ChoiseOptionNode.text): About the errand | Commercial facility completed | Race held | Memorial event",
+   "es": ""
+  },
+  {
+   "id": 100143,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Enveloping soft and smooth vertical titjob (CG)",
+   "ja": "",
+   "context": "dg_sicho (ChoiseOptionNode.text): Cancel | Nipple licking titjob (Pixel H Large) | Side position sex (Pixel H Large) | Enveloping soft and smooth vertical titjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100144,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Handjob (Pixel H Large)",
+   "ja": "",
+   "context": "dg_sicho (ChoiseOptionNode.text): Cancel | Nipple licking titjob (Pixel H Large) | Side position sex (Pixel H Large) | Enveloping soft and smooth vertical titjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100145,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Library",
+   "ja": "",
+   "context": "dg_sicho (ChoiseOptionNode.text): About the errand | Commercial facility completed | Race held | Memorial event",
+   "es": ""
+  },
+  {
+   "id": 100146,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Memorial event",
+   "ja": "",
+   "context": "dg_sicho (ChoiseOptionNode.text): About the errand | Commercial facility completed | Race held | Memorial event",
+   "es": ""
+  },
+  {
+   "id": 100147,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Missionary position (CG)",
+   "ja": "",
+   "context": "dg_sicho (ChoiseOptionNode.text): Cancel | Nipple licking titjob (Pixel H Large) | Side position sex (Pixel H Large) | Enveloping soft and smooth vertical titjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100148,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Nipple licking titjob (Pixel H Large)",
+   "ja": "",
+   "context": "dg_sicho (ChoiseOptionNode.text): Cancel | Nipple licking titjob (Pixel H Large) | Side position sex (Pixel H Large) | Enveloping soft and smooth vertical titjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100149,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Race held",
+   "ja": "",
+   "context": "dg_sicho (ChoiseOptionNode.text): About the errand | Commercial facility completed | Race held | Memorial event",
+   "es": ""
+  },
+  {
+   "id": 100150,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Side position sex (Pixel H Large)",
+   "ja": "",
+   "context": "dg_sicho (ChoiseOptionNode.text): Cancel | Nipple licking titjob (Pixel H Large) | Side position sex (Pixel H Large) | Enveloping soft and smooth vertical titjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100151,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "State of the construction site ",
+   "ja": "",
+   "context": "dg_sicho (ChoiseOptionNode.text): About the errand | Commercial facility completed | Race held | Memorial event",
+   "es": ""
+  },
+  {
+   "id": 100152,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Threesome (CG)",
+   "ja": "",
+   "context": "dg_sicho (ChoiseOptionNode.text): Cancel | Nipple licking titjob (Pixel H Large) | Side position sex (Pixel H Large) | Enveloping soft and smooth vertical titjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100153,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Titjob (Pixel H Small)",
+   "ja": "",
+   "context": "dg_sicho (ChoiseOptionNode.text): Cancel | Nipple licking titjob (Pixel H Large) | Side position sex (Pixel H Large) | Enveloping soft and smooth vertical titjob (CG)",
+   "es": ""
+  },
+  {
+   "id": 100154,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "用事について",
+   "ja": "用事について",
+   "context": "dg_sicho (ChoiseOptionNode.text): About the errand | Commercial facility completed | Race held | Memorial event",
+   "es": ""
+  },
+  {
+   "id": 100155,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Relieve yourself",
+   "ja": "",
+   "context": "dg_toilet (ChoiseOptionNode.text): Cancel | Relieve yourself",
+   "es": ""
+  },
+  {
+   "id": 100156,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Service (Pixel H Small)",
+   "ja": "",
+   "context": "dg_yakiniku_staff (ChoiseOptionNode.text): Service (Pixel H Small) | I have no business here | Speak",
+   "es": ""
+  },
+  {
+   "id": 100157,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 16,
+   "en": "Speak",
+   "ja": "",
+   "context": "dg_yakiniku_staff (ChoiseOptionNode.text): I have no business here | Speak",
+   "es": ""
+  },
+  {
+   "id": 100158,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Appreciation (Pixel H Large) ",
+   "ja": "",
+   "context": "DLC1_08_Onsen_01 (ChoiseOptionNode.text): Speak | Hand over the sake | Appreciation (Pixel H Large)",
+   "es": ""
+  },
+  {
+   "id": 100159,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Hand over the sake ",
+   "ja": "",
+   "context": "DLC1_08_Onsen_01 (ChoiseOptionNode.text): Speak | Hand over the sake | Appreciation (Pixel H Large)",
+   "es": ""
+  },
+  {
+   "id": 100160,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Hをお願いする",
+   "ja": "Hをお願いする",
+   "context": "DLC1_11_Decoy (ChoiseOptionNode.text): Hをお願いする | 話をする",
+   "es": ""
+  },
+  {
+   "id": 100161,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 8,
+   "en": "話をする",
+   "ja": "話をする",
+   "context": "DLC1_11_Decoy (ChoiseOptionNode.text): 話をする",
+   "es": ""
+  },
+  {
+   "id": 100162,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 8,
+   "en": "やめる",
+   "ja": "やめる",
+   "context": "DLC1_11_VRDevice (ChoiseOptionNode.text): チップを差し込む | 起動する | やめる | 移動する",
+   "es": ""
+  },
+  {
+   "id": 100163,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "チップを差し込む",
+   "ja": "チップを差し込む",
+   "context": "DLC1_11_VRDevice (ChoiseOptionNode.text): チップを差し込む | 起動する | やめる | 移動する",
+   "es": ""
+  },
+  {
+   "id": 100164,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "移動する",
+   "ja": "移動する",
+   "context": "DLC1_11_VRDevice (ChoiseOptionNode.text): チップを差し込む | 起動する | やめる | 移動する",
+   "es": ""
+  },
+  {
+   "id": 100165,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 4,
+   "en": "起動する",
+   "ja": "起動する",
+   "context": "DLC1_11_VRDevice (ChoiseOptionNode.text): チップを差し込む | 起動する | やめる | 移動する",
+   "es": ""
+  },
+  {
+   "id": 100166,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Cookie",
+   "ja": "",
+   "context": "DLC1_2_dog (ChoiseOptionNode.text): Maro | Jubian | Cookie | ……",
+   "es": ""
+  },
+  {
+   "id": 100167,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Jubian",
+   "ja": "",
+   "context": "DLC1_2_dog (ChoiseOptionNode.text): Maro | Jubian | Cookie | ……",
+   "es": ""
+  },
+  {
+   "id": 100168,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Maro",
+   "ja": "",
+   "context": "DLC1_2_dog (ChoiseOptionNode.text): Maro | Jubian | Cookie | ……",
+   "es": ""
+  },
+  {
+   "id": 100169,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Ask for sex ",
+   "ja": "",
+   "context": "DLC1_5_Mogura (ChoiseOptionNode.text): Speak | Ask for sex | Back",
+   "es": ""
+  },
+  {
+   "id": 100170,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "クリスタルを渡す",
+   "ja": "クリスタルを渡す",
+   "context": "DLC1_bokinrobo (ChoiseOptionNode.text): クリスタルを渡す",
+   "es": ""
+  },
+  {
+   "id": 100171,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Hアニメ&デジタルCG集コース",
+   "ja": "Hアニメ&デジタルCG集コース",
+   "context": "DLC1_CF_Course_Credit (ChoiseOptionNode.text): デジタル壁紙コース | お礼ボイス全部入りコース | 選べるお礼ボイスコース | 魔女子さんシステムボイスコース",
+   "es": ""
+  },
+  {
+   "id": 100172,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "お礼ボイス全部入りコース",
+   "ja": "お礼ボイス全部入りコース",
+   "context": "DLC1_CF_Course_Credit (ChoiseOptionNode.text): デジタル壁紙コース | お礼ボイス全部入りコース | 選べるお礼ボイスコース | 魔女子さんシステムボイスコース",
+   "es": ""
+  },
+  {
+   "id": 100173,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "アクスタ6種セットコース",
+   "ja": "アクスタ6種セットコース",
+   "context": "DLC1_CF_Course_Credit (ChoiseOptionNode.text): デジタル壁紙コース | お礼ボイス全部入りコース | 選べるお礼ボイスコース | 魔女子さんシステムボイスコース",
+   "es": ""
+  },
+  {
+   "id": 100174,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "アニメ&デジタルCG集コース",
+   "ja": "アニメ&デジタルCG集コース",
+   "context": "DLC1_CF_Course_Credit (ChoiseOptionNode.text): デジタル壁紙コース | お礼ボイス全部入りコース | 選べるお礼ボイスコース | 魔女子さんシステムボイスコース",
+   "es": ""
+  },
+  {
+   "id": 100175,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "オリジナルTシャツコース",
+   "ja": "オリジナルTシャツコース",
+   "context": "DLC1_CF_Course_Credit (ChoiseOptionNode.text): デジタル壁紙コース | お礼ボイス全部入りコース | 選べるお礼ボイスコース | 魔女子さんシステムボイスコース",
+   "es": ""
+  },
+  {
+   "id": 100176,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "グッズ&デジタル全部入りコース",
+   "ja": "グッズ&デジタル全部入りコース",
+   "context": "DLC1_CF_Course_Credit (ChoiseOptionNode.text): デジタル壁紙コース | お礼ボイス全部入りコース | 選べるお礼ボイスコース | 魔女子さんシステムボイスコース",
+   "es": ""
+  },
+  {
+   "id": 100177,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "ジオラマキューブコース",
+   "ja": "ジオラマキューブコース",
+   "context": "DLC1_CF_Course_Credit (ChoiseOptionNode.text): デジタル壁紙コース | お礼ボイス全部入りコース | 選べるお礼ボイスコース | 魔女子さんシステムボイスコース",
+   "es": ""
+  },
+  {
+   "id": 100178,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "デジタル全部入りコース",
+   "ja": "デジタル全部入りコース",
+   "context": "DLC1_CF_Course_Credit (ChoiseOptionNode.text): デジタル壁紙コース | お礼ボイス全部入りコース | 選べるお礼ボイスコース | 魔女子さんシステムボイスコース",
+   "es": ""
+  },
+  {
+   "id": 100179,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "デジタル壁紙コース",
+   "ja": "デジタル壁紙コース",
+   "context": "DLC1_CF_Course_Credit (ChoiseOptionNode.text): デジタル壁紙コース | お礼ボイス全部入りコース | 選べるお礼ボイスコース | 魔女子さんシステムボイスコース",
+   "es": ""
+  },
+  {
+   "id": 100180,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "モグラぬいぐるみコース",
+   "ja": "モグラぬいぐるみコース",
+   "context": "DLC1_CF_Course_Credit (ChoiseOptionNode.text): デジタル壁紙コース | お礼ボイス全部入りコース | 選べるお礼ボイスコース | 魔女子さんシステムボイスコース",
+   "es": ""
+  },
+  {
+   "id": 100181,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "選べるお礼ボイスコース",
+   "ja": "選べるお礼ボイスコース",
+   "context": "DLC1_CF_Course_Credit (ChoiseOptionNode.text): デジタル壁紙コース | お礼ボイス全部入りコース | 選べるお礼ボイスコース | 魔女子さんシステムボイスコース",
+   "es": ""
+  },
+  {
+   "id": 100182,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "選べるアクスタコース",
+   "ja": "選べるアクスタコース",
+   "context": "DLC1_CF_Course_Credit (ChoiseOptionNode.text): デジタル壁紙コース | お礼ボイス全部入りコース | 選べるお礼ボイスコース | 魔女子さんシステムボイスコース",
+   "es": ""
+  },
+  {
+   "id": 100183,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "限定パッケージコース",
+   "ja": "限定パッケージコース",
+   "context": "DLC1_CF_Course_Credit (ChoiseOptionNode.text): デジタル壁紙コース | お礼ボイス全部入りコース | 選べるお礼ボイスコース | 魔女子さんシステムボイスコース",
+   "es": ""
+  },
+  {
+   "id": 100184,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "魔女子さんシステムボイスコース",
+   "ja": "魔女子さんシステムボイスコース",
+   "context": "DLC1_CF_Course_Credit (ChoiseOptionNode.text): デジタル壁紙コース | お礼ボイス全部入りコース | 選べるお礼ボイスコース | 魔女子さんシステムボイスコース",
+   "es": ""
+  },
+  {
+   "id": 100185,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "cg01",
+   "ja": "",
+   "context": "DLC1_CG_test (ChoiseOptionNode.text): cg01 | cg02 | cg03 | cg04",
+   "es": ""
+  },
+  {
+   "id": 100186,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "cg02",
+   "ja": "",
+   "context": "DLC1_CG_test (ChoiseOptionNode.text): cg01 | cg02 | cg03 | cg04",
+   "es": ""
+  },
+  {
+   "id": 100187,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "cg03",
+   "ja": "",
+   "context": "DLC1_CG_test (ChoiseOptionNode.text): cg01 | cg02 | cg03 | cg04",
+   "es": ""
+  },
+  {
+   "id": 100188,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "cg04",
+   "ja": "",
+   "context": "DLC1_CG_test (ChoiseOptionNode.text): cg01 | cg02 | cg03 | cg04",
+   "es": ""
+  },
+  {
+   "id": 100189,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "cg05",
+   "ja": "",
+   "context": "DLC1_CG_test (ChoiseOptionNode.text): cg01 | cg02 | cg03 | cg04",
+   "es": ""
+  },
+  {
+   "id": 100190,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 11,
+   "en": "戻る",
+   "ja": "戻る",
+   "context": "DLC1_CG_test (ChoiseOptionNode.text): cg01 | cg02 | cg03 | cg04",
+   "es": ""
+  },
+  {
+   "id": 100191,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "緑の本",
+   "ja": "緑の本",
+   "context": "DLC1_Crowdfunding_01 (ChoiseOptionNode.text): 青い本 | 赤い本 | 緑の本 | 戻る",
+   "es": ""
+  },
+  {
+   "id": 100192,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "赤い本",
+   "ja": "赤い本",
+   "context": "DLC1_Crowdfunding_01 (ChoiseOptionNode.text): 青い本 | 赤い本 | 緑の本 | 戻る",
+   "es": ""
+  },
+  {
+   "id": 100193,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "青い本",
+   "ja": "青い本",
+   "context": "DLC1_Crowdfunding_01 (ChoiseOptionNode.text): 青い本 | 赤い本 | 緑の本 | 戻る",
+   "es": ""
+  },
+  {
+   "id": 100194,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl01",
+   "ja": "",
+   "context": "DLC1_Dhl_test (ChoiseOptionNode.text): dhl01 | dhl02 | dhl03 | dhl04",
+   "es": ""
+  },
+  {
+   "id": 100195,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl02",
+   "ja": "",
+   "context": "DLC1_Dhl_test (ChoiseOptionNode.text): dhl01 | dhl02 | dhl03 | dhl04",
+   "es": ""
+  },
+  {
+   "id": 100196,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl03",
+   "ja": "",
+   "context": "DLC1_Dhl_test (ChoiseOptionNode.text): dhl01 | dhl02 | dhl03 | dhl04",
+   "es": ""
+  },
+  {
+   "id": 100197,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl04",
+   "ja": "",
+   "context": "DLC1_Dhl_test (ChoiseOptionNode.text): dhl01 | dhl02 | dhl03 | dhl04",
+   "es": ""
+  },
+  {
+   "id": 100198,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl05",
+   "ja": "",
+   "context": "DLC1_Dhl_test (ChoiseOptionNode.text): dhl01 | dhl02 | dhl03 | dhl04",
+   "es": ""
+  },
+  {
+   "id": 100199,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl06",
+   "ja": "",
+   "context": "DLC1_Dhl_test (ChoiseOptionNode.text): dhl01 | dhl02 | dhl03 | dhl04",
+   "es": ""
+  },
+  {
+   "id": 100200,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl07",
+   "ja": "",
+   "context": "DLC1_Dhl_test (ChoiseOptionNode.text): dhl01 | dhl02 | dhl03 | dhl04",
+   "es": ""
+  },
+  {
+   "id": 100201,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl08",
+   "ja": "",
+   "context": "DLC1_Dhl_test (ChoiseOptionNode.text): dhl01 | dhl02 | dhl03 | dhl04",
+   "es": ""
+  },
+  {
+   "id": 100202,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl09",
+   "ja": "",
+   "context": "DLC1_Dhl_test (ChoiseOptionNode.text): dhl01 | dhl02 | dhl03 | dhl04",
+   "es": ""
+  },
+  {
+   "id": 100203,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl10",
+   "ja": "",
+   "context": "DLC1_Dhl_test (ChoiseOptionNode.text): dhl01 | dhl02 | dhl03 | dhl04",
+   "es": ""
+  },
+  {
+   "id": 100204,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl11",
+   "ja": "",
+   "context": "DLC1_Dhl_test (ChoiseOptionNode.text): dhl01 | dhl02 | dhl03 | dhl04",
+   "es": ""
+  },
+  {
+   "id": 100205,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhl12",
+   "ja": "",
+   "context": "DLC1_Dhl_test (ChoiseOptionNode.text): dhl01 | dhl02 | dhl03 | dhl04",
+   "es": ""
+  },
+  {
+   "id": 100206,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 4,
+   "en": "次へ",
+   "ja": "次へ",
+   "context": "DLC1_Dhl_test (ChoiseOptionNode.text): dhl01 | dhl02 | dhl03 | dhl04",
+   "es": ""
+  },
+  {
+   "id": 100207,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhs01",
+   "ja": "",
+   "context": "DLC1_Dhs_test (ChoiseOptionNode.text): dhs01 | dhs02 | dhs03 | dhs04",
+   "es": ""
+  },
+  {
+   "id": 100208,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhs02",
+   "ja": "",
+   "context": "DLC1_Dhs_test (ChoiseOptionNode.text): dhs01 | dhs02 | dhs03 | dhs04",
+   "es": ""
+  },
+  {
+   "id": 100209,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhs03",
+   "ja": "",
+   "context": "DLC1_Dhs_test (ChoiseOptionNode.text): dhs01 | dhs02 | dhs03 | dhs04",
+   "es": ""
+  },
+  {
+   "id": 100210,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhs04",
+   "ja": "",
+   "context": "DLC1_Dhs_test (ChoiseOptionNode.text): dhs01 | dhs02 | dhs03 | dhs04",
+   "es": ""
+  },
+  {
+   "id": 100211,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhs05",
+   "ja": "",
+   "context": "DLC1_Dhs_test (ChoiseOptionNode.text): dhs01 | dhs02 | dhs03 | dhs04",
+   "es": ""
+  },
+  {
+   "id": 100212,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhs06",
+   "ja": "",
+   "context": "DLC1_Dhs_test (ChoiseOptionNode.text): dhs01 | dhs02 | dhs03 | dhs04",
+   "es": ""
+  },
+  {
+   "id": 100213,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhs07",
+   "ja": "",
+   "context": "DLC1_Dhs_test (ChoiseOptionNode.text): dhs01 | dhs02 | dhs03 | dhs04",
+   "es": ""
+  },
+  {
+   "id": 100214,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "dhs08",
+   "ja": "",
+   "context": "DLC1_Dhs_test (ChoiseOptionNode.text): dhs01 | dhs02 | dhs03 | dhs04",
+   "es": ""
+  },
+  {
+   "id": 100215,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "くノ一",
+   "ja": "くノ一",
+   "context": "DLC1_Entrance_Robot (ChoiseOptionNode.text): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100216,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "エステのお姉さん",
+   "ja": "エステのお姉さん",
+   "context": "DLC1_Entrance_Robot (ChoiseOptionNode.text): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100217,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "デート",
+   "ja": "デート",
+   "context": "DLC1_Entrance_Robot (ChoiseOptionNode.text): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100218,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "モグラ",
+   "ja": "モグラ",
+   "context": "DLC1_Entrance_Robot (ChoiseOptionNode.text): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100219,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "市長",
+   "ja": "市長",
+   "context": "DLC1_Entrance_Robot (ChoiseOptionNode.text): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100220,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "魔女子",
+   "ja": "魔女子",
+   "context": "DLC1_Entrance_Robot (ChoiseOptionNode.text): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100221,
+   "kind": "message",
+   "cmds": [
+    "SendGlobalEventDialogueNode"
+   ],
+   "uses": 1,
+   "en": "Draw_dec",
+   "ja": "",
+   "context": "DLC1_Entrance_Robot (SendGlobalEventDialogueNode.message): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100222,
+   "kind": "message",
+   "cmds": [
+    "SendGlobalEventDialogueNode"
+   ],
+   "uses": 1,
+   "en": "Draw_kun",
+   "ja": "",
+   "context": "DLC1_Entrance_Robot (SendGlobalEventDialogueNode.message): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100223,
+   "kind": "message",
+   "cmds": [
+    "SendGlobalEventDialogueNode"
+   ],
+   "uses": 1,
+   "en": "Draw_mjk",
+   "ja": "",
+   "context": "DLC1_Entrance_Robot (SendGlobalEventDialogueNode.message): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100224,
+   "kind": "message",
+   "cmds": [
+    "SendGlobalEventDialogueNode"
+   ],
+   "uses": 1,
+   "en": "Draw_mog",
+   "ja": "",
+   "context": "DLC1_Entrance_Robot (SendGlobalEventDialogueNode.message): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100225,
+   "kind": "message",
+   "cmds": [
+    "SendGlobalEventDialogueNode"
+   ],
+   "uses": 1,
+   "en": "Draw_sic",
+   "ja": "",
+   "context": "DLC1_Entrance_Robot (SendGlobalEventDialogueNode.message): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100226,
+   "kind": "message",
+   "cmds": [
+    "SendGlobalEventDialogueNode"
+   ],
+   "uses": 1,
+   "en": "Start_dec",
+   "ja": "",
+   "context": "DLC1_Entrance_Robot (SendGlobalEventDialogueNode.message): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100227,
+   "kind": "message",
+   "cmds": [
+    "SendGlobalEventDialogueNode"
+   ],
+   "uses": 1,
+   "en": "Start_kun",
+   "ja": "",
+   "context": "DLC1_Entrance_Robot (SendGlobalEventDialogueNode.message): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100228,
+   "kind": "message",
+   "cmds": [
+    "SendGlobalEventDialogueNode"
+   ],
+   "uses": 1,
+   "en": "Start_mjk",
+   "ja": "",
+   "context": "DLC1_Entrance_Robot (SendGlobalEventDialogueNode.message): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100229,
+   "kind": "message",
+   "cmds": [
+    "SendGlobalEventDialogueNode"
+   ],
+   "uses": 1,
+   "en": "Start_mog",
+   "ja": "",
+   "context": "DLC1_Entrance_Robot (SendGlobalEventDialogueNode.message): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100230,
+   "kind": "message",
+   "cmds": [
+    "SendGlobalEventDialogueNode"
+   ],
+   "uses": 1,
+   "en": "Start_sic",
+   "ja": "",
+   "context": "DLC1_Entrance_Robot (SendGlobalEventDialogueNode.message): デート | 魔女子 | モグラ | 市長",
+   "es": ""
+  },
+  {
+   "id": 100231,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "エッチの相手(ドットH大)",
+   "ja": "エッチの相手(ドットH大)",
+   "context": "DLC1_hisyo (ChoiseOptionNode.text): エッチの相手(ドットH大) | 用事はない | 話をする",
+   "es": ""
+  },
+  {
+   "id": 100232,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "用事はない",
+   "ja": "用事はない",
+   "context": "DLC1_hisyo (ChoiseOptionNode.text): 用事はない | 話をする",
+   "es": ""
+  },
+  {
+   "id": 100233,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "CGシーンを全解放してもらう",
+   "ja": "CGシーンを全解放してもらう",
+   "context": "DLC1_release (ChoiseOptionNode.text): マップに宝箱の位置を追加する | CGシーンを全解放してもらう | やめておく | ドット回想シミュレーション部屋へ移動する",
+   "es": ""
+  },
+  {
+   "id": 100234,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "やめておく",
+   "ja": "やめておく",
+   "context": "DLC1_release (ChoiseOptionNode.text): マップに宝箱の位置を追加する | CGシーンを全解放してもらう | やめておく | ドット回想シミュレーション部屋へ移動する",
+   "es": ""
+  },
+  {
+   "id": 100235,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "ドット回想シミュレーション部屋へ移動する",
+   "ja": "ドット回想シミュレーション部屋へ移動する",
+   "context": "DLC1_release (ChoiseOptionNode.text): マップに宝箱の位置を追加する | CGシーンを全解放してもらう | やめておく | ドット回想シミュレーション部屋へ移動する",
+   "es": ""
+  },
+  {
+   "id": 100236,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "マップに宝箱の位置を追加する",
+   "ja": "マップに宝箱の位置を追加する",
+   "context": "DLC1_release (ChoiseOptionNode.text): マップに宝箱の位置を追加する | CGシーンを全解放してもらう | やめておく | ドット回想シミュレーション部屋へ移動する",
+   "es": ""
+  },
+  {
+   "id": 100237,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "xキャンセル",
+   "ja": "xキャンセル",
+   "context": "DR_cafestaff (ChoiseOptionNode.text): お礼(ドットH小) | xキャンセル",
+   "es": ""
+  },
+  {
+   "id": 100238,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 5,
+   "en": "お礼(ドットH小)",
+   "ja": "お礼(ドットH小)",
+   "context": "DR_cafestaff (ChoiseOptionNode.text): お礼(ドットH小) | xキャンセル",
+   "es": ""
+  },
+  {
+   "id": 100239,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 34,
+   "en": "×キャンセル",
+   "ja": "×キャンセル",
+   "context": "DR_DLC1_decoy (ChoiseOptionNode.text): ×キャンセル | まんぐり返し正常位(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100240,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "まんぐり返し正常位(ドットH大)",
+   "ja": "まんぐり返し正常位(ドットH大)",
+   "context": "DR_DLC1_decoy (ChoiseOptionNode.text): ×キャンセル | まんぐり返し正常位(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100241,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "ヒップマッサージ(ドットH大)",
+   "ja": "ヒップマッサージ(ドットH大)",
+   "context": "DR_DLC1_Esthestaff (ChoiseOptionNode.text): ×キャンセル | ヒップマッサージ(ドットH大) | 背面騎乗位(ドットH小・デート)",
+   "es": ""
+  },
+  {
+   "id": 100242,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "背面騎乗位(ドットH小・デート)",
+   "ja": "背面騎乗位(ドットH小・デート)",
+   "context": "DR_DLC1_Esthestaff (ChoiseOptionNode.text): ×キャンセル | ヒップマッサージ(ドットH大) | 背面騎乗位(ドットH小・デート)",
+   "es": ""
+  },
+  {
+   "id": 100243,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "話題のお礼(ドットH大)",
+   "ja": "話題のお礼(ドットH大)",
+   "context": "DR_DLC1_gakkiyastaff (ChoiseOptionNode.text): 話題のお礼(ドットH大) | ×キャンセル",
+   "es": ""
+  },
+  {
+   "id": 100244,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "玉舐めオナサポ(ドットH大)",
+   "ja": "玉舐めオナサポ(ドットH大)",
+   "context": "DR_DLC1_hisho (ChoiseOptionNode.text): ×キャンセル | 玉舐めオナサポ(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100245,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "アナル舐め逆さパイズリ(ドットH大)",
+   "ja": "アナル舐め逆さパイズリ(ドットH大)",
+   "context": "DR_DLC1_kunoichi (ChoiseOptionNode.text): ×キャンセル | アナル舐め逆さパイズリ(ドットH大) | 壁尻セックス(ドットH大) | キスハメ(ドットH小・デート)",
+   "es": ""
+  },
+  {
+   "id": 100246,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "キスハメ(ドットH小・デート)",
+   "ja": "キスハメ(ドットH小・デート)",
+   "context": "DR_DLC1_kunoichi (ChoiseOptionNode.text): ×キャンセル | アナル舐め逆さパイズリ(ドットH大) | 壁尻セックス(ドットH大) | キスハメ(ドットH小・デート)",
+   "es": ""
+  },
+  {
+   "id": 100247,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "壁尻セックス(ドットH大)",
+   "ja": "壁尻セックス(ドットH大)",
+   "context": "DR_DLC1_kunoichi (ChoiseOptionNode.text): ×キャンセル | アナル舐め逆さパイズリ(ドットH大) | 壁尻セックス(ドットH大) | キスハメ(ドットH小・デート)",
+   "es": ""
+  },
+  {
+   "id": 100248,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "授乳手コキ(ドットH大・ベンチ)",
+   "ja": "授乳手コキ(ドットH大・ベンチ)",
+   "context": "DR_DLC1_majoko (ChoiseOptionNode.text): 授乳手コキ(ドットH大・ベンチ) | 立ちバック(ドットH小・デート) | ×キャンセル",
+   "es": ""
+  },
+  {
+   "id": 100249,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "立ちバック(ドットH小・デート)",
+   "ja": "立ちバック(ドットH小・デート)",
+   "context": "DR_DLC1_majoko (ChoiseOptionNode.text): 授乳手コキ(ドットH大・ベンチ) | 立ちバック(ドットH小・デート) | ×キャンセル",
+   "es": ""
+  },
+  {
+   "id": 100250,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "授乳手コキ(ドットH大)",
+   "ja": "授乳手コキ(ドットH大)",
+   "context": "DR_DLC1_mogura (ChoiseOptionNode.text): 背面座位(ドットH小・デート) | 授乳手コキ(ドットH大) | ×キャンセル",
+   "es": ""
+  },
+  {
+   "id": 100251,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "背面座位(ドットH小・デート)",
+   "ja": "背面座位(ドットH小・デート)",
+   "context": "DR_DLC1_mogura (ChoiseOptionNode.text): 背面座位(ドットH小・デート) | 授乳手コキ(ドットH大) | ×キャンセル",
+   "es": ""
+  },
+  {
+   "id": 100252,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "素材のお礼(ドットH大)",
+   "ja": "素材のお礼(ドットH大)",
+   "context": "DR_DLC1_moguraane (ChoiseOptionNode.text): 素材のお礼(ドットH大) | ×キャンセル",
+   "es": ""
+  },
+  {
+   "id": 100253,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "肥料のお礼(ドットH大)",
+   "ja": "肥料のお礼(ドットH大)",
+   "context": "DR_DLC1_nouenstaff (ChoiseOptionNode.text): ×キャンセル | 肥料のお礼(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100254,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "お礼(ドットH大)",
+   "ja": "お礼(ドットH大)",
+   "context": "DR_DLC1_onsen (ChoiseOptionNode.text): ×キャンセル | お礼(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100255,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "手コキ(ドットH小・デート)",
+   "ja": "手コキ(ドットH小・デート)",
+   "context": "DR_DLC1_sicho (ChoiseOptionNode.text): ×キャンセル | 言葉責め手コキ(ドットH大) | 手コキ(ドットH小・デート)",
+   "es": ""
+  },
+  {
+   "id": 100256,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "言葉責め手コキ(ドットH大)",
+   "ja": "言葉責め手コキ(ドットH大)",
+   "context": "DR_DLC1_sicho (ChoiseOptionNode.text): ×キャンセル | 言葉責め手コキ(ドットH大) | 手コキ(ドットH小・デート)",
+   "es": ""
+  },
+  {
+   "id": 100257,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "アロママッサージ(ドットH小)",
+   "ja": "アロママッサージ(ドットH小)",
+   "context": "DR_Esthestaff (ChoiseOptionNode.text): ×キャンセル | 回春マッサージ(ドットH大) | 性交マッサージ(ドットH大) | アロママッサージ(ドットH小)",
+   "es": ""
+  },
+  {
+   "id": 100258,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "回春マッサージ(ドットH大)",
+   "ja": "回春マッサージ(ドットH大)",
+   "context": "DR_Esthestaff (ChoiseOptionNode.text): ×キャンセル | 回春マッサージ(ドットH大) | 性交マッサージ(ドットH大) | アロママッサージ(ドットH小)",
+   "es": ""
+  },
+  {
+   "id": 100259,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "性交マッサージ(ドットH大)",
+   "ja": "性交マッサージ(ドットH大)",
+   "context": "DR_Esthestaff (ChoiseOptionNode.text): ×キャンセル | 回春マッサージ(ドットH大) | 性交マッサージ(ドットH大) | アロママッサージ(ドットH小)",
+   "es": ""
+  },
+  {
+   "id": 100260,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "癒やしのマッサージ(ドットH小)",
+   "ja": "癒やしのマッサージ(ドットH小)",
+   "context": "DR_Esthestaff (ChoiseOptionNode.text): ×キャンセル | 回春マッサージ(ドットH大) | 性交マッサージ(ドットH大) | アロママッサージ(ドットH小)",
+   "es": ""
+  },
+  {
+   "id": 100261,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "店長特別コース(ドットH小)",
+   "ja": "店長特別コース(ドットH小)",
+   "context": "DR_Esthetencho (ChoiseOptionNode.text): ×キャンセル | 店長特別コース(ドットH小)",
+   "es": ""
+  },
+  {
+   "id": 100262,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "海の幸のお礼(ドットH小)",
+   "ja": "海の幸のお礼(ドットH小)",
+   "context": "DR_izakayastaff (ChoiseOptionNode.text): 海の幸のお礼(ドットH小) | ×キャンセル",
+   "es": ""
+  },
+  {
+   "id": 100263,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "お礼のエッチ(ドットH小)",
+   "ja": "お礼のエッチ(ドットH小)",
+   "context": "DR_kodaijinA (ChoiseOptionNode.text): お礼のエッチ(ドットH小) | ×キャンセル",
+   "es": ""
+  },
+  {
+   "id": 100264,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "BL本のお礼(ドットH小)",
+   "ja": "BL本のお礼(ドットH小)",
+   "context": "DR_kodaijinB (ChoiseOptionNode.text): BL本のお礼(ドットH小) | ×キャンセル",
+   "es": ""
+  },
+  {
+   "id": 100265,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "パイズリしてもらう(ドットH大)",
+   "ja": "パイズリしてもらう(ドットH大)",
+   "context": "DR_kunoichi (ChoiseOptionNode.text): ×キャンセル | パイズリしてもらう(ドットH大) | 背面座位アナルセックス(ドットH大) | フェラチオ(ドットH小)",
+   "es": ""
+  },
+  {
+   "id": 100266,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "フェラチオ(ドットH小)",
+   "ja": "フェラチオ(ドットH小)",
+   "context": "DR_kunoichi (ChoiseOptionNode.text): ×キャンセル | パイズリしてもらう(ドットH大) | 背面座位アナルセックス(ドットH大) | フェラチオ(ドットH小)",
+   "es": ""
+  },
+  {
+   "id": 100267,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "背面座位アナルセックス(ドットH大)",
+   "ja": "背面座位アナルセックス(ドットH大)",
+   "context": "DR_kunoichi (ChoiseOptionNode.text): ×キャンセル | パイズリしてもらう(ドットH大) | 背面座位アナルセックス(ドットH大) | フェラチオ(ドットH小)",
+   "es": ""
+  },
+  {
+   "id": 100268,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "おまんこ鑑賞オナニーで射精(ドットH大)",
+   "ja": "おまんこ鑑賞オナニーで射精(ドットH大)",
+   "context": "DR_majoko (ChoiseOptionNode.text): ×キャンセル | 手コキで精液採取(ドットH大) | 玉舐め手コキで精液採取(ドットH大) | おまんこ鑑賞オナニーで射精(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100269,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "パイズリで精液採取(ドットH小)",
+   "ja": "パイズリで精液採取(ドットH小)",
+   "context": "DR_majoko (ChoiseOptionNode.text): ×キャンセル | 手コキで精液採取(ドットH大) | 玉舐め手コキで精液採取(ドットH大) | おまんこ鑑賞オナニーで射精(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100270,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "フェラで精液採取(ドットH小)",
+   "ja": "フェラで精液採取(ドットH小)",
+   "context": "DR_majoko (ChoiseOptionNode.text): ×キャンセル | 手コキで精液採取(ドットH大) | 玉舐め手コキで精液採取(ドットH大) | おまんこ鑑賞オナニーで射精(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100271,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "フェラ抜き(ドットH大・ベンチ)",
+   "ja": "フェラ抜き(ドットH大・ベンチ)",
+   "context": "DR_majoko (ChoiseOptionNode.text): ×キャンセル | 手コキで精液採取(ドットH大) | 玉舐め手コキで精液採取(ドットH大) | おまんこ鑑賞オナニーで射精(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100272,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "マンズリ(ドットH大・ベンチ)",
+   "ja": "マンズリ(ドットH大・ベンチ)",
+   "context": "DR_majoko (ChoiseOptionNode.text): ×キャンセル | 手コキで精液採取(ドットH大) | 玉舐め手コキで精液採取(ドットH大) | おまんこ鑑賞オナニーで射精(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100273,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "乳首舐め手コキ(ドットH大・ベンチ)",
+   "ja": "乳首舐め手コキ(ドットH大・ベンチ)",
+   "context": "DR_majoko (ChoiseOptionNode.text): ×キャンセル | 手コキで精液採取(ドットH大) | 玉舐め手コキで精液採取(ドットH大) | おまんこ鑑賞オナニーで射精(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100274,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "前へ",
+   "ja": "前へ",
+   "context": "DR_majoko (ChoiseOptionNode.text): ×キャンセル | 手コキで精液採取(ドットH大) | 玉舐め手コキで精液採取(ドットH大) | おまんこ鑑賞オナニーで射精(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100275,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "対面座位(ドットH大・ベンチ)",
+   "ja": "対面座位(ドットH大・ベンチ)",
+   "context": "DR_majoko (ChoiseOptionNode.text): ×キャンセル | 手コキで精液採取(ドットH大) | 玉舐め手コキで精液採取(ドットH大) | おまんこ鑑賞オナニーで射精(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100276,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "手コキで精液採取(ドットH大)",
+   "ja": "手コキで精液採取(ドットH大)",
+   "context": "DR_majoko (ChoiseOptionNode.text): ×キャンセル | 手コキで精液採取(ドットH大) | 玉舐め手コキで精液採取(ドットH大) | おまんこ鑑賞オナニーで射精(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100277,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "玉舐め手コキで精液採取(ドットH大)",
+   "ja": "玉舐め手コキで精液採取(ドットH大)",
+   "context": "DR_majoko (ChoiseOptionNode.text): ×キャンセル | 手コキで精液採取(ドットH大) | 玉舐め手コキで精液採取(ドットH大) | おまんこ鑑賞オナニーで射精(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100278,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "脇見せ正常位セックスで精液採取(ドットH大)",
+   "ja": "脇見せ正常位セックスで精液採取(ドットH大)",
+   "context": "DR_majoko (ChoiseOptionNode.text): ×キャンセル | 手コキで精液採取(ドットH大) | 玉舐め手コキで精液採取(ドットH大) | おまんこ鑑賞オナニーで射精(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100279,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "蹲踞手コキ＋亀頭舐めで精液採取(ドットH小)",
+   "ja": "蹲踞手コキ＋亀頭舐めで精液採取(ドットH小)",
+   "context": "DR_majoko (ChoiseOptionNode.text): ×キャンセル | 手コキで精液採取(ドットH大) | 玉舐め手コキで精液採取(ドットH大) | おまんこ鑑賞オナニーで射精(ドットH大)",
+   "es": ""
+  },
+  {
+   "id": 100280,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "フェラ抜き(ドットH小)",
+   "ja": "フェラ抜き(ドットH小)",
+   "context": "DR_mogura (ChoiseOptionNode.text): フェラ抜き(ドットH小) | 亀頭舐め舌上射精(ドットH大) | 後背位セックス(ドットH大) | ×キャンセル",
+   "es": ""
+  },
+  {
+   "id": 100281,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "亀頭舐め舌上射精(ドットH大)",
+   "ja": "亀頭舐め舌上射精(ドットH大)",
+   "context": "DR_mogura (ChoiseOptionNode.text): フェラ抜き(ドットH小) | 亀頭舐め舌上射精(ドットH大) | 後背位セックス(ドットH大) | ×キャンセル",
+   "es": ""
+  },
+  {
+   "id": 100282,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "後背位セックス(ドットH大)",
+   "ja": "後背位セックス(ドットH大)",
+   "context": "DR_mogura (ChoiseOptionNode.text): フェラ抜き(ドットH小) | 亀頭舐め舌上射精(ドットH大) | 後背位セックス(ドットH大) | ×キャンセル",
+   "es": ""
+  },
+  {
+   "id": 100283,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "パイズリ(ドットH小)",
+   "ja": "パイズリ(ドットH小)",
+   "context": "DR_sicho (ChoiseOptionNode.text): ×キャンセル | 乳首舐めパイズリ(ドットH大) | 側位でセックス(ドットH大) | パイズリ(ドットH小)",
+   "es": ""
+  },
+  {
+   "id": 100284,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "フェラ(ドットH小)",
+   "ja": "フェラ(ドットH小)",
+   "context": "DR_sicho (ChoiseOptionNode.text): ×キャンセル | 乳首舐めパイズリ(ドットH大) | 側位でセックス(ドットH大) | パイズリ(ドットH小)",
+   "es": ""
+  },
+  {
+   "id": 100285,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "乳首舐めパイズリ(ドットH大)",
+   "ja": "乳首舐めパイズリ(ドットH大)",
+   "context": "DR_sicho (ChoiseOptionNode.text): ×キャンセル | 乳首舐めパイズリ(ドットH大) | 側位でセックス(ドットH大) | パイズリ(ドットH小)",
+   "es": ""
+  },
+  {
+   "id": 100286,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "側位でセックス(ドットH大)",
+   "ja": "側位でセックス(ドットH大)",
+   "context": "DR_sicho (ChoiseOptionNode.text): ×キャンセル | 乳首舐めパイズリ(ドットH大) | 側位でセックス(ドットH大) | パイズリ(ドットH小)",
+   "es": ""
+  },
+  {
+   "id": 100287,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "20000エンで壊れた自販機を修理してもらう",
+   "ja": "20000エンで壊れた自販機を修理してもらう",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100288,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "3PWフェラ(CG)",
+   "ja": "3PWフェラ(CG)",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100289,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Buy",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100290,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Craft special weapons",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100291,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Electric laser Lv1→Lv2　35000 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100292,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Electric laser Lv2→Lv3　75000 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100293,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Electric laser Lv3→Lv4　150000 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100294,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Electric laser Lv4→LvMAX　200000 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100295,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Get the broken vending machine repaired for 20000 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100296,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Hand bomb Lv1→Lv2　3500 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100297,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Hand bomb Lv2→Lv3　6000 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100298,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Hand bomb Lv3→Lv4　8500 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100299,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Hand bomb Lv4→LvMAX　12500 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100300,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Keep it that way",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100301,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Repair the vending machine",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100302,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Sell",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100303,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Special weapons",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100304,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Spiral drill Lv1→Lv2　12500 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100305,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Spiral drill Lv2→Lv3　20000 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100306,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Spiral drill Lv3→Lv4　50000 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100307,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Spiral drill Lv4→LvMAX　100000 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100308,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Submachine gun Lv1→Lv2　2500 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100309,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Submachine gun Lv2→Lv3　5000 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100310,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Submachine gun Lv3→Lv4　7500 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100311,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Submachine gun Lv4→LvMAX　10000 yen",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100312,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Upgrade special weapons",
+   "ja": "",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): Have a conversation | Buy | I have no business here | Sell",
+   "es": ""
+  },
+  {
+   "id": 100313,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "そのままでいい",
+   "ja": "そのままでいい",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100314,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "エレクトリックレーザーLv1→Lv2　35000エン",
+   "ja": "エレクトリックレーザーLv1→Lv2　35000エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100315,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "エレクトリックレーザーLv2→Lv3　75000エン",
+   "ja": "エレクトリックレーザーLv2→Lv3　75000エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100316,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "エレクトリックレーザーLv3→Lv4　150000エン",
+   "ja": "エレクトリックレーザーLv3→Lv4　150000エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100317,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "エレクトリックレーザーLv4→LvMAX　200000エン",
+   "ja": "エレクトリックレーザーLv4→LvMAX　200000エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100318,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "サブマシンガンLv1→Lv2　2500エン",
+   "ja": "サブマシンガンLv1→Lv2　2500エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100319,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "サブマシンガンLv2→Lv3　5000エン",
+   "ja": "サブマシンガンLv2→Lv3　5000エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100320,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "サブマシンガンLv3→Lv4　7500エン",
+   "ja": "サブマシンガンLv3→Lv4　7500エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100321,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "サブマシンガンLv4→LvMAX　10000エン",
+   "ja": "サブマシンガンLv4→LvMAX　10000エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100322,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "スパイラルドリルLv1→Lv2　12500エン",
+   "ja": "スパイラルドリルLv1→Lv2　12500エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100323,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "スパイラルドリルLv2→Lv3　20000エン",
+   "ja": "スパイラルドリルLv2→Lv3　20000エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100324,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "スパイラルドリルLv3→Lv4　50000エン",
+   "ja": "スパイラルドリルLv3→Lv4　50000エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100325,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "スパイラルドリルLv4→LvMAX　100000エン",
+   "ja": "スパイラルドリルLv4→LvMAX　100000エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100326,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "デートに誘う",
+   "ja": "デートに誘う",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100327,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "ハンドボムLv1→Lv2　3500エン",
+   "ja": "ハンドボムLv1→Lv2　3500エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100328,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "ハンドボムLv2→Lv3　6000エン",
+   "ja": "ハンドボムLv2→Lv3　6000エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100329,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "ハンドボムLv3→Lv4　8500エン",
+   "ja": "ハンドボムLv3→Lv4　8500エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100330,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "ハンドボムLv4→LvMAX　12500エン",
+   "ja": "ハンドボムLv4→LvMAX　12500エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100331,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "古い釣り竿を渡す",
+   "ja": "古い釣り竿を渡す",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100332,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "売る",
+   "ja": "売る",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100333,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "正常位セックス(CG)",
+   "ja": "正常位セックス(CG)",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100334,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "特殊武器",
+   "ja": "特殊武器",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100335,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "特殊武器の強化",
+   "ja": "特殊武器の強化",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100336,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "特殊武器を作製",
+   "ja": "特殊武器を作製",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100337,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 4,
+   "en": "用事は無い",
+   "ja": "用事は無い",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100338,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "自販機の修理",
+   "ja": "自販機の修理",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100339,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "買う",
+   "ja": "買う",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100340,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "部屋に行きたい",
+   "ja": "部屋に行きたい",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100341,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "釣り竿Lv1→Lv2　100000エン",
+   "ja": "釣り竿Lv1→Lv2　100000エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100342,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "釣り竿Lv2→LvMAX　200000エン",
+   "ja": "釣り竿Lv2→LvMAX　200000エン",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100343,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "釣り竿の強化",
+   "ja": "釣り竿の強化",
+   "context": "mogura_dialogue (ChoiseOptionNode.text): 買う | 用事は無い | 売る | 特殊武器",
+   "es": ""
+  },
+  {
+   "id": 100344,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "Do not buy",
+   "ja": "",
+   "context": "obj_VendingMachine_Blue (ChoiseOptionNode.text): Energy drink 200 yen | Do not buy | Spare cartridge 400 yen",
+   "es": ""
+  },
+  {
+   "id": 100345,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Energy drink 200 yen",
+   "ja": "",
+   "context": "obj_VendingMachine_Blue (ChoiseOptionNode.text): Energy drink 200 yen | Do not buy | Spare cartridge 400 yen",
+   "es": ""
+  },
+  {
+   "id": 100346,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "まむしドリンク　650エン",
+   "ja": "まむしドリンク　650エン",
+   "context": "obj_VendingMachine_Blue (ChoiseOptionNode.text): エナジードリンク　200エン | まむしドリンク　650エン | 買わない | 予備カートリッジ　400エン",
+   "es": ""
+  },
+  {
+   "id": 100347,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "エナジードリンク　200エン",
+   "ja": "エナジードリンク　200エン",
+   "context": "obj_VendingMachine_Blue (ChoiseOptionNode.text): エナジードリンク　200エン | 買わない | 予備カートリッジ　400エン",
+   "es": ""
+  },
+  {
+   "id": 100348,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "予備カートリッジ　400エン",
+   "ja": "予備カートリッジ　400エン",
+   "context": "obj_VendingMachine_Blue (ChoiseOptionNode.text): エナジードリンク　200エン | 買わない | 予備カートリッジ　400エン",
+   "es": ""
+  },
+  {
+   "id": 100349,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 5,
+   "en": "買わない",
+   "ja": "買わない",
+   "context": "obj_VendingMachine_Blue (ChoiseOptionNode.text): エナジードリンク　200エン | 買わない | 予備カートリッジ　400エン",
+   "es": ""
+  },
+  {
+   "id": 100350,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Spare cartridge SP 600 yen",
+   "ja": "",
+   "context": "obj_VendingMachine_Park (ChoiseOptionNode.text): Do not buy | Spare cartridge SP 600 yen",
+   "es": ""
+  },
+  {
+   "id": 100351,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 3,
+   "en": "予備カートリッジSP　600エン",
+   "ja": "予備カートリッジSP　600エン",
+   "context": "obj_VendingMachine_Park (ChoiseOptionNode.text): 買わない | 予備カートリッジSP　600エン",
+   "es": ""
+  },
+  {
+   "id": 100352,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Spare cartridge SP-MAX 850 yen ",
+   "ja": "",
+   "context": "obj_VendingMachine_Red (ChoiseOptionNode.text): Spare cartridge SP-MAX 850 yen | Do not buy | Spare cartridge SP 600 yen",
+   "es": ""
+  },
+  {
+   "id": 100353,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "まむしドリンクSP-MAX　1500エン",
+   "ja": "まむしドリンクSP-MAX　1500エン",
+   "context": "obj_VendingMachine_Red (ChoiseOptionNode.text): 予備カートリッジSP-MAX　800エン | まむしドリンクSP-MAX　1500エン | 買わない | まむしドリンクSP　1200エン",
+   "es": ""
+  },
+  {
+   "id": 100354,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "まむしドリンクSP　1200エン",
+   "ja": "まむしドリンクSP　1200エン",
+   "context": "obj_VendingMachine_Red (ChoiseOptionNode.text): 予備カートリッジSP-MAX　800エン | まむしドリンクSP-MAX　1500エン | 買わない | まむしドリンクSP　1200エン",
+   "es": ""
+  },
+  {
+   "id": 100355,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "予備カートリッジSP-MAX　800エン",
+   "ja": "予備カートリッジSP-MAX　800エン",
+   "context": "obj_VendingMachine_Red (ChoiseOptionNode.text): 予備カートリッジSP-MAX　800エン | 買わない | 予備カートリッジSP　600エン",
+   "es": ""
+  },
+  {
+   "id": 100356,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "アーティファクト",
+   "ja": "アーティファクト",
+   "context": "TestDialogueGraph (ChoiseOptionNode.text): 話をする | 抱きしめてもらう | 身体検査 | アーティファクト",
+   "es": ""
+  },
+  {
+   "id": 100357,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "キャンセル",
+   "ja": "キャンセル",
+   "context": "TestDialogueGraph (ChoiseOptionNode.text): 話をする | 抱きしめてもらう | 身体検査 | アーティファクト",
+   "es": ""
+  },
+  {
+   "id": 100358,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "射精能力検査-セックス",
+   "ja": "射精能力検査-セックス",
+   "context": "TestDialogueGraph (ChoiseOptionNode.text): 話をする | 抱きしめてもらう | 身体検査 | アーティファクト",
+   "es": ""
+  },
+  {
+   "id": 100359,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "射精能力検査-フェラ",
+   "ja": "射精能力検査-フェラ",
+   "context": "TestDialogueGraph (ChoiseOptionNode.text): 話をする | 抱きしめてもらう | 身体検査 | アーティファクト",
+   "es": ""
+  },
+  {
+   "id": 100360,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "射精能力検査-手コキ①",
+   "ja": "射精能力検査-手コキ①",
+   "context": "TestDialogueGraph (ChoiseOptionNode.text): 話をする | 抱きしめてもらう | 身体検査 | アーティファクト",
+   "es": ""
+  },
+  {
+   "id": 100361,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "抱きしめてもらう",
+   "ja": "抱きしめてもらう",
+   "context": "TestDialogueGraph (ChoiseOptionNode.text): 話をする | 抱きしめてもらう | 身体検査 | アーティファクト",
+   "es": ""
+  },
+  {
+   "id": 100362,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "身体検査",
+   "ja": "身体検査",
+   "context": "TestDialogueGraph (ChoiseOptionNode.text): 話をする | 抱きしめてもらう | 身体検査 | アーティファクト",
+   "es": ""
+  },
+  {
+   "id": 100363,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 1,
+   "en": "Hしない",
+   "ja": "Hしない",
+   "context": "testHscene (ChoiseOptionNode.text): Hする | Hしない",
+   "es": ""
+  },
+  {
+   "id": 100364,
+   "kind": "choice",
+   "cmds": [
+    "ChoiseOptionNode"
+   ],
+   "uses": 2,
+   "en": "Hする",
+   "ja": "Hする",
+   "context": "testHscene (ChoiseOptionNode.text): Hする | Hしない",
+   "es": ""
+  }
+ ]
+}

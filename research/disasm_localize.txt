@@ -1,0 +1,666 @@
+
+=== LocalizeManager$$GetLocalizeNumber RVA=0x391e0 file=0x385e0 ===
+int32_t LocalizeManager__GetLocalizeNumber (LocalizeManager_o* __this, const MethodInfo* method);
+  0x391e0: sub	rsp, 0x28
+  0x391e4: xor	ecx, ecx
+  0x391e6: call	0x2890570
+  0x391eb: test	rax, rax
+  0x391ee: je	0x391f9
+  0x391f0: movzx	eax, word ptr [rax + 0x42]
+  0x391f4: add	rsp, 0x28
+  0x391f8: ret	
+
+=== LocalizeManager$$GetLocalizeString RVA=0x39200 file=0x38600 ===
+System_String_o* LocalizeManager__GetLocalizeString (LocalizeManager_o* __this, System_String_o* _tableName, System_String_o* _text, const MethodInfo* method);
+  0x39200: mov	qword ptr [rsp + 0x10], rbx
+  0x39205: mov	qword ptr [rsp + 0x18], rsi
+  0x3920a: push	rdi
+  0x3920b: sub	rsp, 0xc0
+  0x39212: cmp	byte ptr [rip + 0x4a05424], 0
+  0x39219: mov	rbx, r8
+  0x3921c: mov	rsi, rdx
+  0x3921f: mov	rdi, rcx
+  0x39222: jne	0x3924f
+  0x39224: lea	rcx, [rip + 0x46ec205]
+  0x3922b: call	0x36ad120
+  0x39230: lea	rcx, [rip + 0x4749fe9]
+  0x39237: call	0x36ad120
+  0x3923c: lea	rcx, [rip + 0x474a2f5]
+  0x39243: call	0x36ad120
+  0x39248: mov	byte ptr [rip + 0x4a053ee], 1
+  0x3924f: cmp	dword ptr [rdi + 0x20], 0
+  0x39253: je	0x3940a
+  0x39259: xor	ecx, ecx
+  0x3925b: call	0x28905d0
+  0x39260: mov	rcx, qword ptr [rip + 0x474a2d1]
+  0x39267: mov	rdi, rax
+  0x3926a: cmp	dword ptr [rcx + 0xe0], 0
+  0x39271: jne	0x39278
+  0x39273: call	0x361aae0
+  0x39278: xor	r8d, r8d
+  0x3927b: lea	rcx, [rsp + 0x80]
+  0x39283: mov	rdx, rsi
+  0x39286: call	0x287e0e0
+  0x3928b: test	rdi, rdi
+  0x3928e: je	0x39422
+  0x39294: mov	r9, qword ptr [rdi]
+  0x39297: lea	rdx, [rsp + 0x40]
+  0x3929c: movups	xmm0, xmmword ptr [rax]
+  0x3929f: xor	r8d, r8d
+  0x392a2: mov	rcx, rdi
+  0x392a5: movups	xmm1, xmmword ptr [rax + 0x10]
+  0x392a9: mov	rax, qword ptr [r9 + 0x1d8]
+  0x392b0: mov	r9, qword ptr [r9 + 0x1e0]
+  0x392b7: movaps	xmmword ptr [rsp + 0x40], xmm0
+  0x392bc: movaps	xmmword ptr [rsp + 0x50], xmm1
+  0x392c1: call	rax
+  0x392c3: mov	rdi, rax
+  0x392c6: test	rax, rax
+  0x392c9: je	0x3940a
+  0x392cf: xor	r8d, r8d
+  0x392d2: lea	rcx, [rsp + 0xa0]
+  0x392da: mov	rdx, rbx
+  0x392dd: call	0x287c4e0
+  0x392e2: mov	r8, qword ptr [rip + 0x4749f37]
+  0x392e9: lea	rdx, [rsp + 0x80]
+  0x392f1: mov	rcx, rdi
+  0x392f4: movups	xmm0, xmmword ptr [rax]
+  0x392f7: movsd	xmm1, qword ptr [rax + 0x10]
+  0x392fc: movaps	xmmword ptr [rsp + 0x80], xmm0
+  0x39304: movsd	qword ptr [rsp + 0x90], xmm1
+  0x3930d: call	0x18e80b0
+  0x39312: test	rax, rax
+  0x39315: je	0x3940a
+  0x3931b: xor	ecx, ecx
+  0x3931d: call	0x28905d0
+  0x39322: mov	rcx, qword ptr [rip + 0x474a20f]
+  0x39329: mov	rdi, rax
+  0x3932c: cmp	dword ptr [rcx + 0xe0], 0
+  0x39333: jne	0x3933a
+  0x39335: call	0x361aae0
+  0x3933a: xor	r8d, r8d
+  0x3933d: lea	rcx, [rsp + 0x40]
+  0x39342: mov	rdx, rsi
+  0x39345: call	0x287e0e0
+  0x3934a: xor	r8d, r8d
+  0x3934d: lea	rcx, [rsp + 0x40]
+  0x39352: mov	rdx, rbx
+  0x39355: movups	xmm0, xmmword ptr [rax]
+  0x39358: movups	xmmword ptr [rsp + 0xa0], xmm0
+  0x39360: movups	xmm0, xmmword ptr [rax + 0x10]
+  0x39364: movups	xmmword ptr [rsp + 0x80], xmm0
+  0x3936c: call	0x287c4e0
+  0x39371: mov	rcx, qword ptr [rip + 0x46ec0b8]
+  0x39378: movups	xmm0, xmmword ptr [rax]
+  0x3937b: movups	xmmword ptr [rsp + 0x60], xmm0
+  0x39380: movsd	xmm0, qword ptr [rax + 0x10]
+  0x39385: movsd	qword ptr [rsp + 0xd0], xmm0
+  0x3938e: call	0x2e930
+  0x39393: mov	rcx, rax
+  0x39396: test	rdi, rdi
+  0x39399: je	0x39422
+  0x3939f: mov	rax, qword ptr [rdi]
+  0x393a2: lea	r8, [rsp + 0x60]
+  0x393a7: movups	xmm0, xmmword ptr [rsp + 0x60]
+  0x393ac: lea	rdx, [rsp + 0x40]
+  0x393b1: xor	r9d, r9d
+  0x393b4: movsd	xmm1, qword ptr [rsp + 0xd0]
+  0x393bd: mov	r10, qword ptr [rax + 0x278]
+  0x393c4: mov	rax, qword ptr [rax + 0x280]
+  0x393cb: mov	qword ptr [rsp + 0x30], rax
+  0x393d0: mov	qword ptr [rsp + 0x28], rcx
+  0x393d5: mov	rcx, rdi
+  0x393d8: movaps	xmmword ptr [rsp + 0x60], xmm0
+  0x393dd: movups	xmm0, xmmword ptr [rsp + 0xa0]
+  0x393e5: mov	dword ptr [rsp + 0x20], 0
+  0x393ed: movsd	qword ptr [rsp + 0x70], xmm1
+  0x393f3: movups	xmm1, xmmword ptr [rsp + 0x80]
+  0x393fb: movaps	xmmword ptr [rsp + 0x40], xmm0
+
+=== LocalizeManager$$Start RVA=0x39430 file=0x38830 ===
+void LocalizeManager__Start (LocalizeManager_o* __this, const MethodInfo* method);
+  0x39430: push	rbx
+  0x39432: sub	rsp, 0x20
+  0x39436: cmp	byte ptr [rip + 0x4a051ff], 0
+  0x3943d: jne	0x3945e
+  0x3943f: lea	rcx, [rip + 0x46ece5a]
+  0x39446: call	0x36ad120
+  0x3944b: lea	rcx, [rip + 0x4754fce]
+  0x39452: call	0x36ad120
+  0x39457: mov	byte ptr [rip + 0x4a051de], 1
+  0x3945e: xor	ecx, ecx
+  0x39460: call	0x288ff60
+  0x39465: mov	rbx, rax
+  0x39468: test	rax, rax
+  0x3946b: je	0x39502
+  0x39471: mov	r10, qword ptr [rax]
+  0x39474: xor	ecx, ecx
+  0x39476: mov	r9, qword ptr [rip + 0x46ece23]
+  0x3947d: movzx	edx, word ptr [r10 + 0x12e]
+  0x39485: cmp	cx, dx
+  0x39488: jae	0x394a5
+  0x3948a: mov	r8, qword ptr [r10 + 0xb0]
+  0x39491: movzx	eax, cx
+  0x39494: add	rax, rax
+  0x39497: cmp	qword ptr [r8 + rax*8], r9
+  0x3949b: je	0x394e8
+  0x3949d: inc	cx
+  0x394a0: cmp	cx, dx
+  0x394a3: jb	0x39491
+  0x394a5: xor	r8d, r8d
+  0x394a8: mov	rdx, r9
+  0x394ab: mov	rcx, rbx
+  0x394ae: call	0x36503d0
+  0x394b3: mov	r8, qword ptr [rax]
+  0x394b6: mov	rcx, rbx
+  0x394b9: mov	rdx, qword ptr [rax + 8]
+  0x394bd: call	r8
+  0x394c0: test	rax, rax
+  0x394c3: je	0x39502
+  0x394c5: mov	r8, qword ptr [rip + 0x4754f54]
+  0x394cc: mov	edx, 1
+  0x394d1: mov	rcx, rax
+  0x394d4: call	0x872f80
+  0x394d9: xor	edx, edx
+  0x394db: mov	rcx, rax
+  0x394de: add	rsp, 0x20
+  0x394e2: pop	rbx
+  0x394e3: jmp	0x28908a0
+  0x394e8: movzx	ecx, cx
+  0x394eb: add	rcx, rcx
+  0x394ee: movsxd	rax, dword ptr [r8 + rcx*8 + 8]
+  0x394f3: shl	rax, 4
+  0x394f7: add	rax, 0x138
+  0x394fd: add	rax, r10
+  0x39500: jmp	0x394b3
+  0x39502: call	0x36ad390
+  0x39507: int3	
+
+=== LocalizeManager$$GetLocalizeAsset<object> RVA=0x4e0340 file=0x4df740 ===
+Il2CppObject* LocalizeManager__GetLocalizeAsset_object_ (LocalizeManager_o* __this, System_String_o* _tableName, Il2CppObject* _object, const MethodInfo_4E0340* method);
+  0x4e0340: mov	qword ptr [rsp + 0x18], rbx
+  0x4e0345: push	rbp
+  0x4e0346: push	rsi
+  0x4e0347: push	rdi
+  0x4e0348: sub	rsp, 0xb0
+  0x4e034f: cmp	qword ptr [r9 + 0x38], 0
+  0x4e0354: mov	rdi, r9
+  0x4e0357: mov	rbx, r8
+  0x4e035a: mov	rbp, rdx
+  0x4e035d: mov	rsi, rcx
+  0x4e0360: jne	0x4e0389
+  0x4e0362: lea	rcx, [rip + 0x42a2bd7]
+  0x4e0369: call	0x36ad120
+  0x4e036e: lea	rcx, [rip + 0x42a31c3]
+  0x4e0375: call	0x36ad120
+  0x4e037a: cmp	qword ptr [rdi + 0x38], 0
+  0x4e037f: jne	0x4e0389
+  0x4e0381: mov	rcx, rdi
+  0x4e0384: call	0x3650b50
+  0x4e0389: cmp	dword ptr [rsi + 0x20], 0
+  0x4e038d: je	0x4e0587
+  0x4e0393: mov	qword ptr [rsp + 0xd8], r14
+  0x4e039b: test	rbx, rbx
+  0x4e039e: je	0x4e058c
+  0x4e03a4: xor	edx, edx
+  0x4e03a6: mov	rcx, rbx
+  0x4e03a9: call	0x2e6cde0
+  0x4e03ae: test	rax, rax
+  0x4e03b1: je	0x4e058c
+  0x4e03b7: mov	rdx, qword ptr [rax]
+  0x4e03ba: mov	rcx, rax
+  0x4e03bd: mov	r8, qword ptr [rdx + 0x168]
+  0x4e03c4: mov	rdx, qword ptr [rdx + 0x170]
+  0x4e03cb: call	r8
+  0x4e03ce: xor	ecx, ecx
+  0x4e03d0: mov	r14, rax
+  0x4e03d3: call	0x288ff20
+  0x4e03d8: mov	rcx, qword ptr [rip + 0x42a3159]
+  0x4e03df: mov	rsi, rax
+  0x4e03e2: cmp	dword ptr [rcx + 0xe0], 0
+  0x4e03e9: jne	0x4e03f0
+  0x4e03eb: call	0x361aae0
+  0x4e03f0: xor	r8d, r8d
+  0x4e03f3: lea	rcx, [rsp + 0x70]
+  0x4e03f8: mov	rdx, rbp
+  0x4e03fb: call	0x287e0e0
+  0x4e0400: test	rsi, rsi
+  0x4e0403: je	0x4e058c
+  0x4e0409: mov	r9, qword ptr [rsi]
+  0x4e040c: lea	rdx, [rsp + 0x30]
+  0x4e0411: movups	xmm0, xmmword ptr [rax]
+  0x4e0414: xor	r8d, r8d
+  0x4e0417: mov	rcx, rsi
+  0x4e041a: movups	xmm1, xmmword ptr [rax + 0x10]
+  0x4e041e: mov	rax, qword ptr [r9 + 0x1d8]
+  0x4e0425: mov	r9, qword ptr [r9 + 0x1e0]
+  0x4e042c: movaps	xmmword ptr [rsp + 0x30], xmm0
+  0x4e0431: movaps	xmmword ptr [rsp + 0x40], xmm1
+  0x4e0436: call	rax
+  0x4e0438: mov	rsi, rax
+  0x4e043b: test	rax, rax
+  0x4e043e: je	0x4e0582
+  0x4e0444: xor	r8d, r8d
+  0x4e0447: lea	rcx, [rsp + 0x90]
+  0x4e044f: mov	rdx, r14
+  0x4e0452: call	0x287c4e0
+  0x4e0457: mov	r8, qword ptr [rip + 0x42a2ae2]
+  0x4e045e: lea	rdx, [rsp + 0x70]
+  0x4e0463: mov	rcx, rsi
+  0x4e0466: movups	xmm0, xmmword ptr [rax]
+  0x4e0469: movsd	xmm1, qword ptr [rax + 0x10]
+  0x4e046e: movaps	xmmword ptr [rsp + 0x70], xmm0
+  0x4e0473: movsd	qword ptr [rsp + 0x80], xmm1
+  0x4e047c: call	0x18e80b0
+  0x4e0481: test	rax, rax
+  0x4e0484: je	0x4e0582
+  0x4e048a: xor	ecx, ecx
+  0x4e048c: call	0x288ff20
+  0x4e0491: mov	rcx, qword ptr [rip + 0x42a30a0]
+  0x4e0498: mov	rbx, rax
+  0x4e049b: cmp	dword ptr [rcx + 0xe0], 0
+  0x4e04a2: jne	0x4e04a9
+  0x4e04a4: call	0x361aae0
+  0x4e04a9: xor	r8d, r8d
+  0x4e04ac: lea	rcx, [rsp + 0x30]
+  0x4e04b1: mov	rdx, rbp
+  0x4e04b4: call	0x287e0e0
+  0x4e04b9: xor	r8d, r8d
+  0x4e04bc: lea	rcx, [rsp + 0x30]
+  0x4e04c1: mov	rdx, r14
+  0x4e04c4: movups	xmm0, xmmword ptr [rax]
+  0x4e04c7: movups	xmmword ptr [rsp + 0x90], xmm0
+  0x4e04cf: movups	xmm0, xmmword ptr [rax + 0x10]
+  0x4e04d3: movups	xmmword ptr [rsp + 0x70], xmm0
+  0x4e04d8: call	0x287c4e0
+  0x4e04dd: test	rbx, rbx
+  0x4e04e0: je	0x4e058c
+  0x4e04e6: movups	xmm0, xmmword ptr [rax]
+  0x4e04e9: mov	rcx, qword ptr [rbx]
+  0x4e04ec: movaps	xmmword ptr [rsp + 0x50], xmm0
+  0x4e04f1: movsd	xmm0, qword ptr [rax + 0x10]
+  0x4e04f6: mov	rax, qword ptr [rdi + 0x38]
+  0x4e04fa: movsd	qword ptr [rsp + 0xd0], xmm0
+  0x4e0503: mov	rdx, qword ptr [rax + 8]
+  0x4e0507: movzx	eax, word ptr [rdx + 0x50]
+  0x4e050b: add	rax, 0x14
+  0x4e050f: add	rax, rax
+  0x4e0512: mov	rcx, qword ptr [rcx + rax*8]
+  0x4e0516: call	0x36acd70
+  0x4e051b: movaps	xmm0, xmmword ptr [rsp + 0x50]
+  0x4e0520: lea	r8, [rsp + 0x50]
+  0x4e0525: movups	xmm1, xmmword ptr [rsp + 0x70]
+  0x4e052a: lea	rdx, [rsp + 0x30]
+  0x4e052f: xor	r9d, r9d
+  0x4e0532: movaps	xmmword ptr [rsp + 0x50], xmm0
+  0x4e0537: mov	rcx, rbx
+
+=== LocalizedImage$$OnLanguageUpdate RVA=0x396b0 file=0x38ab0 ===
+void LocalizedImage__OnLanguageUpdate (LocalizedImage_o* __this, int32_t _lang, const MethodInfo* method);
+  0x396b0: mov	qword ptr [rsp + 8], rbx
+  0x396b5: mov	qword ptr [rsp + 0x10], rsi
+  0x396ba: push	rdi
+  0x396bb: sub	rsp, 0x20
+  0x396bf: cmp	byte ptr [rip + 0x4a04f6a], 0
+  0x396c6: mov	esi, edx
+  0x396c8: mov	rdi, rcx
+  0x396cb: jne	0x39704
+  0x396cd: lea	rcx, [rip + 0x47225ec]
+  0x396d4: call	0x36ad120
+  0x396d9: lea	rcx, [rip + 0x4735ee8]
+  0x396e0: call	0x36ad120
+  0x396e5: lea	rcx, [rip + 0x46e4324]
+  0x396ec: call	0x36ad120
+  0x396f1: lea	rcx, [rip + 0x4707188]
+  0x396f8: call	0x36ad120
+  0x396fd: mov	byte ptr [rip + 0x4a04f2c], 1
+  0x39704: mov	rbx, qword ptr [rdi + 0x20]
+  0x39708: test	esi, esi
+  0x3970a: je	0x3977a
+  0x3970c: mov	rcx, qword ptr [rip + 0x46e42fd]
+  0x39713: cmp	dword ptr [rcx + 0xe0], 0
+  0x3971a: jne	0x39721
+  0x3971c: call	0x361aae0
+  0x39721: mov	rcx, qword ptr [rip + 0x4735ea0]
+  0x39728: call	0xa4d120
+  0x3972d: mov	r8, qword ptr [rdi + 0x20]
+  0x39731: test	r8, r8
+  0x39734: je	0x39786
+  0x39736: test	rax, rax
+  0x39739: je	0x39786
+  0x3973b: mov	r9, qword ptr [rip + 0x472257e]
+  0x39742: mov	rcx, rax
+  0x39745: mov	r8, qword ptr [r8 + 0xe0]
+  0x3974c: mov	rdx, qword ptr [rip + 0x470712d]
+  0x39753: call	0x4e0340
+  0x39758: test	rbx, rbx
+  0x3975b: je	0x39786
+  0x3975d: xor	r8d, r8d
+  0x39760: mov	rdx, rax
+  0x39763: mov	rcx, rbx
+  0x39766: mov	rbx, qword ptr [rsp + 0x30]
+  0x3976b: mov	rsi, qword ptr [rsp + 0x38]
+  0x39770: add	rsp, 0x20
+  0x39774: pop	rdi
+  0x39775: jmp	0x2f665a0
+  0x3977a: test	rbx, rbx
+  0x3977d: je	0x39786
+  0x3977f: xor	r8d, r8d
+  0x39782: xor	edx, edx
+  0x39784: jmp	0x39763
+  0x39786: call	0x36ad390
+  0x3978b: int3	
+
+=== LocalizedTextTMPro$$OnLanguageUpdate RVA=0x39bb0 file=0x38fb0 ===
+void LocalizedTextTMPro__OnLanguageUpdate (LocalizedTextTMPro_o* __this, int32_t _lang, const MethodInfo* method);
+  0x39bb0: mov	qword ptr [rsp + 8], rbx
+  0x39bb5: push	rdi
+  0x39bb6: sub	rsp, 0x20
+  0x39bba: cmp	byte ptr [rip + 0x4a04a78], 0
+  0x39bc1: mov	rdi, rcx
+  0x39bc4: jne	0x39bf1
+  0x39bc6: lea	rcx, [rip + 0x47359fb]
+  0x39bcd: call	0x36ad120
+  0x39bd2: lea	rcx, [rip + 0x46e3e37]
+  0x39bd9: call	0x36ad120
+  0x39bde: lea	rcx, [rip + 0x4754f9b]
+  0x39be5: call	0x36ad120
+  0x39bea: mov	byte ptr [rip + 0x4a04a48], 1
+  0x39bf1: mov	rcx, qword ptr [rip + 0x46e3e18]
+  0x39bf8: mov	rbx, qword ptr [rdi + 0x20]
+  0x39bfc: cmp	dword ptr [rcx + 0xe0], 0
+  0x39c03: jne	0x39c0a
+  0x39c05: call	0x361aae0
+  0x39c0a: mov	rcx, qword ptr [rip + 0x47359b7]
+  0x39c11: call	0xa4d120
+  0x39c16: test	rax, rax
+  0x39c19: je	0x39c5a
+  0x39c1b: mov	r8, qword ptr [rdi + 0x28]
+  0x39c1f: xor	r9d, r9d
+  0x39c22: mov	rdx, qword ptr [rip + 0x4754f57]
+  0x39c29: mov	rcx, rax
+  0x39c2c: call	0x39200
+  0x39c31: test	rbx, rbx
+  0x39c34: je	0x39c5a
+  0x39c36: mov	r8, qword ptr [rbx]
+  0x39c39: mov	rdx, rax
+  0x39c3c: mov	rcx, rbx
+  0x39c3f: mov	r9, qword ptr [r8 + 0x558]
+  0x39c46: mov	r8, qword ptr [r8 + 0x560]
+  0x39c4d: mov	rbx, qword ptr [rsp + 0x30]
+  0x39c52: add	rsp, 0x20
+  0x39c56: pop	rdi
+  0x39c57: jmp	r9
+  0x39c5a: call	0x36ad390
+  0x39c5f: int3	
+
+=== LocalizeTextFont$$OnLanguageUpdate RVA=0x39580 file=0x38980 ===
+void LocalizeTextFont__OnLanguageUpdate (LocalizeTextFont_o* __this, int32_t _lang, const MethodInfo* method);
+  0x39580: mov	qword ptr [rsp + 8], rbx
+  0x39585: push	rdi
+  0x39586: sub	rsp, 0x20
+  0x3958a: cmp	byte ptr [rip + 0x4a050af], 0
+  0x39591: mov	rbx, rcx
+  0x39594: jne	0x395cd
+  0x39596: lea	rcx, [rip + 0x472266b]
+  0x3959d: call	0x36ad120
+  0x395a2: lea	rcx, [rip + 0x473601f]
+  0x395a9: call	0x36ad120
+  0x395ae: lea	rcx, [rip + 0x46e445b]
+  0x395b5: call	0x36ad120
+  0x395ba: lea	rcx, [rip + 0x47072bf]
+  0x395c1: call	0x36ad120
+  0x395c6: mov	byte ptr [rip + 0x4a05073], 1
+  0x395cd: mov	rcx, qword ptr [rip + 0x46e443c]
+  0x395d4: mov	rdi, qword ptr [rbx + 0x20]
+  0x395d8: cmp	dword ptr [rcx + 0xe0], 0
+  0x395df: jne	0x395e6
+  0x395e1: call	0x361aae0
+  0x395e6: mov	rcx, qword ptr [rip + 0x4735fdb]
+  0x395ed: call	0xa4d120
+  0x395f2: test	rax, rax
+  0x395f5: je	0x3962e
+  0x395f7: mov	r9, qword ptr [rip + 0x472260a]
+  0x395fe: mov	rcx, rax
+  0x39601: mov	r8, qword ptr [rbx + 0x28]
+  0x39605: mov	rdx, qword ptr [rip + 0x4707274]
+  0x3960c: call	0x4e0340
+  0x39611: test	rdi, rdi
+  0x39614: je	0x3962e
+  0x39616: xor	r8d, r8d
+  0x39619: mov	rdx, rax
+  0x3961c: mov	rcx, rdi
+  0x3961f: mov	rbx, qword ptr [rsp + 0x30]
+  0x39624: add	rsp, 0x20
+  0x39628: pop	rdi
+  0x39629: jmp	0x3102890
+  0x3962e: call	0x36ad390
+  0x39633: int3	
+
+=== Config$$Save RVA=0x33760 file=0x32b60 ===
+void Config__Save (Config_o* __this, const MethodInfo* method);
+  0x33760: mov	qword ptr [rsp + 0x10], rbx
+  0x33765: push	rsi
+  0x33766: sub	rsp, 0x20
+  0x3376a: cmp	byte ptr [rip + 0x4a0ae33], 0
+  0x33771: mov	rbx, rcx
+  0x33774: jne	0x337dd
+  0x33776: lea	rcx, [rip + 0x46ec15b]
+  0x3377d: call	0x36ad120
+  0x33782: lea	rcx, [rip + 0x473a44f]
+  0x33789: call	0x36ad120
+  0x3378e: lea	rcx, [rip + 0x46f68fb]
+  0x33795: call	0x36ad120
+  0x3379a: lea	rcx, [rip + 0x46f791f]
+  0x337a1: call	0x36ad120
+  0x337a6: lea	rcx, [rip + 0x46f8f8b]
+  0x337ad: call	0x36ad120
+  0x337b2: lea	rcx, [rip + 0x473ac47]
+  0x337b9: call	0x36ad120
+  0x337be: lea	rcx, [rip + 0x475611b]
+  0x337c5: call	0x36ad120
+  0x337ca: lea	rcx, [rip + 0x4750357]
+  0x337d1: call	0x36ad120
+  0x337d6: mov	byte ptr [rip + 0x4a0adc7], 1
+  0x337dd: mov	rcx, qword ptr [rip + 0x473ac1c]
+  0x337e4: mov	qword ptr [rsp + 0x30], rdi
+  0x337e9: call	0x365fa60
+  0x337ee: xor	edx, edx
+  0x337f0: mov	rcx, rax
+  0x337f3: mov	rsi, rax
+  0x337f6: call	0x210800
+  0x337fb: test	rsi, rsi
+  0x337fe: je	0x3396b
+  0x33804: mov	rcx, qword ptr [rip + 0x475031d]
+  0x3380b: mov	qword ptr [rsi + 0x20], rcx
+  0x3380f: lea	rcx, [rsi + 0x20]
+  0x33813: mov	rdx, qword ptr [rip + 0x475030e]
+  0x3381a: call	0x36ac4a0
+  0x3381f: mov	rcx, qword ptr [rip + 0x47560ba]
+  0x33826: mov	qword ptr [rsi + 0x18], rcx
+  0x3382a: lea	rcx, [rsi + 0x18]
+  0x3382e: mov	rdx, qword ptr [rip + 0x47560ab]
+  0x33835: call	0x36ac4a0
+  0x3383a: mov	rcx, qword ptr [rip + 0x473a397]
+  0x33841: call	0x365fa60
+  0x33846: xor	edx, edx
+  0x33848: mov	rcx, rax
+  0x3384b: mov	rdi, rax
+  0x3384e: call	0x13d90
+  0x33853: mov	rcx, qword ptr [rbx + 0x58]
+  0x33857: test	rcx, rcx
+  0x3385a: je	0x3396b
+  0x33860: test	rdi, rdi
+  0x33863: je	0x3396b
+  0x33869: mov	ecx, dword ptr [rcx + 0x10]
+  0x3386c: mov	dword ptr [rdi + 0x20], ecx
+  0x3386f: mov	rax, qword ptr [rbx + 0x60]
+  0x33873: test	rax, rax
+  0x33876: je	0x3396b
+  0x3387c: mov	eax, dword ptr [rax + 0x10]
+  0x3387f: mov	dword ptr [rdi + 0x1c], eax
+  0x33882: mov	rax, qword ptr [rbx + 0x68]
+  0x33886: test	rax, rax
+  0x33889: je	0x3396b
+  0x3388f: mov	eax, dword ptr [rax + 0x10]
+  0x33892: mov	dword ptr [rdi + 0x14], eax
+  0x33895: mov	rax, qword ptr [rbx + 0x70]
+  0x33899: test	rax, rax
+  0x3389c: je	0x3396b
+  0x338a2: mov	eax, dword ptr [rax + 0x10]
+  0x338a5: mov	dword ptr [rdi + 0x18], eax
+  0x338a8: mov	rax, qword ptr [rbx + 0x78]
+  0x338ac: test	rax, rax
+  0x338af: je	0x3396b
+  0x338b5: mov	eax, dword ptr [rax + 0x10]
+  0x338b8: mov	dword ptr [rdi + 0x24], eax
+  0x338bb: mov	rax, qword ptr [rbx + 0x80]
+  0x338c2: test	rax, rax
+  0x338c5: je	0x3396b
+  0x338cb: mov	eax, dword ptr [rax + 0x10]
+  0x338ce: mov	dword ptr [rdi + 0x10], eax
+  0x338d1: mov	rax, qword ptr [rbx + 0x88]
+  0x338d8: test	rax, rax
+  0x338db: je	0x3396b
+  0x338e1: movzx	eax, byte ptr [rax + 0x10]
+  0x338e5: mov	byte ptr [rdi + 0x28], al
+  0x338e8: mov	rax, qword ptr [rbx + 0x90]
+  0x338ef: test	rax, rax
+  0x338f2: je	0x3396b
+  0x338f4: mov	eax, dword ptr [rax + 0x10]
+  0x338f7: mov	dword ptr [rdi + 0x2c], eax
+  0x338fa: mov	rax, qword ptr [rbx + 0x98]
+  0x33901: test	rax, rax
+  0x33904: je	0x3396b
+  0x33906: mov	eax, dword ptr [rax + 0x10]
+  0x33909: mov	dword ptr [rdi + 0x30], eax
+  0x3390c: mov	rax, qword ptr [rbx + 0xa0]
+  0x33913: test	rax, rax
+  0x33916: je	0x3396b
+  0x33918: mov	eax, dword ptr [rax + 0x10]
+  0x3391b: mov	dword ptr [rdi + 0x34], eax
+  0x3391e: mov	rax, qword ptr [rbx + 0xa8]
+  0x33925: test	rax, rax
+  0x33928: je	0x3396b
+  0x3392a: mov	eax, dword ptr [rax + 0x10]
+  0x3392d: xor	edx, edx
+  0x3392f: mov	rcx, rsi
+  0x33932: mov	dword ptr [rdi + 0x38], eax
+  0x33935: call	0x210280
+  0x3393a: xor	edx, edx
+  0x3393c: mov	rcx, rsi
+  0x3393f: mov	rbx, rax
+  0x33942: call	0x2102e0
+  0x33947: mov	r9, qword ptr [rip + 0x46ebf8a]
+  0x3394e: mov	r8, rdi
+  0x33951: mov	rdx, rax
+  0x33954: mov	rcx, rbx
+  0x33957: mov	rdi, qword ptr [rsp + 0x30]
+
+=== Config$$Load RVA=0x33310 file=0x32710 ===
+void Config__Load (Config_o* __this, const MethodInfo* method);
+  0x33310: mov	qword ptr [rsp + 8], rbx
+  0x33315: push	rdi
+  0x33316: sub	rsp, 0x20
+  0x3331a: cmp	byte ptr [rip + 0x4a0b284], 0
+  0x33321: mov	rbx, rcx
+  0x33324: jne	0x33381
+  0x33326: lea	rcx, [rip + 0x46ec38b]
+  0x3332d: call	0x36ad120
+  0x33332: lea	rcx, [rip + 0x46f6e0f]
+  0x33339: call	0x36ad120
+  0x3333e: lea	rcx, [rip + 0x46f7e2b]
+  0x33345: call	0x36ad120
+  0x3334a: lea	rcx, [rip + 0x46f9497]
+  0x33351: call	0x36ad120
+  0x33356: lea	rcx, [rip + 0x473b0a3]
+  0x3335d: call	0x36ad120
+  0x33362: lea	rcx, [rip + 0x4756577]
+  0x33369: call	0x36ad120
+  0x3336e: lea	rcx, [rip + 0x47507b3]
+  0x33375: call	0x36ad120
+  0x3337a: mov	byte ptr [rip + 0x4a0b224], 1
+  0x33381: mov	rcx, qword ptr [rip + 0x473b078]
+  0x33388: mov	qword ptr [rsp + 0x40], 0
+  0x33391: call	0x365fa60
+  0x33396: xor	edx, edx
+  0x33398: mov	rcx, rax
+  0x3339b: mov	rdi, rax
+  0x3339e: call	0x210800
+  0x333a3: test	rdi, rdi
+  0x333a6: je	0x3360a
+  0x333ac: mov	rcx, qword ptr [rip + 0x4750775]
+  0x333b3: mov	qword ptr [rdi + 0x20], rcx
+  0x333b7: lea	rcx, [rdi + 0x20]
+  0x333bb: mov	rdx, qword ptr [rip + 0x4750766]
+  0x333c2: call	0x36ac4a0
+  0x333c7: mov	rcx, qword ptr [rip + 0x4756512]
+  0x333ce: mov	qword ptr [rdi + 0x18], rcx
+  0x333d2: lea	rcx, [rdi + 0x18]
+  0x333d6: mov	rdx, qword ptr [rip + 0x4756503]
+  0x333dd: call	0x36ac4a0
+  0x333e2: xor	edx, edx
+  0x333e4: mov	rcx, rdi
+  0x333e7: call	0x2104e0
+  0x333ec: xor	edx, edx
+  0x333ee: mov	rcx, rax
+  0x333f1: call	0x2035b0
+  0x333f6: test	al, al
+  0x333f8: je	0x335ff
+  0x333fe: xor	edx, edx
+  0x33400: mov	rcx, rdi
+  0x33403: call	0x2104e0
+  0x33408: mov	r8, qword ptr [rip + 0x46ec2a9]
+  0x3340f: lea	rdx, [rsp + 0x40]
+  0x33414: mov	rcx, rax
+  0x33417: call	0x37fb00
+  0x3341c: test	al, al
+  0x3341e: je	0x335ff
+  0x33424: mov	rax, qword ptr [rsp + 0x40]
+  0x33429: test	rax, rax
+  0x3342c: je	0x3360a
+  0x33432: mov	rcx, qword ptr [rbx + 0x58]
+  0x33436: test	rcx, rcx
+  0x33439: je	0x3360a
+  0x3343f: mov	r8, qword ptr [rip + 0x46f93a2]
+  0x33446: movss	xmm1, dword ptr [rax + 0x20]
+  0x3344b: call	0xbfb3e0
+  0x33450: mov	rax, qword ptr [rsp + 0x40]
+  0x33455: test	rax, rax
+  0x33458: je	0x3360a
+  0x3345e: mov	rcx, qword ptr [rbx + 0x60]
+  0x33462: test	rcx, rcx
+  0x33465: je	0x3360a
+  0x3346b: mov	r8, qword ptr [rip + 0x46f9376]
+  0x33472: movss	xmm1, dword ptr [rax + 0x1c]
+  0x33477: call	0xbfb3e0
+  0x3347c: mov	rax, qword ptr [rsp + 0x40]
+  0x33481: test	rax, rax
+  0x33484: je	0x3360a
+  0x3348a: mov	rcx, qword ptr [rbx + 0x68]
+  0x3348e: test	rcx, rcx
+  0x33491: je	0x3360a
+  0x33497: mov	r8, qword ptr [rip + 0x46f934a]
+  0x3349e: movss	xmm1, dword ptr [rax + 0x14]
+  0x334a3: call	0xbfb3e0
+  0x334a8: mov	rax, qword ptr [rsp + 0x40]
+  0x334ad: test	rax, rax
+  0x334b0: je	0x3360a
+  0x334b6: mov	rcx, qword ptr [rbx + 0x70]
+  0x334ba: test	rcx, rcx
+  0x334bd: je	0x3360a
+  0x334c3: mov	r8, qword ptr [rip + 0x46f931e]
+  0x334ca: movss	xmm1, dword ptr [rax + 0x18]
+  0x334cf: call	0xbfb3e0
+  0x334d4: mov	rax, qword ptr [rsp + 0x40]
+  0x334d9: test	rax, rax
+  0x334dc: je	0x3360a
+  0x334e2: mov	rcx, qword ptr [rbx + 0x78]
+  0x334e6: test	rcx, rcx
+  0x334e9: je	0x3360a
+  0x334ef: mov	r8, qword ptr [rip + 0x46f92f2]
+  0x334f6: movss	xmm1, dword ptr [rax + 0x24]
+  0x334fb: call	0xbfb3e0
+  0x33500: mov	rax, qword ptr [rsp + 0x40]
+  0x33505: test	rax, rax
+  0x33508: je	0x3360a

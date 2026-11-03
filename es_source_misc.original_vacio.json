@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "note": "Pruned: only strings in bundles of the active catalog and not already in Translation_en/locale. Others (Interactable/ItemData) live only in stale bundles never loaded by the game.",
+    "count": 2,
+    "total_uses": 107,
+    "bundles": 55,
+    "by_kind": {
+      "interactable": 24,
+      "item": 15,
+      "locale": 3,
+      "other": 2,
+      "tmp_ui": 2,
+      "ui_text": 18
+    },
+    "id_start": 200000,
+    "skipped_count": 84,
+    "skipped_by_reason": {
+      "skip_class": 26,
+      "out_of_scope": 2,
+      "translation_en_key": 8,
+      "tmp_placeholder": 2,
+      "locale_code": 1,
+      "ui_text_debug_short": 1,
+      "vs_internal_label": 44
+    },
+    "non_bundle_listed": 0,
+    "candidates_total": 150,
+    "bundles_without_catalog_crc": [
+      "StandaloneWindows64/00876823e433c8400ecb7f3f8327b52a.bundle",
+      "StandaloneWindows64/01dee441eec8ca0573bf4087527ac5d2.bundle",
+      "StandaloneWindows64/020418dfb142b6b72cb01ca4e12808e2.bundle",
+      "StandaloneWindows64/02d96c57e8004b1bc067afcb941a6f36.bundle",
+      "StandaloneWindows64/062275e02e556ceb2fe9aacaee321448.bundle",
+      "StandaloneWindows64/0be26495f0e5cd21ecfbba8c7a15ace9.bundle",
+      "StandaloneWindows64/1054e94705b7a1a4bc374a0438bf043b.bundle",
+      "StandaloneWindows64/1fa2644df97e2fd80cefa1d96d366e36.bundle",
+      "StandaloneWindows64/20154fa3f7c9c3f5f06571f5ed73e9cf.bundle",
+      "StandaloneWindows64/2369d7d122eb7d9b7bc796c031348482.bundle",
+      "StandaloneWindows64/30eff56e84e82f5f6b45330a694c6684.bundle",
+      "StandaloneWindows64/3377a7c168c0e93d5e846dde33f2a207.bundle",
+      "StandaloneWindows64/375816485986db6870a4e3c4ddb0997c.bundle",
+      "StandaloneWindows64/3a7b609e999f6d3fdc182498460fe62d.bundle",
+      "StandaloneWindows64/42a37e43bcb0e35aac5d44a6876f7923.bundle",
+      "StandaloneWindows64/43cb8d7247b8473365eeb49f88735e5a.bundle",
+      "StandaloneWindows64/45f533a5ae0385377f09fba0556a3b0a.bundle",
+      "StandaloneWindows64/4c8ea3bc5d641b4b0ce907e097d7f1e6.bundle",
+      "StandaloneWindows64/5241baca35e5a78602e93cb840237be5.bundle",
+      "StandaloneWindows64/5c721dcbab2dbfb8402dc18c75dd8dcd.bundle",
+      "StandaloneWindows64/694de5f80249687003cfb12ba7febc5d.bundle",
+      "StandaloneWindows64/6f4a2e05ffc298287428df9f6d43ba2f.bundle",
+      "StandaloneWindows64/700775954cd7c8a9375bbefd0bc44a4f.bundle",
+      "StandaloneWindows64/72f19fd7e882d22a9aac49129f9eb5f7.bundle",
+      "StandaloneWindows64/79adeac04126dce24e2922f9956b07ab.bundle",
+      "StandaloneWindows64/7a460810653a2cec20f54b859a4a0afc.bundle",
+      "StandaloneWindows64/80f9dee2b4c99aa9b2d239d9477c5872.bundle",
+      "StandaloneWindows64/81763215a129aa85662c4378097d0bfc.bundle",
+      "StandaloneWindows64/886ffadba6d3e6a0a9a042253f18d064.bundle",
+      "StandaloneWindows64/901c6bb5e6bd9b3978f7191c06d57725.bundle",
+      "StandaloneWindows64/97a3297336afa0314dfae19428826d82.bundle",
+      "StandaloneWindows64/9a19a6c26c54a086aad3f86cca863664.bundle",
+      "StandaloneWindows64/a4657fa2d7923a93b51afc1a2f77b66f.bundle",
+      "StandaloneWindows64/ab5f5ef4aa2817174c825b43affc94ed.bundle",
+      "StandaloneWindows64/ac90ace6b3826db1f339a2743c614847.bundle",
+      "StandaloneWindows64/b5746c60487d4a2fe8f0e888b922a61a.bundle",
+      "StandaloneWindows64/b877bf7de6a1d0eb8616109a109c296a.bundle",
+      "StandaloneWindows64/c137e458caeb12448fdfca58c0e7a64d.bundle",
+      "StandaloneWindows64/c140e1089a0af29932d8ce7bcf16b2da.bundle",
+      "StandaloneWindows64/cf59504e15725a2e683a88a916139751.bundle",
+      "StandaloneWindows64/d1cd77a6e55be45bd7b21f95dcf0579d.bundle",
+      "StandaloneWindows64/db7eb9e7ca97a3dd47e1ebd36ad6edb7.bundle",
+      "StandaloneWindows64/def1a17e58883b19e66f017c40742130.bundle",
+      "StandaloneWindows64/e04ddcc8b08478eec58b9865e8dc6f12.bundle",
+      "StandaloneWindows64/e1262c30087b1c83bb2a077ac05884b0.bundle",
+      "StandaloneWindows64/e2d3364cd87c2b1bf973d0b862d1a2ae.bundle",
+      "StandaloneWindows64/ec27bbfc5dbc2f49f59e13f913fafebb.bundle"
+    ],
+    "bundles_with_catalog_crc": 8
+  },
+  "texts": [
+    {
+      "id": 200018,
+      "kind": "interactable",
+      "cmds": [
+        "StrayCatLab.Game.Interactable"
+      ],
+      "uses": 7,
+      "en": "Tips",
+      "ja": "",
+      "context": "StrayCatLab.Game.Interactable.text",
+      "es": ""
+    },
+    {
+      "id": 200044,
+      "kind": "tmp_ui",
+      "cmds": [
+        "TMPro.TextMeshProUGUI"
+      ],
+      "uses": 5,
+      "en": "NewGame",
+      "ja": "",
+      "context": "TMPro.TextMeshProUGUI.m_text",
+      "es": ""
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "spanish_chars": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+  "tmp_font_assets_unique": [
+    {
+      "kind": "TMP_FontAsset",
+      "name": "Corporate-Mincho-ver2 SDF",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "container_file": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "path_id": -3674763128401292280,
+      "atlas_mode": "Dynamic",
+      "glyph_count": 473,
+      "family": "Corporate Mincho ver2",
+      "spanish_present": "…'",
+      "spanish_missing": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»—\"",
+      "fallbacks": [],
+      "source_font_file_name": "",
+      "source_font_guid": "a0fbaf3d251cbf04386102ef38e75175",
+      "character_set_mode": 7,
+      "source_font_embedded_in_asset": false
+    },
+    {
+      "kind": "TMP_FontAsset",
+      "name": "Honoka_Shin_Mincho_L SDF - Variant",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\7d1fbb8bac9eb574f5f021e9c38ee832.bundle",
+      "container_file": "7d1fbb8bac9eb574f5f021e9c38ee832.bundle",
+      "path_id": 6643940104961264058,
+      "atlas_mode": "Dynamic",
+      "glyph_count": 1600,
+      "family": "Honoka Shin Mincho",
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": "",
+      "fallbacks": [],
+      "source_font_file_name": "",
+      "source_font_guid": "d7d1163adcdde62479778550ce6b19ab",
+      "character_set_mode": 6,
+      "source_font_embedded_in_asset": false
+    },
+    {
+      "kind": "TMP_FontAsset",
+      "name": "Honoka_Shin_Mincho_L SDF",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\7d1fbb8bac9eb574f5f021e9c38ee832.bundle",
+      "container_file": "7d1fbb8bac9eb574f5f021e9c38ee832.bundle",
+      "path_id": 8683220474330829292,
+      "atlas_mode": "Dynamic",
+      "glyph_count": 1953,
+      "family": "Honoka Shin Mincho",
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": "",
+      "fallbacks": [
+        "fileID:None"
+      ],
+      "source_font_file_name": "",
+      "source_font_guid": "d7d1163adcdde62479778550ce6b19ab",
+      "character_set_mode": 6,
+      "source_font_embedded_in_asset": false
+    },
+    {
+      "kind": "TMP_FontAsset",
+      "name": "LiberationSans SDF",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\57cd5f06fa66144e14ab0ce0f58d3e01.bundle",
+      "container_file": "57cd5f06fa66144e14ab0ce0f58d3e01.bundle",
+      "path_id": 67,
+      "atlas_mode": "Static",
+      "glyph_count": 250,
+      "family": "Liberation Sans",
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": "",
+      "fallbacks": [
+        "fileID:None"
+      ],
+      "source_font_file_name": "",
+      "source_font_guid": "e3265ab4bf004d28a9537516768c1c75",
+      "character_set_mode": 1,
+      "source_font_embedded_in_asset": false
+    },
+    {
+      "kind": "TMP_FontAsset",
+      "name": "LiberationSans SDF - Fallback",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\57cd5f06fa66144e14ab0ce0f58d3e01.bundle",
+      "container_file": "57cd5f06fa66144e14ab0ce0f58d3e01.bundle",
+      "path_id": 68,
+      "atlas_mode": "Dynamic",
+      "glyph_count": 0,
+      "family": "Liberation Sans",
+      "spanish_present": "",
+      "spanish_missing": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "fallbacks": [],
+      "source_font_file_name": "",
+      "source_font_guid": "e3265ab4bf004d28a9537516768c1c75",
+      "character_set_mode": 1,
+      "source_font_embedded_in_asset": false
+    },
+    {
+      "kind": "TMP_FontAsset",
+      "name": "Roboto-Italic-VariableFont_wdth,wght SDF",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\3a7b609e999f6d3fdc182498460fe62d.bundle",
+      "container_file": "3a7b609e999f6d3fdc182498460fe62d.bundle",
+      "path_id": 61,
+      "atlas_mode": "Static",
+      "glyph_count": 412,
+      "family": "Roboto",
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": "",
+      "fallbacks": [],
+      "source_font_file_name": "",
+      "source_font_guid": "fac779da2ec9a5847b1b2e32d5e8a5ec",
+      "character_set_mode": 8,
+      "source_font_embedded_in_asset": false
+    }
+  ],
+  "all_scanned": [
+    {
+      "kind": "Font",
+      "name": "PerfectDOSVGA437",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\resources.assets",
+      "container_file": "resources.assets",
+      "path_id": 32,
+      "bytes": 81192,
+      "cmap_count": 281,
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": ""
+    },
+    {
+      "kind": "Font",
+      "name": "LiberationSans",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\resources.assets",
+      "container_file": "resources.assets",
+      "path_id": 33,
+      "bytes": 350200,
+      "cmap_count": 2331,
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": ""
+    },
+    {
+      "kind": "TMP_FontAsset",
+      "name": "Corporate-Mincho-ver2 SDF",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "container_file": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "path_id": -3674763128401292280,
+      "atlas_mode": "Dynamic",
+      "glyph_count": 473,
+      "family": "Corporate Mincho ver2",
+      "spanish_present": "…'",
+      "spanish_missing": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»—\"",
+      "fallbacks": [],
+      "source_font_file_name": "",
+      "source_font_guid": "a0fbaf3d251cbf04386102ef38e75175",
+      "character_set_mode": 7,
+      "source_font_embedded_in_asset": false
+    },
+    {
+      "kind": "Font",
+      "name": "LiberationSans",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "container_file": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "path_id": 2716190411336593533,
+      "bytes": 350200,
+      "cmap_count": 2331,
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": ""
+    },
+    {
+      "kind": "Font",
+      "name": "Corporate-Mincho-ver2",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "container_file": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "path_id": 6058918421160262509,
+      "bytes": 7344528,
+      "cmap_count": 10058,
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": ""
+    },
+    {
+      "kind": "Font",
+      "name": "Honoka_Shin_Mincho_L",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\85bf13179bb6b147134bc8a1540a9b1d.bundle",
+      "container_file": "85bf13179bb6b147134bc8a1540a9b1d.bundle",
+      "path_id": -4504436949592585142,
+      "bytes": 3585480,
+      "cmap_count": 10176,
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": ""
+    },
+    {
+      "kind": "TMP_FontAsset",
+      "name": "Honoka_Shin_Mincho_L SDF - Variant",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\7d1fbb8bac9eb574f5f021e9c38ee832.bundle",
+      "container_file": "7d1fbb8bac9eb574f5f021e9c38ee832.bundle",
+      "path_id": 6643940104961264058,
+      "atlas_mode": "Dynamic",
+      "glyph_count": 1600,
+      "family": "Honoka Shin Mincho",
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": "",
+      "fallbacks": [],
+      "source_font_file_name": "",
+      "source_font_guid": "d7d1163adcdde62479778550ce6b19ab",
+      "character_set_mode": 6,
+      "source_font_embedded_in_asset": false
+    },
+    {
+      "kind": "TMP_FontAsset",
+      "name": "Honoka_Shin_Mincho_L SDF",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\7d1fbb8bac9eb574f5f021e9c38ee832.bundle",
+      "container_file": "7d1fbb8bac9eb574f5f021e9c38ee832.bundle",
+      "path_id": 8683220474330829292,
+      "atlas_mode": "Dynamic",
+      "glyph_count": 1953,
+      "family": "Honoka Shin Mincho",
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": "",
+      "fallbacks": [
+        "fileID:None"
+      ],
+      "source_font_file_name": "",
+      "source_font_guid": "d7d1163adcdde62479778550ce6b19ab",
+      "character_set_mode": 6,
+      "source_font_embedded_in_asset": false
+    },
+    {
+      "kind": "TMP_FontAsset",
+      "name": "LiberationSans SDF",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\57cd5f06fa66144e14ab0ce0f58d3e01.bundle",
+      "container_file": "57cd5f06fa66144e14ab0ce0f58d3e01.bundle",
+      "path_id": 67,
+      "atlas_mode": "Static",
+      "glyph_count": 250,
+      "family": "Liberation Sans",
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": "",
+      "fallbacks": [
+        "fileID:None"
+      ],
+      "source_font_file_name": "",
+      "source_font_guid": "e3265ab4bf004d28a9537516768c1c75",
+      "character_set_mode": 1,
+      "source_font_embedded_in_asset": false
+    },
+    {
+      "kind": "TMP_FontAsset",
+      "name": "LiberationSans SDF - Fallback",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\57cd5f06fa66144e14ab0ce0f58d3e01.bundle",
+      "container_file": "57cd5f06fa66144e14ab0ce0f58d3e01.bundle",
+      "path_id": 68,
+      "atlas_mode": "Dynamic",
+      "glyph_count": 0,
+      "family": "Liberation Sans",
+      "spanish_present": "",
+      "spanish_missing": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "fallbacks": [],
+      "source_font_file_name": "",
+      "source_font_guid": "e3265ab4bf004d28a9537516768c1c75",
+      "character_set_mode": 1,
+      "source_font_embedded_in_asset": false
+    },
+    {
+      "kind": "Font",
+      "name": "NotInter-Regular",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\7ff7bbb50d8963f8cfda64e43d946131.bundle",
+      "container_file": "7ff7bbb50d8963f8cfda64e43d946131.bundle",
+      "path_id": -8781846101284457791,
+      "bytes": 431520,
+      "cmap_count": 2556,
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": ""
+    },
+    {
+      "kind": "Font",
+      "name": "Roboto-Bold",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\7ff7bbb50d8963f8cfda64e43d946131.bundle",
+      "container_file": "7ff7bbb50d8963f8cfda64e43d946131.bundle",
+      "path_id": 796571927172988722,
+      "bytes": 170760,
+      "cmap_count": 896,
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": ""
+    },
+    {
+      "kind": "Font",
+      "name": "Roboto-Regular",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\7ff7bbb50d8963f8cfda64e43d946131.bundle",
+      "container_file": "7ff7bbb50d8963f8cfda64e43d946131.bundle",
+      "path_id": 7771590559297266090,
+      "bytes": 171676,
+      "cmap_count": 896,
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": ""
+    },
+    {
+      "kind": "TMP_FontAsset",
+      "name": "Roboto-Italic-VariableFont_wdth,wght SDF",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\3a7b609e999f6d3fdc182498460fe62d.bundle",
+      "container_file": "3a7b609e999f6d3fdc182498460fe62d.bundle",
+      "path_id": 61,
+      "atlas_mode": "Static",
+      "glyph_count": 412,
+      "family": "Roboto",
+      "spanish_present": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+      "spanish_missing": "",
+      "fallbacks": [],
+      "source_font_file_name": "",
+      "source_font_guid": "fac779da2ec9a5847b1b2e32d5e8a5ec",
+      "character_set_mode": 8,
+      "source_font_embedded_in_asset": false
+    }
+  ],
+  "catalog_font_refs": [
+    {
+      "primary": "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+      "internal": "6",
+      "dep": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/Game/Fonts/Honoka_Shin_Mincho_L SDF.asset",
+      "internal": "8",
+      "dep": "498191146",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/Game/Fonts/Honoka_Shin_Mincho_L SDF.asset",
+      "internal": "8",
+      "dep": "498191146",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/Game/Fonts/Honoka_Shin_Mincho_L SDF.asset",
+      "internal": "8",
+      "dep": "498191146",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/Game/Fonts/Corporate-Mincho-ver2.ttf",
+      "internal": "a",
+      "dep": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/Game/Fonts/Corporate-Mincho-ver2.ttf",
+      "internal": "a",
+      "dep": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/Game/Fonts/Corporate-Mincho-ver2.ttf",
+      "internal": "a",
+      "dep": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/Game/Fonts/Corporate-Mincho-ver2 SDF.asset",
+      "internal": "a8",
+      "dep": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/Game/Fonts/Corporate-Mincho-ver2 SDF.asset",
+      "internal": "a8",
+      "dep": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/Game/Fonts/Corporate-Mincho-ver2 SDF.asset",
+      "internal": "a8",
+      "dep": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/Game/Fonts/Honoka_Shin_Mincho_L_highlight SDF.mat",
+      "internal": "b",
+      "dep": "-2098046168",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/TextMesh Pro/Fonts/LiberationSans.ttf",
+      "internal": "e",
+      "dep": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/TextMesh Pro/Fonts/LiberationSans.ttf",
+      "internal": "e",
+      "dep": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/TextMesh Pro/Fonts/LiberationSans.ttf",
+      "internal": "e",
+      "dep": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/Game/Fonts/Honoka_Shin_Mincho_L.otf",
+      "internal": "f",
+      "dep": "85bf13179bb6b147134bc8a1540a9b1d.bundle",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/Game/Fonts/Honoka_Shin_Mincho_L.otf",
+      "internal": "f",
+      "dep": "85bf13179bb6b147134bc8a1540a9b1d.bundle",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/Game/Fonts/Honoka_Shin_Mincho_L.otf",
+      "internal": "f",
+      "dep": "85bf13179bb6b147134bc8a1540a9b1d.bundle",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+      "internal": "fe",
+      "dep": "ad133aaa6b7c43f15f99cf476d087942.bundle",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+    },
+    {
+      "primary": "Fonts & Materials/LiberationSans SDF",
+      "internal": "Fonts & Materials/LiberationSans SDF",
+      "dep": "None",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider"
+    },
+    {
+      "primary": "Fonts & Materials/LiberationSans SDF",
+      "internal": "Fonts & Materials/LiberationSans SDF",
+      "dep": "None",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider"
+    },
+    {
+      "primary": "Fonts & Materials/LiberationSans SDF",
+      "internal": "Fonts & Materials/LiberationSans SDF",
+      "dep": "None",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider"
+    },
+    {
+      "primary": "Fonts & Materials/LiberationSans SDF - Drop Shadow",
+      "internal": "Fonts & Materials/LiberationSans SDF - Drop Shadow",
+      "dep": "None",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider"
+    },
+    {
+      "primary": "Fonts & Materials/LiberationSans SDF - Fallback",
+      "internal": "Fonts & Materials/LiberationSans SDF - Fallback",
+      "dep": "None",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider"
+    },
+    {
+      "primary": "Fonts & Materials/LiberationSans SDF - Fallback",
+      "internal": "Fonts & Materials/LiberationSans SDF - Fallback",
+      "dep": "None",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider"
+    },
+    {
+      "primary": "Fonts & Materials/LiberationSans SDF - Fallback",
+      "internal": "Fonts & Materials/LiberationSans SDF - Fallback",
+      "dep": "None",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider"
+    },
+    {
+      "primary": "Fonts & Materials/LiberationSans SDF - Outline",
+      "internal": "Fonts & Materials/LiberationSans SDF - Outline",
+      "dep": "None",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider"
+    },
+    {
+      "primary": "TMP Settings",
+      "internal": "TMP Settings",
+      "dep": "None",
+      "provider": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider"
+    }
+  ]
+}

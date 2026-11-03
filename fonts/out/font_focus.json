@@ -1,0 +1,75 @@
+[
+  {
+    "type": "Font",
+    "path": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\resources.assets",
+    "path_id": 32,
+    "name": "PerfectDOSVGA437",
+    "size": 81192,
+    "cmap_error": "a bytes-like object is required, not 'list'"
+  },
+  {
+    "type": "Font",
+    "path": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\resources.assets",
+    "path_id": 33,
+    "name": "LiberationSans",
+    "size": 350200,
+    "cmap_error": "a bytes-like object is required, not 'list'"
+  },
+  {
+    "type": "TMP_FontAsset",
+    "path": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\ad133aaa6b7c43f15f99cf476d087942.bundle",
+    "path_id": -3674763128401292280,
+    "name": "Corporate-Mincho-ver2 SDF",
+    "atlas_mode": "Dynamic",
+    "glyph_count": 473,
+    "family": "Corporate Mincho ver2",
+    "spanish_present": "…'",
+    "spanish_missing": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»—\"",
+    "fallbacks": [],
+    "has_source_font_bytes": false,
+    "creationSettings": {
+      "sourceFontFileName": "",
+      "sourceFontFileGUID": "a0fbaf3d251cbf04386102ef38e75175",
+      "faceIndex": 0,
+      "pointSizeSamplingMode": 0,
+      "pointSize": 90,
+      "padding": 9,
+      "paddingMode": 0,
+      "packingMode": 0,
+      "atlasWidth": 4096,
+      "atlasHeight": 4096,
+      "characterSetSelectionMode": 7,
+      "characterSequence": "",
+      "referencedFontAssetGUID": "",
+      "referencedTextAssetGUID": "",
+      "fontStyle": 0,
+      "fontStyleModifier": 0.0,
+      "renderMode": 4165,
+      "includeFontFeatures": 0
+    }
+  },
+  {
+    "type": "Font",
+    "path": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\ad133aaa6b7c43f15f99cf476d087942.bundle",
+    "path_id": 2716190411336593533,
+    "name": "LiberationSans",
+    "size": 350200,
+    "cmap_error": "a bytes-like object is required, not 'list'"
+  },
+  {
+    "type": "Font",
+    "path": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\ad133aaa6b7c43f15f99cf476d087942.bundle",
+    "path_id": 6058918421160262509,
+    "name": "Corporate-Mincho-ver2",
+    "size": 7344528,
+    "cmap_error": "a bytes-like object is required, not 'list'"
+  },
+  {
+    "type": "Font",
+    "path": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\85bf13179bb6b147134bc8a1540a9b1d.bundle",
+    "path_id": -4504436949592585142,
+    "name": "Honoka_Shin_Mincho_L",
+    "size": 3585480,
+    "cmap_error": "a bytes-like object is required, not 'list'"
+  }
+]

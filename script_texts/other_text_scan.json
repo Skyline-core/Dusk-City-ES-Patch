@@ -1,0 +1,368 @@
+{
+ "categories": {
+  "MonoBehaviour": 1193,
+  "GameObject": 497
+ },
+ "samples": [
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[0].from.portKey",
+   "text": "controlOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[0].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[1].from.portKey",
+   "text": "controlOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[1].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[2].from.portKey",
+   "text": "controlOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[2].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[3].from.portKey",
+   "text": "controlOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[3].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[4].from.portKey",
+   "text": "controlOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[4].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[5].from.portKey",
+   "text": "falseOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[5].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[6].from.portKey",
+   "text": "trueOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[6].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[7].from.portKey",
+   "text": "controlOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[7].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[8].from.portKey",
+   "text": "controlOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[8].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[9].from.portKey",
+   "text": "controlOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[9].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[10].from.portKey",
+   "text": "controlOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[10].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[11].from.portKey",
+   "text": "controlOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[11].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[12].from.portKey",
+   "text": "controlOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[12].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[13].from.portKey",
+   "text": "controlOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[13].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[14].from.portKey",
+   "text": "trueOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[14].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[15].from.portKey",
+   "text": "controlOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[15].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[16].from.portKey",
+   "text": "controlOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[16].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[17].from.portKey",
+   "text": "trueOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[17].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[18].from.portKey",
+   "text": "falseOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[18].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[19].from.portKey",
+   "text": "falseOutput"
+  },
+  {
+   "bundle": "03844110bb386de951b94bef79fad877.bundle",
+   "path_id": 8494451559136191126,
+   "field": "MonoBehaviour.edges[19].to.portKey",
+   "text": "controlInput"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 1,
+   "field": "GameObject.m_Name",
+   "text": "VisualScripting SceneVariables"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 3,
+   "field": "GameObject.m_Name",
+   "text": "GameObject"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 15,
+   "field": "GameObject.m_Name",
+   "text": "Destructable"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 16,
+   "field": "GameObject.m_Name",
+   "text": "aquamarine"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 23,
+   "field": "GameObject.m_Name",
+   "text": "Crystalbase"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 26,
+   "field": "GameObject.m_Name",
+   "text": "Crystalbase (1)"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 28,
+   "field": "GameObject.m_Name",
+   "text": "WestTile (11)"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 32,
+   "field": "GameObject.m_Name",
+   "text": "Crystalbase (1)"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 33,
+   "field": "GameObject.m_Name",
+   "text": "Crystalbase"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 45,
+   "field": "GameObject.m_Name",
+   "text": "benchlampOFF"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 46,
+   "field": "GameObject.m_Name",
+   "text": "benchlampOFF"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 47,
+   "field": "GameObject.m_Name",
+   "text": "benchlampOFF"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 48,
+   "field": "GameObject.m_Name",
+   "text": "benchlampOFF"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 49,
+   "field": "GameObject.m_Name",
+   "text": "benchlampOFF"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 50,
+   "field": "GameObject.m_Name",
+   "text": "benchlampOFF"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 51,
+   "field": "GameObject.m_Name",
+   "text": "benchlampOFF"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 52,
+   "field": "GameObject.m_Name",
+   "text": "benchlampOFF"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 53,
+   "field": "GameObject.m_Name",
+   "text": "benchlampOFF"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 66,
+   "field": "GameObject.m_Name",
+   "text": "Tentacle (5)"
+  },
+  {
+   "bundle": "0511b1f47bd86d915b30bed895dc3fd4.bundle",
+   "path_id": 67,
+   "field": "GameObject.m_Name",
+   "text": "Tentacle (5)"
+  }
+ ]
+}

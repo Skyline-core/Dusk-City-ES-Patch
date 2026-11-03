@@ -1,0 +1,3509 @@
+{
+  "generated": "2026-11-03 07:39 UTC",
+  "game_path": "G:\\SteamLibrary\\steamapps\\common\\Dusk City",
+  "files_scanned": 7844,
+  "scan_errors": 0,
+  "dialogue_graph_assets": 212,
+  "dialogue_graph_english_strings": 11191,
+  "gamescript_assets_skipped": 1530,
+  "exclude_text_count": 10042,
+  "counts": {
+    "distinct_english_candidates": 150,
+    "distinct_japanese_leaks": 806,
+    "localized_image_instances": 348,
+    "localized_image_unique_names": 89,
+    "english_mono_behaviour": 100,
+    "english_tmp_ui": 4,
+    "english_ui_text": 2,
+    "english_visual_scripting": 44
+  },
+  "class_summary": [
+    {
+      "category": "mono_behaviour",
+      "class": "StrayCatLab.Game.Interactable",
+      "distinct_strings": 24,
+      "hit_records": 24,
+      "top_fields": {
+        "text": 24
+      },
+      "examples": [
+        "Bucephalus ",
+        "Central residential area ",
+        "Eastern ruins ",
+        "Exit",
+        "Go to 2F"
+      ],
+      "files": [
+        "StandaloneWindows64/00876823e433c8400ecb7f3f8327b52a.bundle",
+        "StandaloneWindows64/01dee441eec8ca0573bf4087527ac5d2.bundle",
+        "StandaloneWindows64/02d96c57e8004b1bc067afcb941a6f36.bundle",
+        "StandaloneWindows64/1054e94705b7a1a4bc374a0438bf043b.bundle",
+        "StandaloneWindows64/1fa2644df97e2fd80cefa1d96d366e36.bundle",
+        "StandaloneWindows64/2369d7d122eb7d9b7bc796c031348482.bundle",
+        "StandaloneWindows64/2efbf0848df62ff51a8b1a1c3c01606e.bundle",
+        "StandaloneWindows64/30eff56e84e82f5f6b45330a694c6684.bundle",
+        "StandaloneWindows64/3a7b609e999f6d3fdc182498460fe62d.bundle",
+        "StandaloneWindows64/43cb8d7247b8473365eeb49f88735e5a.bundle",
+        "StandaloneWindows64/45f533a5ae0385377f09fba0556a3b0a.bundle",
+        "StandaloneWindows64/4c8ea3bc5d641b4b0ce907e097d7f1e6.bundle"
+      ]
+    },
+    {
+      "category": "visual_scripting",
+      "class": "Unity.VisualScripting.ScriptMachine",
+      "distinct_strings": 12,
+      "hit_records": 23,
+      "top_fields": {
+        "_data": 23
+      },
+      "examples": [
+        "BookAuthorNaming",
+        "Building",
+        "Digital",
+        "FirstTime",
+        "Goods"
+      ],
+      "files": [
+        "StandaloneWindows64/062275e02e556ceb2fe9aacaee321448.bundle",
+        "StandaloneWindows64/1a567c40a5ff2743fa9d4d06d75ce7d0.bundle",
+        "StandaloneWindows64/1ab99440696c4f54b90b28f50096b877.bundle",
+        "StandaloneWindows64/2354508426180f7b72a30f819cf734ac.bundle",
+        "StandaloneWindows64/2369d7d122eb7d9b7bc796c031348482.bundle",
+        "StandaloneWindows64/25a4bfdc1d8aeccb0de28ea4060e71a1.bundle",
+        "StandaloneWindows64/2b06e9d3ff6fb62c590c40c4047294b9.bundle",
+        "StandaloneWindows64/2efbf0848df62ff51a8b1a1c3c01606e.bundle",
+        "StandaloneWindows64/3ae90fc9d2cc7911178f2fd379447cb9.bundle",
+        "StandaloneWindows64/5837f37436cc0c5d45e55750bc67d2a7.bundle",
+        "StandaloneWindows64/66cec86d6a1d11ce30774035ae4a6f24.bundle",
+        "StandaloneWindows64/71e8e09eaaf2b728a3f532bed5cf0b74.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "UnityEngine.UI.Text",
+      "distinct_strings": 19,
+      "hit_records": 19,
+      "top_fields": {
+        "m_Text": 19
+      },
+      "examples": [
+        "CPU: Processor Model [# cores]",
+        "GPU: Graphics Card Name",
+        "Graphics API: Graphics API version [level ##]",
+        "MB",
+        "OS: OS Version [Platform]"
+      ],
+      "files": [
+        "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "StrayCatLab.Game.ItemData",
+      "distinct_strings": 15,
+      "hit_records": 15,
+      "top_fields": {
+        "description": 14,
+        "itemName": 1
+      },
+      "examples": [
+        "A beautiful light blue gemstone \nUnreadable characters engraved on it\r\n",
+        "Arm parts of junk creatures\r",
+        "Despite its age, it appears to be in good condition without any missing parts \nPerhaps someone would want this...",
+        "Intricately designed with fine details.\nPerhaps someone would want this...\r",
+        "It appears to be from a very ancient era.\nPerhaps someone would want this...\r"
+      ],
+      "files": [
+        "StandaloneWindows64/020418dfb142b6b72cb01ca4e12808e2.bundle",
+        "StandaloneWindows64/0be26495f0e5cd21ecfbba8c7a15ace9.bundle",
+        "StandaloneWindows64/3377a7c168c0e93d5e846dde33f2a207.bundle",
+        "StandaloneWindows64/375816485986db6870a4e3c4ddb0997c.bundle",
+        "StandaloneWindows64/5c721dcbab2dbfb8402dc18c75dd8dcd.bundle",
+        "StandaloneWindows64/700775954cd7c8a9375bbefd0bc44a4f.bundle",
+        "StandaloneWindows64/72f19fd7e882d22a9aac49129f9eb5f7.bundle",
+        "StandaloneWindows64/7a460810653a2cec20f54b859a4a0afc.bundle",
+        "StandaloneWindows64/81763215a129aa85662c4378097d0bfc.bundle",
+        "StandaloneWindows64/901c6bb5e6bd9b3978f7191c06d57725.bundle",
+        "StandaloneWindows64/c137e458caeb12448fdfca58c0e7a64d.bundle",
+        "StandaloneWindows64/e2d3364cd87c2b1bf973d0b862d1a2ae.bundle"
+      ]
+    },
+    {
+      "category": "visual_scripting",
+      "class": "Kanono1Status",
+      "distinct_strings": 1,
+      "hit_records": 14,
+      "top_fields": {
+        "_data": 14
+      },
+      "examples": [
+        "start"
+      ],
+      "files": [
+        "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "TMPro.TextMeshProUGUI",
+      "distinct_strings": 11,
+      "hit_records": 11,
+      "top_fields": {
+        "m_text": 11
+      },
+      "examples": [
+        "Continue",
+        "Fullscreen",
+        "Money",
+        "New Game",
+        "New Text"
+      ],
+      "files": [
+        "StandaloneWindows64/57cd5f06fa66144e14ab0ce0f58d3e01.bundle",
+        "StandaloneWindows64/79adeac04126dce24e2922f9956b07ab.bundle",
+        "StandaloneWindows64/8c0c8cf6d5691b89f5de7f3bdea2cb15.bundle",
+        "StandaloneWindows64/b5746c60487d4a2fe8f0e888b922a61a.bundle",
+        "StandaloneWindows64/c140e1089a0af29932d8ce7bcf16b2da.bundle",
+        "StandaloneWindows64/fe5b6af20b156602993762c975f03883.bundle"
+      ]
+    },
+    {
+      "category": "visual_scripting",
+      "class": "Unity.VisualScripting.StateMachine",
+      "distinct_strings": 6,
+      "hit_records": 7,
+      "top_fields": {
+        "_data": 7
+      },
+      "examples": [
+        "ChipSetStart",
+        "bucephalas",
+        "gonta",
+        "kemomi",
+        "kemozou"
+      ],
+      "files": [
+        "StandaloneWindows64/5c0cd8d25a42420c24865b6f4fb2c902.bundle",
+        "StandaloneWindows64/7a20f175c0584451e23c6497d3492c1d.bundle",
+        "StandaloneWindows64/80f9dee2b4c99aa9b2d239d9477c5872.bundle",
+        "StandaloneWindows64/93eb1074518aa8dfea874ee3ca94bc73.bundle",
+        "StandaloneWindows64/e04ddcc8b08478eec58b9865e8dc6f12.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "MonoBehaviour",
+      "distinct_strings": 6,
+      "hit_records": 6,
+      "top_fields": {
+        "m_text": 6
+      },
+      "examples": [
+        "Button",
+        "Item description is here\nsecond line\nthird line\nfourth line\nfinal line",
+        "ItemNameaaaaaaaaaa",
+        "Lv.1",
+        "XX"
+      ],
+      "files": [
+        "StandaloneWindows64/30eff56e84e82f5f6b45330a694c6684.bundle",
+        "StandaloneWindows64/48a56f995f48713589a803e7a2186721.bundle",
+        "StandaloneWindows64/5175f5673b567866f2a589799cdcfeee.bundle",
+        "StandaloneWindows64/5d5cc509e1255be9543141a47b24d03f.bundle",
+        "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "StandaloneWindows64/96d5a109a8d904d41f87e572595f9c61.bundle",
+        "StandaloneWindows64/a71ee59e8342f89f8b2b9389f1c3e8d9.bundle",
+        "StandaloneWindows64/a836dedb140c637ac82984604faaa40b.bundle",
+        "StandaloneWindows64/d684721adc40149314dd0ad786407fff.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "UnityEngine.Localization.Locale",
+      "distinct_strings": 4,
+      "hit_records": 4,
+      "top_fields": {
+        "m_LocaleName": 3,
+        "m_Identifier": 1
+      },
+      "examples": [
+        "Chinese (Simplified) (zh-CN)",
+        "English (en)",
+        "Japanese (ja)",
+        "zh-CN"
+      ],
+      "files": [
+        "StandaloneWindows64/localization-locales_assets_all.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "StrayCatLab.Utilities.Audio.BGMTrigger",
+      "distinct_strings": 3,
+      "hit_records": 3,
+      "top_fields": {
+        "m_HorizontalAxis": 1,
+        "m_SubmitButton": 1,
+        "m_VerticalAxis": 1
+      },
+      "examples": [
+        "Horizontal",
+        "Submit",
+        "Vertical"
+      ],
+      "files": [
+        "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "UnityEngine.EventSystems.StandaloneInputModule",
+      "distinct_strings": 3,
+      "hit_records": 3,
+      "top_fields": {
+        "m_HorizontalAxis": 1,
+        "m_SubmitButton": 1,
+        "m_VerticalAxis": 1
+      },
+      "examples": [
+        "Horizontal",
+        "Submit",
+        "Vertical"
+      ],
+      "files": [
+        "StandaloneWindows64/2369d7d122eb7d9b7bc796c031348482.bundle",
+        "StandaloneWindows64/2efbf0848df62ff51a8b1a1c3c01606e.bundle",
+        "StandaloneWindows64/3a7b609e999f6d3fdc182498460fe62d.bundle",
+        "StandaloneWindows64/8f263e6a739561332024c144fe812ae4.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "UnityEngine.Localization.Tables.SharedTableData",
+      "distinct_strings": 2,
+      "hit_records": 2,
+      "top_fields": {
+        "m_TableCollectionName": 2
+      },
+      "examples": [
+        "Image",
+        "Translation"
+      ],
+      "files": [
+        "StandaloneWindows64/localization-assets-shared_assets_all.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "UnityEventHolder",
+      "distinct_strings": 2,
+      "hit_records": 2,
+      "top_fields": {
+        "_data": 2
+      },
+      "examples": [
+        "{\"declarations\":{\"Kind\":\"Object\",\"collection\":{\"$content\":[],\"$version\":\"A\"},\"$version\":\"A\"}}",
+        "{\"declarations\":{\"Kind\":\"Scene\",\"collection\":{\"$content\":[],\"$version\":\"A\"},\"$version\":\"A\"}}"
+      ],
+      "files": [
+        "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle"
+      ]
+    },
+    {
+      "category": "tmp_ui",
+      "class": "MonoBehaviour",
+      "distinct_strings": 2,
+      "hit_records": 2,
+      "top_fields": {
+        "m_text": 2
+      },
+      "examples": [
+        "Button",
+        "Item description is here\nsecond line\nthird line\nfourth line\nfinal line"
+      ],
+      "files": [
+        "StandaloneWindows64/30eff56e84e82f5f6b45330a694c6684.bundle",
+        "StandaloneWindows64/48a56f995f48713589a803e7a2186721.bundle",
+        "StandaloneWindows64/5175f5673b567866f2a589799cdcfeee.bundle",
+        "StandaloneWindows64/5d5cc509e1255be9543141a47b24d03f.bundle",
+        "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle",
+        "StandaloneWindows64/96d5a109a8d904d41f87e572595f9c61.bundle",
+        "StandaloneWindows64/a71ee59e8342f89f8b2b9389f1c3e8d9.bundle",
+        "StandaloneWindows64/a836dedb140c637ac82984604faaa40b.bundle",
+        "StandaloneWindows64/d684721adc40149314dd0ad786407fff.bundle"
+      ]
+    },
+    {
+      "category": "ui_text",
+      "class": "UnityEngine.UI.Text",
+      "distinct_strings": 2,
+      "hit_records": 2,
+      "top_fields": {
+        "m_Text": 2
+      },
+      "examples": [
+        "Graphics API: Graphics API version [level ##]",
+        "OS: OS Version [Platform]"
+      ],
+      "files": [
+        "StandaloneWindows64/7ff7bbb50d8963f8cfda64e43d946131.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "BallHitChecer",
+      "distinct_strings": 1,
+      "hit_records": 1,
+      "top_fields": {
+        "targetTagName": 1
+      },
+      "examples": [
+        "Ball"
+      ],
+      "files": [
+        "StandaloneWindows64/3a7b609e999f6d3fdc182498460fe62d.bundle",
+        "StandaloneWindows64/8f263e6a739561332024c144fe812ae4.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "Dieselmine.Utilities.GameVariable.IntVariableTable",
+      "distinct_strings": 1,
+      "hit_records": 1,
+      "top_fields": {
+        "table[24]": 1
+      },
+      "examples": [
+        "0=on 1=off"
+      ],
+      "files": [
+        "StandaloneWindows64/741042f98eeaab65c8941174724e3496.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "DronePawn",
+      "distinct_strings": 1,
+      "hit_records": 1,
+      "top_fields": {
+        "name": 1
+      },
+      "examples": [
+        "Player"
+      ],
+      "files": [
+        "StandaloneWindows64/6335e0f90c7b10563594b702d40fda28.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "ObjectSwitcher",
+      "distinct_strings": 1,
+      "hit_records": 1,
+      "top_fields": {
+        "targetTag": 1
+      },
+      "examples": [
+        "Player"
+      ],
+      "files": [
+        "StandaloneWindows64/6335e0f90c7b10563594b702d40fda28.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "StrayCatLab.Game.MovingPlatform",
+      "distinct_strings": 1,
+      "hit_records": 1,
+      "top_fields": {
+        "animatorCloseFlag": 1
+      },
+      "examples": [
+        "Close"
+      ],
+      "files": [
+        "StandaloneWindows64/0482bb09706c47bb67e5ed335d3bde36.bundle",
+        "StandaloneWindows64/0511b1f47bd86d915b30bed895dc3fd4.bundle",
+        "StandaloneWindows64/1db743cbd7f04fd0c49184e0bc83ca5e.bundle",
+        "StandaloneWindows64/28f90117964d3865ff9695db0906d160.bundle",
+        "StandaloneWindows64/3a85239198c1735a599cc8bcb41e354d.bundle",
+        "StandaloneWindows64/44b26a8d8ea4acb66a6d75ad6763b24f.bundle",
+        "StandaloneWindows64/44c551bd5f2b399169eda95159e78afc.bundle",
+        "StandaloneWindows64/48b7932f6655f51a186d05093899dea4.bundle",
+        "StandaloneWindows64/4b66e60e8d2ceefca930c77c8ade7428.bundle",
+        "StandaloneWindows64/4dcc224562e95a7bcf58faf5a463369a.bundle",
+        "StandaloneWindows64/52e8315c547755abf4dbfefab651019d.bundle",
+        "StandaloneWindows64/57634e2f30475130f36204fc43fd488a.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "StrayCatLab.Game.MovingPlatformController",
+      "distinct_strings": 1,
+      "hit_records": 1,
+      "top_fields": {
+        "targetTagName": 1
+      },
+      "examples": [
+        "Ball"
+      ],
+      "files": [
+        "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "StrayCatLab.Game.SPWeaponLaser",
+      "distinct_strings": 1,
+      "hit_records": 1,
+      "top_fields": {
+        "collisionNormalPropertyName": 1
+      },
+      "examples": [
+        "Collision Normal"
+      ],
+      "files": [
+        "StandaloneWindows64/588050b7be9b67ea9fba4f0680a2f9a8.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "StrayCatLab.Game.SnakeBoss",
+      "distinct_strings": 1,
+      "hit_records": 1,
+      "top_fields": {
+        "bossDisplayName": 1
+      },
+      "examples": [
+        "Big Snake"
+      ],
+      "files": [
+        "StandaloneWindows64/062275e02e556ceb2fe9aacaee321448.bundle",
+        "StandaloneWindows64/d1cd77a6e55be45bd7b21f95dcf0579d.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "StrayCatLab.Game.TrainPusher",
+      "distinct_strings": 1,
+      "hit_records": 1,
+      "top_fields": {
+        "targetTag": 1
+      },
+      "examples": [
+        "Player"
+      ],
+      "files": [
+        "StandaloneWindows64/b7f59acfd1cc3db16e56dcf204f2cf76.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "StrayCatLab.Game.WeaponUpgrade",
+      "distinct_strings": 1,
+      "hit_records": 1,
+      "top_fields": {
+        "description": 1
+      },
+      "examples": [
+        "Range increase "
+      ],
+      "files": [
+        "StandaloneWindows64/20154fa3f7c9c3f5f06571f5ed73e9cf.bundle",
+        "StandaloneWindows64/42a37e43bcb0e35aac5d44a6876f7923.bundle"
+      ]
+    },
+    {
+      "category": "mono_behaviour",
+      "class": "WaterSurface",
+      "distinct_strings": 1,
+      "hit_records": 1,
+      "top_fields": {
+        "m_text": 1
+      },
+      "examples": [
+        "Button"
+      ],
+      "files": [
+        "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle"
+      ]
+    },
+    {
+      "category": "tmp_ui",
+      "class": "TMPro.TextMeshProUGUI",
+      "distinct_strings": 1,
+      "hit_records": 1,
+      "top_fields": {
+        "m_text": 1
+      },
+      "examples": [
+        "New Text"
+      ],
+      "files": [
+        "StandaloneWindows64/fe5b6af20b156602993762c975f03883.bundle"
+      ]
+    },
+    {
+      "category": "tmp_ui",
+      "class": "WaterSurface",
+      "distinct_strings": 1,
+      "hit_records": 1,
+      "top_fields": {
+        "m_text": 1
+      },
+      "examples": [
+        "Button"
+      ],
+      "files": [
+        "StandaloneWindows64/b719a8f92851fd9eca0ca9e68c2250e4.bundle"
+      ]
+    }
+  ],
+  "japanese_by_category": {
+    "mono_behaviour": 500,
+    "tmp_ui": 35,
+    "visual_scripting": 271
+  },
+  "japanese_examples": [
+    {
+      "category": "mono_behaviour",
+      "text": "ArtificialIslandの扉鍵"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "CG回想解放チェック"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "DLC1で新規追加したセリフを表示させるためのフラグ"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "DLC1のチップスを表示したかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "DLC1のチップスを表示後魔女子と話したかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "Decoyと話したかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "Decoyに[Hをお願いする]選択をしたかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "VRDeviceを起動する(二度目)を選択したかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "VRDeviceを起動するを選択したかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "VRdevideを起動するかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "VRデバイス"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "cut015以降ベンチに魔女子さん居ない用"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "「くノ一デート」クリアしたかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "「エステのお姉さんデート」クリアしたかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "「モグラデート」クリアしたかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "「寄贈する」選択肢を選択した事があるかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "「市長デート」クリアしたかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "「温泉へ行こう」クリア"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "「魔女子デート」クリアしたかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "おむすび屋さん"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "おむすび屋さんと話したかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "おむすび屋さんイベントをクリアしたかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "お酒を渡したかどうか"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "お金持ちの屋敷"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "お金持ちの屋敷1"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "お金持ちの屋敷2"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "お金持ちの屋敷3"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "お金持ちの屋敷_10000円"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "お金持ちの屋敷_10000円"
+    },
+    {
+      "category": "mono_behaviour",
+      "text": "お金持ちの屋敷_10000円"
+    }
+  ],
+  "priority_ranking": [
+    {
+      "label": "Component serialized UI copy",
+      "distinct": 100,
+      "approach": "Typetree per MonoBehaviour"
+    },
+    {
+      "label": "Visual Scripting UI literals",
+      "distinct": 44,
+      "approach": "Graph typetree string literals"
+    },
+    {
+      "label": "Prefab TMP / dropdown labels",
+      "distinct": 4,
+      "approach": "Typetree `m_text` / options in scene bundles"
+    },
+    {
+      "label": "Legacy UI Text",
+      "distinct": 2,
+      "approach": "Typetree `m_Text`"
+    },
+    {
+      "label": "Localized `_EN` images",
+      "distinct": 89,
+      "approach": "Replace sprites/textures; keep Addressables names"
+    }
+  ],
+  "errors_sample": [],
+  "player_facing_gameplay": {
+    "Interactable.text (world prompts)": 24,
+    "ItemData (names/descriptions)": 15,
+    "Locale display names (en/zh/ja)": 4,
+    "TMP in-scene (m_text)": 12
+  },
+  "localized_images": [
+    {
+      "name": "result_shark_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -9128254377172661938,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "rantanpop_popup_EN",
+      "width": 860,
+      "height": 846,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -8980733421475008222,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kaisoupop_popup_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -8979614733944976140,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_ALLDigiral_Course_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -8978125754368222882,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Tips_1_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -8963578412278148944,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kaisoupop_yes_EN",
+      "width": 166,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -8829730642397330631,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "TipsS_3_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -8807756229069974476,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "text_cancel_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -8696670397260363242,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "controller_Switch_decision_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -8395863088623393846,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "TipsS_1_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -8361399084626210413,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kounyuu_no_EN",
+      "width": 166,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -8224917329170564326,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "TipsR_3_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -8099738271053675625,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Switch_decision_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -8000357610377492942,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "controller_Switch_page_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -7938006386912512407,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_iwashi_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -7899227898217443396,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_SelectableThankYouVoiceCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -7828077806472747616,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_LargeDotRequest_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -7626723294878591816,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kaisoupop_yes_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -7526791978925128903,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_fish_idle_EN",
+      "width": 146,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -7360695431874326116,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "baikyakupop2_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -7339074244388610084,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "TipsS_1_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -7187747698118487661,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_aji_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -7179907575287138281,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "turiageru_EN",
+      "width": 121,
+      "height": 24,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -6688485898180777983,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kounyuupop1_EN",
+      "width": 561,
+      "height": 210,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -6302613652360991192,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_MajokoSystemVoiceCourse_02_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -6176877531379959796,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_rantan_Active_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -6001184386527054893,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_seahorse_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -5900684909508265164,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_AnimeAnsDigiralCGCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -5801421550595517819,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "rantanpop_popup_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -5789863804472987358,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_map_Active_EN",
+      "width": 154,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -5770586538741396479,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "return_EN",
+      "width": 202,
+      "height": 22,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -5604336992848565081,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_MoguraToyCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -5531804516406971299,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "StaffCredit_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -5323508029815745552,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_rantan_Active_EN",
+      "width": 200,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -4927362693644995629,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_BookAuthorNamingCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -4895716276629604239,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_DioramaCubeCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -4714848307677510220,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Tips_2_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -4687752992406037777,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "settei_back_EN",
+      "width": 248,
+      "height": 62,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -4564627301984589585,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "result_jinbei_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -4552684826106506970,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "return_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -4528876166403969881,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kounyuupop1_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -4505440521583661528,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_jyuumin_Active_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -4453415240970572873,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_map_idle_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -4426896142636124948,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_LimitedPackageCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -4218248337737775946,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Switch_cursor_EN",
+      "width": 97,
+      "height": 19,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -4035895168356507777,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_LimitedPackageCourse_02_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -4026499485363991041,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_InGamePermanent_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -3864728028301637688,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "result_tachiuo_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -3789555727359650017,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "TipsS_3_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -3758682901451320268,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_jyuumin_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -3748693010550210139,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_WallpaperCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -3519704327780249041,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kounyuu_yes_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -3488801226735873265,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_SmallDotRequest_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -3470991037656207581,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "baikyakupop1_EN",
+      "width": 561,
+      "height": 210,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -3306752622411118200,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "return_gamepad_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -3301528848975156803,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Switch_cancel_EN",
+      "width": 113,
+      "height": 17,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -3227426854927875049,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "baikyakupop1_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -3223856978664093304,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_seahorse_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -3219481899030709452,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_WallpaperCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -3205929290025020881,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Tips_3_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -3031446806993749959,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_LargeDotRequest_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -2761971796200942408,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_Credit_ALLGoodsAndDegitalCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -2679300119501408551,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "controller_Switch_cancel_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -2675834485217851791,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kounyuu_no_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -2418746096275195110,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_aji_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -2318361334097528809,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_OriginalTShirtCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -2295340729011031025,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "baikyakupop2_EN",
+      "width": 498,
+      "height": 210,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -2232265874242166820,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Switch_cursor_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -2224736560052822145,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Tips_4_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -2157535152270957757,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_settei_idle_EN",
+      "width": 250,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -2117286103701487635,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_ALLDigiral_Course_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -2003311797875402402,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_MoguraToyCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -1957490164377111459,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "subtitle_DLC1_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -1840764760579430999,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_rantan_idle_EN",
+      "width": 200,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -1668861648444513642,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "stop_EN",
+      "width": 112,
+      "height": 24,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -1638606426573673007,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Tips_1_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -1591957142934253392,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "StaffCredit_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -1466263480469580816,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_fish_idle_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -1131884950037704292,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "TipsR_1_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -1046002090182694501,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_map_Active_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -1000239594011816959,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_jyuumin_idle_EN",
+      "width": 200,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -964383081936774861,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_fish_Active_EN",
+      "width": 146,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -935524747909739282,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "subtitle_DLC1_EN",
+      "width": 910,
+      "height": 113,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -900832670290467415,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_ALLThankYouVoiceCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -655712192961445445,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Switch_page_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -382299680203114878,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_tuna_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -329702147438618947,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_MajokoSystemVoiceCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": -12265204009811780,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_settei_Active_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 121486086318148536,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_ALLThankYouVoiceCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 133302180490445243,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_WallpaperCourse_02_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 268869013186344110,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "result_tachiuo_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 428828238242862879,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "rantanpop2_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 439258456998195943,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_oarfish_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 480148531622126171,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kounyuu_yes_EN",
+      "width": 166,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 542031912340755215,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_ALLDigiral_Course_02_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 544139775383803632,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_BookAuthorNamingCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 668458937683409009,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_MajokoSystemVoiceCourse_02_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 904869129324558348,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "TipsS_2_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 922620214278960699,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_6PieceAcstaSetCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 1086441575393483231,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Tips_4_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 1193118123273069379,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_item_idle_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 1487390895893847639,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "controller_Switch_page_EN",
+      "width": 143,
+      "height": 20,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 1503045919085311593,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "TipsR_2_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 1510766863960188109,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "save_bg_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 1548314339827955852,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "save_bg_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 1671443142709000332,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kaisoupop_popup_EN",
+      "width": 482,
+      "height": 188,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 1759407927545531636,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "TipsR_1_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 1760244534260935067,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_item_Active_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 1764663854523246087,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "TipsS_2_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 1953210153202038331,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_LimitedPackageCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 2336393276270904502,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_settei_idle_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 2341032701576708077,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Jyuumin_charactersentaku_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 2481486460334615668,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kounyuupop2_EN",
+      "width": 498,
+      "height": 210,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 2504319234458383138,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "controller_Switch_cursor_EN",
+      "width": 86,
+      "height": 22,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 2583596430922797972,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "TipsR_3_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 2733418613784609687,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "TipsR_4_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 2736992648047112799,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Jyuumin_characterTab_EN",
+      "width": 194,
+      "height": 274,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 2833844916843538493,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_settei_EN",
+      "width": 1920,
+      "height": 980,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 2928303420003180200,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kounyuu_syojikin_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 2953618049859697127,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_SelectableThankYouVoiceCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 3050622341739554208,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_rantan_idle_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 3187853678782259862,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Tips_3_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 3350096655139682361,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_iwashi_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 3443639571939643324,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_settei_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 3619629865230655144,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_stingray_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 3628613335384107527,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_WallpaperCourse_02_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 3643528547264361646,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_InGamePermanent_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 3692953079950460872,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_Credit_ALLGoodsAndDegitalCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 3799043566312748761,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kounyuu_syojikin_EN",
+      "width": 236,
+      "height": 54,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 3857341965260667367,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_SelectableAcstaCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 3929565320419274127,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_item_idle_EN",
+      "width": 180,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 4082061470637301335,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_ALLDigiral_Course_02_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 4099541370749294320,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Switch_page_EN",
+      "width": 139,
+      "height": 20,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 4314208131933632130,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_jyuumin_EN",
+      "width": 1920,
+      "height": 980,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 4405134588139356581,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_SelectableAcstaCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 4668718666763726223,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_LimitedPackageCourse_02_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 4886757500906900991,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_jyuumin_Active_EN",
+      "width": 200,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 5146611107813288887,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "stop_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 5161558015591935441,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_MajokoSystemVoiceCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 5235624395072323772,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "TipsR_4_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 5297521956233556575,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kounyuupop2_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 5343073857550807842,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_SmallDotRequest_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 5548335249732988707,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Switch_cancel_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 5618111586959737879,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_item_Active_EN",
+      "width": 180,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 5632073266635171335,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kaisoupop_no_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 5756417374356137215,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Jyuumin_characterTab_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 5761910356901455933,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_DioramaCubeCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 5836786803851314612,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "turiageru_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 5907336623336761345,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "controller_Switch_cancel_EN",
+      "width": 112,
+      "height": 22,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 5980742689171736177,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "return_gamepad_EN",
+      "width": 190,
+      "height": 22,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 6372857209750202813,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_6PieceAcstaSetCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 6458108674850118111,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_fish_Active_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 6473824095113235694,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "TipsR_2_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 6721409153482302669,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Tips_2_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 6776693465622780655,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "result_jinbei_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 6800876766827467046,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_settei_Active_EN",
+      "width": 250,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 6824261912685005752,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "controller_Switch_decision_EN",
+      "width": 110,
+      "height": 22,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 6891990456276935626,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Jyuumin_charactersentaku_EN",
+      "width": 315,
+      "height": 44,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 7159532863480310900,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "result_oarfish_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 7365678471398040155,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Switch_decision_EN",
+      "width": 110,
+      "height": 20,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 7656891492283336242,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_OriginalTShirtCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 7783431074411754511,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "text_cancel_EN",
+      "width": 113,
+      "height": 25,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 7810771276111219222,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_map_idle_EN",
+      "width": 154,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 7989665843563099372,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "rantanpop2_EN",
+      "width": 182,
+      "height": 42,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 8051939911171486439,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_jyuumin_idle_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 8104321107403086131,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kaisoupop_no_EN",
+      "width": 166,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 8133774442584630527,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "result_tuna_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 8206223322444191421,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "settei_back_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 8208668926290798831,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "controller_Switch_cursor_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 8226306458245387156,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_AnimeAnsDigiralCGCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 8325667943919342213,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "result_shark_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 8656343197292366158,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_stingray_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_71740f550b08ffbbaf27aee890fc02dd.bundle",
+      "path_id": 8884196480685943303,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_shark_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -9128254377172661938,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "rantanpop_popup_EN",
+      "width": 860,
+      "height": 846,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -8980733421475008222,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kaisoupop_popup_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -8979614733944976140,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_ALLDigiral_Course_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -8978125754368222882,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Tips_1_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -8963578412278148944,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kaisoupop_yes_EN",
+      "width": 166,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -8829730642397330631,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "TipsS_3_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -8807756229069974476,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "text_cancel_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -8696670397260363242,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "controller_Switch_decision_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -8395863088623393846,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "TipsS_1_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -8361399084626210413,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kounyuu_no_EN",
+      "width": 166,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -8224917329170564326,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "TipsR_3_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -8099738271053675625,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Switch_decision_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -8000357610377492942,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "controller_Switch_page_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -7938006386912512407,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_iwashi_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -7899227898217443396,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_SelectableThankYouVoiceCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -7828077806472747616,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_LargeDotRequest_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -7626723294878591816,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kaisoupop_yes_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -7526791978925128903,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_fish_idle_EN",
+      "width": 146,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -7360695431874326116,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "baikyakupop2_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -7339074244388610084,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "TipsS_1_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -7187747698118487661,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_aji_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -7179907575287138281,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "turiageru_EN",
+      "width": 121,
+      "height": 24,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -6688485898180777983,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kounyuupop1_EN",
+      "width": 561,
+      "height": 210,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -6302613652360991192,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_MajokoSystemVoiceCourse_02_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -6176877531379959796,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_rantan_Active_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -6001184386527054893,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_seahorse_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -5900684909508265164,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_HAnimeAnsDigiralCGCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -5801421550595517819,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "rantanpop_popup_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -5789863804472987358,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_map_Active_EN",
+      "width": 154,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -5770586538741396479,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "return_EN",
+      "width": 202,
+      "height": 22,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -5604336992848565081,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_MoguraToyCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -5531804516406971299,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "StaffCredit_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -5323508029815745552,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_rantan_Active_EN",
+      "width": 200,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -4927362693644995629,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_BookAuthorNamingCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -4895716276629604239,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_DioramaCubeCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -4714848307677510220,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Tips_2_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -4687752992406037777,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "settei_back_EN",
+      "width": 248,
+      "height": 62,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -4564627301984589585,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "result_jinbei_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -4552684826106506970,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "return_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -4528876166403969881,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kounyuupop1_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -4505440521583661528,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_jyuumin_Active_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -4453415240970572873,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_map_idle_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -4426896142636124948,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_LimitedPackageCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -4218248337737775946,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Switch_cursor_EN",
+      "width": 97,
+      "height": 19,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -4035895168356507777,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_LimitedPackageCourse_02_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -4026499485363991041,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_InGamePermanent_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3864728028301637688,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "result_tachiuo_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3789555727359650017,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "TipsS_3_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3758682901451320268,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_jyuumin_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3748693010550210139,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_kaisou_idle_EN",
+      "width": 225,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3595075057630235539,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_WallpaperCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3519704327780249041,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kounyuu_yes_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3488801226735873265,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_SmallDotRequest_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3470991037656207581,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "baikyakupop1_EN",
+      "width": 561,
+      "height": 210,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3306752622411118200,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "return_gamepad_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3301528848975156803,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Switch_cancel_EN",
+      "width": 113,
+      "height": 17,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3227426854927875049,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "baikyakupop1_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3223856978664093304,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_seahorse_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3219481899030709452,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_WallpaperCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3205929290025020881,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Tips_3_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -3031446806993749959,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_LargeDotRequest_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -2761971796200942408,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_Credit_ALLGoodsAndDegitalCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -2679300119501408551,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "controller_Switch_cancel_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -2675834485217851791,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_kaisou_Active_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -2596635769717927795,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kounyuu_no_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -2418746096275195110,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_aji_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -2318361334097528809,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_OriginalTShirtCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -2295340729011031025,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "baikyakupop2_EN",
+      "width": 498,
+      "height": 210,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -2232265874242166820,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Switch_cursor_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -2224736560052822145,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Tips_4_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -2157535152270957757,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_settei_idle_EN",
+      "width": 250,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -2117286103701487635,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_ALLDigiral_Course_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -2003311797875402402,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_MoguraToyCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -1957490164377111459,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "subtitle_DLC1_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -1840764760579430999,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_rantan_idle_EN",
+      "width": 200,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -1668861648444513642,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "stop_EN",
+      "width": 112,
+      "height": 24,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -1638606426573673007,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Tips_1_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -1591957142934253392,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "StaffCredit_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -1466263480469580816,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_kaisou_idle_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -1332055087675198355,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_kaisou_Active_EN",
+      "width": 225,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -1315646329281195891,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_fish_idle_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -1131884950037704292,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "TipsR_1_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -1046002090182694501,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_map_Active_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -1000239594011816959,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_jyuumin_idle_EN",
+      "width": 200,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -964383081936774861,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_fish_Active_EN",
+      "width": 146,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -935524747909739282,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "subtitle_DLC1_EN",
+      "width": 910,
+      "height": 113,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -900832670290467415,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_ALLThankYouVoiceCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -655712192961445445,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Switch_page_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -382299680203114878,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_tuna_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -329702147438618947,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_MajokoSystemVoiceCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": -12265204009811780,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_settei_Active_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 121486086318148536,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_ALLThankYouVoiceCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 133302180490445243,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_WallpaperCourse_02_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 268869013186344110,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "result_tachiuo_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 428828238242862879,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "rantanpop2_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 439258456998195943,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_oarfish_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 480148531622126171,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kounyuu_yes_EN",
+      "width": 166,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 542031912340755215,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_ALLDigiral_Course_02_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 544139775383803632,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_BookAuthorNamingCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 668458937683409009,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_MajokoSystemVoiceCourse_02_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 904869129324558348,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "TipsS_2_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 922620214278960699,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_6PieceAcstaSetCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 1086441575393483231,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Tips_4_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 1193118123273069379,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_item_idle_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 1487390895893847639,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "controller_Switch_page_EN",
+      "width": 143,
+      "height": 20,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 1503045919085311593,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "TipsR_2_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 1510766863960188109,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "save_bg_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 1548314339827955852,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "save_bg_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 1671443142709000332,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kaisoupop_popup_EN",
+      "width": 482,
+      "height": 188,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 1759407927545531636,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "TipsR_1_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 1760244534260935067,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_item_Active_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 1764663854523246087,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "TipsS_2_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 1953210153202038331,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_LimitedPackageCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 2336393276270904502,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_settei_idle_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 2341032701576708077,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Jyuumin_charactersentaku_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 2481486460334615668,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kounyuupop2_EN",
+      "width": 498,
+      "height": 210,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 2504319234458383138,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "controller_Switch_cursor_EN",
+      "width": 86,
+      "height": 22,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 2583596430922797972,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "TipsR_3_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 2733418613784609687,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "TipsR_4_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 2736992648047112799,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Jyuumin_characterTab_EN",
+      "width": 194,
+      "height": 274,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 2833844916843538493,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_settei_EN",
+      "width": 1920,
+      "height": 980,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 2928303420003180200,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kounyuu_syojikin_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 2953618049859697127,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_SelectableThankYouVoiceCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 3050622341739554208,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_rantan_idle_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 3187853678782259862,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Tips_3_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 3350096655139682361,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_iwashi_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 3443639571939643324,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_settei_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 3619629865230655144,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_stingray_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 3628613335384107527,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_WallpaperCourse_02_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 3643528547264361646,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_InGamePermanent_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 3692953079950460872,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_Credit_ALLGoodsAndDegitalCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 3799043566312748761,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kounyuu_syojikin_EN",
+      "width": 236,
+      "height": 54,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 3857341965260667367,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_SelectableAcstaCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 3929565320419274127,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_item_idle_EN",
+      "width": 180,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 4082061470637301335,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_ALLDigiral_Course_02_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 4099541370749294320,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Switch_page_EN",
+      "width": 139,
+      "height": 20,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 4314208131933632130,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_jyuumin_EN",
+      "width": 1920,
+      "height": 980,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 4405134588139356581,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_SelectableAcstaCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 4668718666763726223,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_LimitedPackageCourse_02_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 4886757500906900991,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_jyuumin_Active_EN",
+      "width": 200,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 5146611107813288887,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "stop_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 5161558015591935441,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_MajokoSystemVoiceCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 5235624395072323772,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "TipsR_4_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 5297521956233556575,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kounyuupop2_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 5343073857550807842,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_SmallDotRequest_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 5548335249732988707,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Switch_cancel_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 5618111586959737879,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_item_Active_EN",
+      "width": 180,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 5632073266635171335,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "kaisoupop_no_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 5756417374356137215,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Jyuumin_characterTab_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 5761910356901455933,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_DioramaCubeCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 5836786803851314612,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "turiageru_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 5907336623336761345,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "controller_Switch_cancel_EN",
+      "width": 112,
+      "height": 22,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 5980742689171736177,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "return_gamepad_EN",
+      "width": 190,
+      "height": 22,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 6372857209750202813,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_6PieceAcstaSetCourse_01_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 6458108674850118111,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "inventory_fish_Active_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 6473824095113235694,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "TipsR_2_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 6721409153482302669,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Tips_2_EN",
+      "width": 1200,
+      "height": 678,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 6776693465622780655,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "result_jinbei_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 6800876766827467046,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_settei_Active_EN",
+      "width": 250,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 6824261912685005752,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "controller_Switch_decision_EN",
+      "width": 110,
+      "height": 22,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 6891990456276935626,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Jyuumin_charactersentaku_EN",
+      "width": 315,
+      "height": 44,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 7159532863480310900,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "result_oarfish_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 7365678471398040155,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Switch_decision_EN",
+      "width": 110,
+      "height": 20,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 7656891492283336242,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "Credit_OriginalTShirtCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 7783431074411754511,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "text_cancel_EN",
+      "width": 113,
+      "height": 25,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 7810771276111219222,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_map_idle_EN",
+      "width": 154,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 7989665843563099372,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "rantanpop2_EN",
+      "width": 182,
+      "height": 42,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 8051939911171486439,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "inventory_jyuumin_idle_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 8104321107403086131,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "kaisoupop_no_EN",
+      "width": 166,
+      "height": 50,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 8133774442584630527,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "result_tuna_EN",
+      "width": 760,
+      "height": 422,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 8206223322444191421,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "settei_back_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 8208668926290798831,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "controller_Switch_cursor_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 8226306458245387156,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "Credit_HAnimeAnsDigiralCGCourse_01_EN",
+      "width": 1920,
+      "height": 1080,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 8325667943919342213,
+      "unity_type": "Texture2D"
+    },
+    {
+      "name": "result_shark_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 8656343197292366158,
+      "unity_type": "Sprite"
+    },
+    {
+      "name": "result_stingray_EN",
+      "width": 0,
+      "height": 0,
+      "file": "StandaloneWindows64/localization-assets-english(en)_assets_all_2226d8d2b0d3da2279c40b114f5b8f8c.bundle",
+      "path_id": 8884196480685943303,
+      "unity_type": "Sprite"
+    }
+  ]
+}

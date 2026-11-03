@@ -1,0 +1,34 @@
+[
+  {
+    "path_id": -1583898499927490441,
+    "name": "Image Shared Data",
+    "keys": [
+      "m_GameObject",
+      "m_Enabled",
+      "m_Script",
+      "m_Name",
+      "m_TableCollectionName",
+      "m_TableCollectionNameGuidString",
+      "m_Entries",
+      "m_Metadata",
+      "m_KeyGenerator",
+      "references"
+    ]
+  },
+  {
+    "path_id": 8695621273558596008,
+    "name": "Translation Shared Data",
+    "keys": [
+      "m_GameObject",
+      "m_Enabled",
+      "m_Script",
+      "m_Name",
+      "m_TableCollectionName",
+      "m_TableCollectionNameGuidString",
+      "m_Entries",
+      "m_Metadata",
+      "m_KeyGenerator",
+      "references"
+    ]
+  }
+]

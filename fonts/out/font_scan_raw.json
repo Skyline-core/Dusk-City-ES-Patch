@@ -1,0 +1,38 @@
+{
+  "spanish_test_chars": "áéíóúüñÁÉÍÓÚÜÑ¿¡«»…—'\"",
+  "catalog_font_bundle_count": 0,
+  "containers_scanned": 5,
+  "font_objects": [
+    {
+      "kind": "Font",
+      "name": "PerfectDOSVGA437",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\resources.assets",
+      "path_id": 32,
+      "font_data_size": 81192
+    },
+    {
+      "kind": "Font",
+      "name": "LiberationSans",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\resources.assets",
+      "path_id": 33,
+      "font_data_size": 350200
+    }
+  ],
+  "tmp_font_assets": [],
+  "tmp_settings": [],
+  "ttf_cmap": [
+    {
+      "ttf_name": "PerfectDOSVGA437",
+      "error": "a bytes-like object is required, not 'list'",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\resources.assets",
+      "path_id": 32
+    },
+    {
+      "ttf_name": "LiberationSans",
+      "error": "a bytes-like object is required, not 'list'",
+      "container": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\resources.assets",
+      "path_id": 33
+    }
+  ],
+  "scan_errors": []
+}

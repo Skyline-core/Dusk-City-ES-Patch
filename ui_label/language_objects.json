@@ -1,0 +1,495 @@
+[
+  {
+    "file": "57cd5f06fa66144e14ab0ce0f58d3e01.bundle",
+    "path_id": 68,
+    "type": "GameObject",
+    "name": "DropdownWindowSize"
+  },
+  {
+    "file": "57cd5f06fa66144e14ab0ce0f58d3e01.bundle",
+    "path_id": 815,
+    "type": "MonoBehaviour",
+    "name": "",
+    "m_Options": {
+      "m_Options": [
+        {
+          "m_Text": "1920×1080",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "1600×900",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "1280×720",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "640×720",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "file": "79adeac04126dce24e2922f9956b07ab.bundle",
+    "path_id": 46,
+    "type": "GameObject",
+    "name": "DropdownWindowSize"
+  },
+  {
+    "file": "79adeac04126dce24e2922f9956b07ab.bundle",
+    "path_id": 672,
+    "type": "MonoBehaviour",
+    "name": "",
+    "m_Options": {
+      "m_Options": [
+        {
+          "m_Text": "1920×1080",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "m_Text": "1600×900",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "m_Text": "1280×720",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "m_Text": "640×720",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "file": "8c0c8cf6d5691b89f5de7f3bdea2cb15.bundle",
+    "path_id": 46,
+    "type": "GameObject",
+    "name": "DropdownWindowSize"
+  },
+  {
+    "file": "8c0c8cf6d5691b89f5de7f3bdea2cb15.bundle",
+    "path_id": 743,
+    "type": "MonoBehaviour",
+    "name": "",
+    "m_Options": {
+      "m_Options": [
+        {
+          "m_Text": "1920×1080",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "1600×900",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "1280×720",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "640×720",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "file": "b5746c60487d4a2fe8f0e888b922a61a.bundle",
+    "path_id": 68,
+    "type": "GameObject",
+    "name": "DropdownWindowSize"
+  },
+  {
+    "file": "b5746c60487d4a2fe8f0e888b922a61a.bundle",
+    "path_id": 780,
+    "type": "MonoBehaviour",
+    "name": "",
+    "m_Options": {
+      "m_Options": [
+        {
+          "m_Text": "1920×1080",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "1600×900",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "1280×720",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "640×720",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "file": "c140e1089a0af29932d8ce7bcf16b2da.bundle",
+    "path_id": 46,
+    "type": "GameObject",
+    "name": "DropdownWindowSize"
+  },
+  {
+    "file": "c140e1089a0af29932d8ce7bcf16b2da.bundle",
+    "path_id": 707,
+    "type": "MonoBehaviour",
+    "name": "",
+    "m_Options": {
+      "m_Options": [
+        {
+          "m_Text": "1920×1080",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "1600×900",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "1280×720",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "640×720",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "file": "741042f98eeaab65c8941174724e3496.bundle",
+    "path_id": -7104408855834432269,
+    "type": "MonoBehaviour",
+    "name": "",
+    "m_Options": {
+      "m_Options": [
+        {
+          "m_Text": "Option A",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "Option B",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "Option C",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "file": "741042f98eeaab65c8941174724e3496.bundle",
+    "path_id": -6810462390564655885,
+    "type": "MonoBehaviour",
+    "name": "",
+    "m_Options": {
+      "m_Options": [
+        {
+          "m_Text": "1920×1080",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "1600×900",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "1280×720",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "m_Text": "640×720",
+          "m_Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_Color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "file": "741042f98eeaab65c8941174724e3496.bundle",
+    "path_id": -1538232607231808269,
+    "type": "GameObject",
+    "name": "Dropdown"
+  },
+  {
+    "file": "741042f98eeaab65c8941174724e3496.bundle",
+    "path_id": 6766214043829300467,
+    "type": "GameObject",
+    "name": "DropdownWindowSize"
+  },
+  {
+    "file": "localization-asset-tables-chinese(simplified)(zh-cn)_assets_all.bundle",
+    "path_id": -1202298821164512455,
+    "type": "MonoBehaviour",
+    "name": "Image_zh-CN"
+  },
+  {
+    "file": "localization-asset-tables-japanese(ja)_assets_all.bundle",
+    "path_id": -5346249464732513151,
+    "type": "MonoBehaviour",
+    "name": "Image_ja"
+  },
+  {
+    "file": "localization-locales_assets_all.bundle",
+    "path_id": -8391707851027967870,
+    "type": "MonoBehaviour",
+    "name": "Japanese (ja)"
+  },
+  {
+    "file": "localization-locales_assets_all.bundle",
+    "path_id": -1395074884649563235,
+    "type": "MonoBehaviour",
+    "name": "English (en)"
+  },
+  {
+    "file": "localization-locales_assets_all.bundle",
+    "path_id": 3537767062343353821,
+    "type": "MonoBehaviour",
+    "name": "Chinese (Simplified) (zh-CN)"
+  },
+  {
+    "file": "localization-string-tables-chinese(simplified)(zh-cn)_assets_all.bundle",
+    "path_id": 7526941134068101241,
+    "type": "MonoBehaviour",
+    "name": "Translation_zh-CN"
+  },
+  {
+    "file": "localization-string-tables-english(en)_assets_all.bundle",
+    "path_id": -4522133524261893760,
+    "type": "MonoBehaviour",
+    "name": "Translation_en"
+  },
+  {
+    "file": "localization-string-tables-japanese(ja)_assets_all.bundle",
+    "path_id": -7110370581203954144,
+    "type": "MonoBehaviour",
+    "name": "Translation_ja"
+  },
+  {
+    "file": "localization-asset-tables-english(en)_assets_all.bundle",
+    "path_id": -2999617540528971589,
+    "type": "MonoBehaviour",
+    "name": "Image_en"
+  }
+]

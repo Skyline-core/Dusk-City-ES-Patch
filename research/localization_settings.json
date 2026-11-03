@@ -1,0 +1,131 @@
+[
+  {
+    "bundle": "localization-locales_assets_all.bundle",
+    "name": "Japanese (ja)",
+    "keys": [
+      "m_GameObject",
+      "m_Enabled",
+      "m_Script",
+      "m_Name",
+      "m_Identifier",
+      "m_Metadata",
+      "m_LocaleName",
+      "m_CustomFormatCultureCode",
+      "m_UseCustomFormatter",
+      "m_SortOrder",
+      "references"
+    ],
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4806130755568216638
+      },
+      "m_Name": "Japanese (ja)",
+      "m_Identifier": {
+        "m_Code": "ja"
+      },
+      "m_Metadata": {
+        "m_Items": []
+      },
+      "m_LocaleName": "Japanese (ja)",
+      "m_CustomFormatCultureCode": "",
+      "m_UseCustomFormatter": 0,
+      "m_SortOrder": 10000,
+      "references": {
+        "version": 2,
+        "RefIds": []
+      }
+    }
+  },
+  {
+    "bundle": "localization-locales_assets_all.bundle",
+    "name": "English (en)",
+    "keys": [
+      "m_GameObject",
+      "m_Enabled",
+      "m_Script",
+      "m_Name",
+      "m_Identifier",
+      "m_Metadata",
+      "m_LocaleName",
+      "m_CustomFormatCultureCode",
+      "m_UseCustomFormatter",
+      "m_SortOrder",
+      "references"
+    ],
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4806130755568216638
+      },
+      "m_Name": "English (en)",
+      "m_Identifier": {
+        "m_Code": "en"
+      },
+      "m_Metadata": {
+        "m_Items": []
+      },
+      "m_LocaleName": "English (en)",
+      "m_CustomFormatCultureCode": "",
+      "m_UseCustomFormatter": 0,
+      "m_SortOrder": 10000,
+      "references": {
+        "version": 2,
+        "RefIds": []
+      }
+    }
+  },
+  {
+    "bundle": "localization-locales_assets_all.bundle",
+    "name": "Chinese (Simplified) (zh-CN)",
+    "keys": [
+      "m_GameObject",
+      "m_Enabled",
+      "m_Script",
+      "m_Name",
+      "m_Identifier",
+      "m_Metadata",
+      "m_LocaleName",
+      "m_CustomFormatCultureCode",
+      "m_UseCustomFormatter",
+      "m_SortOrder",
+      "references"
+    ],
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4806130755568216638
+      },
+      "m_Name": "Chinese (Simplified) (zh-CN)",
+      "m_Identifier": {
+        "m_Code": "zh-CN"
+      },
+      "m_Metadata": {
+        "m_Items": []
+      },
+      "m_LocaleName": "Chinese (Simplified) (zh-CN)",
+      "m_CustomFormatCultureCode": "",
+      "m_UseCustomFormatter": 0,
+      "m_SortOrder": 10000,
+      "references": {
+        "version": 2,
+        "RefIds": []
+      }
+    }
+  }
+]

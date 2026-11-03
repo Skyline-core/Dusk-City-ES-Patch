@@ -1,0 +1,29 @@
+# --- Salida compilada: va como asset del Release, no al repo ---
+patch_en_slot/files/
+patch_en_slot/*.rar
+patch_en_slot/*.zip
+*.zip
+*.rar
+
+# --- Salidas intermedias / pruebas ---
+bundle_builder/out/
+catalog_tool/out/
+ui_label/out/
+**/_test_out/
+**/__pycache__/
+*.pyc
+_inspect*
+
+# --- Material del juego (no se sube): se regenera con los scripts ---
+research/il2cpp_dump/
+images/original/
+images/CONTACT_SHEET_*.png
+
+# --- Archivos de trabajo del traductor ---
+*.bank
+es_source_dialogues.user_backup.json
+
+# --- Basura del sistema / editor ---
+Thumbs.db
+.vs/
+.vscode/

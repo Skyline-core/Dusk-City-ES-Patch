@@ -1,0 +1,292 @@
+{
+  "localization-locales_assets_all.bundle": [
+    {
+      "path_id": -8391707851027967870,
+      "type": "MonoBehaviour",
+      "name": "Japanese (ja)",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "m_Identifier",
+        "m_Metadata",
+        "m_LocaleName",
+        "m_CustomFormatCultureCode",
+        "m_UseCustomFormatter",
+        "m_SortOrder",
+        "references"
+      ],
+      "m_LocaleName": "Japanese (ja)",
+      "m_Name": "Japanese (ja)",
+      "trimmed": {
+        "m_Name": "Japanese (ja)",
+        "m_LocaleName": "Japanese (ja)"
+      }
+    },
+    {
+      "path_id": -1395074884649563235,
+      "type": "MonoBehaviour",
+      "name": "English (en)",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "m_Identifier",
+        "m_Metadata",
+        "m_LocaleName",
+        "m_CustomFormatCultureCode",
+        "m_UseCustomFormatter",
+        "m_SortOrder",
+        "references"
+      ],
+      "m_LocaleName": "English (en)",
+      "m_Name": "English (en)",
+      "trimmed": {
+        "m_Name": "English (en)",
+        "m_LocaleName": "English (en)"
+      }
+    },
+    {
+      "path_id": 3537767062343353821,
+      "type": "MonoBehaviour",
+      "name": "Chinese (Simplified) (zh-CN)",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "m_Identifier",
+        "m_Metadata",
+        "m_LocaleName",
+        "m_CustomFormatCultureCode",
+        "m_UseCustomFormatter",
+        "m_SortOrder",
+        "references"
+      ],
+      "m_LocaleName": "Chinese (Simplified) (zh-CN)",
+      "m_Name": "Chinese (Simplified) (zh-CN)",
+      "trimmed": {
+        "m_Name": "Chinese (Simplified) (zh-CN)",
+        "m_LocaleName": "Chinese (Simplified) (zh-CN)"
+      }
+    }
+  ],
+  "7ff7bbb50d8963f8cfda64e43d946131.bundle": [
+    {
+      "path_id": -7012774264602660159,
+      "type": "MonoBehaviour",
+      "name": "default",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "m_ImportedWithErrors",
+        "m_ImportedWithWarnings",
+        "m_Rules",
+        "m_ComplexSelectors",
+        "floats",
+        "dimensions",
+        "colors",
+        "strings",
+        "assets",
+        "imports",
+        "m_FlattenedImportedStyleSheets",
+        "m_ContentHash",
+        "scalableImages"
+      ],
+      "trimmed": {
+        "m_Rules": [
+          {
+            "m_Properties": [
+              {
+                "m_Name": "--theme-dropdown-accent-border-color"
+              },
+              {
+                "m_Name": "--theme-image-dropdown"
+              }
+            ]
+          },
+          {
+            "m_Properties": [
+              {
+                "m_Name": "--unity-colors-dropdown-background"
+              },
+              {
+                "m_Name": "--unity-colors-dropdown-background-hover"
+              },
+              {
+                "m_Name": "--unity-colors-dropdown-border"
+              },
+              {
+                "m_Name": "--unity-colors-dropdown-text"
+              },
+              {
+                "m_Name": "--unity-colors-dropdown-border_accent"
+              }
+            ]
+          }
+        ],
+        "m_ComplexSelectors": [
+          {
+            "m_Selectors": [
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown__container-outer"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "m_Selectors": [
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "m_Selectors": [
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown__container-inner"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "m_Selectors": [
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown__item"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "m_Selectors": [
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown__item"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "m_Selectors": [
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown__checkmark"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "m_Selectors": [
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown__item"
+                  }
+                ]
+              },
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown__checkmark"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "m_Selectors": [
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown__item"
+                  }
+                ]
+              },
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown__checkmark"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "m_Selectors": [
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown__item"
+                  }
+                ]
+              },
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown__checkmark"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "m_Selectors": [
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown__item"
+                  }
+                ]
+              },
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown__label"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "m_Selectors": [
+              {
+                "m_Parts": [
+                  {
+                    "m_Value": "unity-base-dropdown__separator"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "strings": [
+          "UIPackageResources/Images/Vanilla/dropdown-arrow.png",
+          "UIPackageResources/Images/Vanilla/dropdown-arrow.png",
+          "UIPackageResources/Images/Vanilla/dropdown-arrow.png",
+          "UIPackageResources/Images/Vanilla/dropdown-arrow.png"
+        ]
+      }
+    }
+  ]
+}

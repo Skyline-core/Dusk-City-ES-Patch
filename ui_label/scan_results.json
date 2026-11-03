@@ -1,0 +1,135 @@
+{
+  "binary_hit_count": 16,
+  "binary_hits": [
+    {
+      "file": "0b7aa32ca779d12da21e24ee05033136.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\0b7aa32ca779d12da21e24ee05033136.bundle",
+      "kind": "binary",
+      "needles": [
+        "Japanese"
+      ]
+    },
+    {
+      "file": "3400396f9feaf6bfcfca7e6287f7b6ea.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\3400396f9feaf6bfcfca7e6287f7b6ea.bundle",
+      "kind": "binary",
+      "needles": [
+        "Japanese"
+      ]
+    },
+    {
+      "file": "3abdd89ab73ee50cf0b23374c448afb0.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\3abdd89ab73ee50cf0b23374c448afb0.bundle",
+      "kind": "binary",
+      "needles": [
+        "Japanese"
+      ]
+    },
+    {
+      "file": "3e9d97cd2f0708bf11da776f7071379d.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\3e9d97cd2f0708bf11da776f7071379d.bundle",
+      "kind": "binary",
+      "needles": [
+        "Japanese"
+      ]
+    },
+    {
+      "file": "44b26a8d8ea4acb66a6d75ad6763b24f.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\44b26a8d8ea4acb66a6d75ad6763b24f.bundle",
+      "kind": "binary",
+      "needles": [
+        "Japanese"
+      ]
+    },
+    {
+      "file": "4b66e60e8d2ceefca930c77c8ade7428.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\4b66e60e8d2ceefca930c77c8ade7428.bundle",
+      "kind": "binary",
+      "needles": [
+        "Japanese"
+      ]
+    },
+    {
+      "file": "4dcc224562e95a7bcf58faf5a463369a.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\4dcc224562e95a7bcf58faf5a463369a.bundle",
+      "kind": "binary",
+      "needles": [
+        "Japanese"
+      ]
+    },
+    {
+      "file": "57447826a321bf2efcdc6050b0292aa1.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\57447826a321bf2efcdc6050b0292aa1.bundle",
+      "kind": "binary",
+      "needles": [
+        "Japanese"
+      ]
+    },
+    {
+      "file": "741042f98eeaab65c8941174724e3496.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\741042f98eeaab65c8941174724e3496.bundle",
+      "kind": "binary",
+      "needles": [
+        "Japanese"
+      ]
+    },
+    {
+      "file": "a00dabdeecadfc593b5686d676f94d95.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\a00dabdeecadfc593b5686d676f94d95.bundle",
+      "kind": "binary",
+      "needles": [
+        "Japanese"
+      ]
+    },
+    {
+      "file": "b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\b719a8f92851fd9eca0ca9e68c2250e4.bundle",
+      "kind": "binary",
+      "needles": [
+        "Japanese"
+      ]
+    },
+    {
+      "file": "ce88d2efd984094917e3f0f08fbc5be0.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\ce88d2efd984094917e3f0f08fbc5be0.bundle",
+      "kind": "binary",
+      "needles": [
+        "Japanese"
+      ]
+    },
+    {
+      "file": "dlc1_assets_sub_003_2_1_a8c1a9af79c2a0648e1f48cca0283706.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\DLC1\\StandaloneWindows64\\dlc1_assets_sub_003_2_1_a8c1a9af79c2a0648e1f48cca0283706.bundle",
+      "kind": "binary",
+      "needles": [
+        "Japanese"
+      ]
+    },
+    {
+      "file": "dlc1_assets_treasure_japanesesake_b67b13240c5c2769ecdfc5e267afae11.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\DLC1\\StandaloneWindows64\\dlc1_assets_treasure_japanesesake_b67b13240c5c2769ecdfc5e267afae11.bundle",
+      "kind": "binary",
+      "needles": [
+        "Japanese"
+      ]
+    },
+    {
+      "file": "globalgamemanagers.assets",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\globalgamemanagers.assets",
+      "kind": "binary",
+      "needles": [
+        "Language"
+      ]
+    },
+    {
+      "file": "localization-locales_assets_all.bundle",
+      "full": "E:\\Users\\ah_3m\\Documents\\gits\\Dusk City\\Dusk City_Data\\StreamingAssets\\aa\\StandaloneWindows64\\localization-locales_assets_all.bundle",
+      "kind": "binary",
+      "needles": [
+        "English",
+        "English (en)"
+      ]
+    }
+  ],
+  "unitypy_hits": []
+}

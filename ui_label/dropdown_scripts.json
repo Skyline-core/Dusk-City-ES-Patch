@@ -1,0 +1,145 @@
+{
+  "dropdown_components": [
+    {
+      "path_id": 6956434973078547699,
+      "unity_type": "RectTransform"
+    },
+    {
+      "path_id": 2712655708641848563,
+      "unity_type": "CanvasRenderer"
+    },
+    {
+      "path_id": 1640437448010788083,
+      "unity_type": "MonoBehaviour",
+      "script": null,
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "m_Material",
+        "m_Color",
+        "m_RaycastTarget",
+        "m_RaycastPadding",
+        "m_Maskable",
+        "m_OnCullStateChanged",
+        "m_Sprite",
+        "m_Type",
+        "m_PreserveAspect",
+        "m_FillCenter",
+        "m_FillMethod",
+        "m_FillAmount",
+        "m_FillClockwise",
+        "m_FillOrigin",
+        "m_UseSpriteMesh",
+        "m_PixelsPerUnitMultiplier"
+      ]
+    },
+    {
+      "path_id": -7104408855834432269,
+      "unity_type": "MonoBehaviour",
+      "script": [
+        "TMP_Dropdown",
+        "TMPro"
+      ],
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "m_Navigation",
+        "m_Transition",
+        "m_Colors",
+        "m_SpriteState",
+        "m_AnimationTriggers",
+        "m_Interactable",
+        "m_TargetGraphic",
+        "m_Template",
+        "m_CaptionText",
+        "m_CaptionImage",
+        "m_Placeholder",
+        "m_ItemText",
+        "m_ItemImage",
+        "m_Value",
+        "m_MultiSelect",
+        "m_Options",
+        "m_OnValueChanged",
+        "m_AlphaFadeSpeed"
+      ],
+      "m_Options": {
+        "m_Options": [
+          {
+            "m_Text": "Option A",
+            "m_Image": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_Color": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          {
+            "m_Text": "Option B",
+            "m_Image": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_Color": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          {
+            "m_Text": "Option C",
+            "m_Image": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_Color": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "path_id": 5402053862990179571,
+      "unity_type": "MonoBehaviour",
+      "script": [
+        "UISound",
+        "StrayCatLab.Game"
+      ],
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "onSelectSE",
+        "onSubmitSE"
+      ]
+    },
+    {
+      "path_id": -8961996047486980877,
+      "unity_type": "MonoBehaviour",
+      "script": [
+        "PauseMenuDropdownClicker",
+        ""
+      ],
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "uiElements"
+      ]
+    }
+  ]
+}
